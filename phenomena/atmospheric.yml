@@ -1,0 +1,38 @@
+# Atmospheric Phenomena
+# Cloud formations, wave clouds, noctilucent clouds, roll clouds
+
+mammatus_clouds:
+  context: Pouch-like cloud protrusions from sinking cold air; buoyancy instability in cumulonimbus anvils.
+  glsl_relevance: medium # cloud_forms, atmospheric_patterns
+  related: [convection, buoyancy, cumulonimbus]
+  tags: [meteorology, clouds, geophysics]
+
+kelvin_helmholtz_clouds:
+  context: Billow cloud formations from shear instability at atmospheric inversion layers; breaking wave appearance.
+  glsl_relevance: high # cloud_waves, atmospheric_instability
+  related: [kelvin_helmholtz, shear, atmospheric_waves]
+  tags: [meteorology, clouds, fluids]
+
+lenticular_clouds:
+  context: Lens-shaped orographic clouds in standing waves downwind of mountains; UFO-like formations.
+  glsl_relevance: medium # mountain_waves, standing_waves
+  related: [orographic_lift, wave_clouds, atmospheric_waves]
+  tags: [meteorology, clouds, waves]
+
+von_karman_vortex_street:
+  context: Alternating vortex shedding downstream of obstacles; periodic wake patterns visible in clouds/ocean.
+  glsl_relevance: high # vortex_shedding, periodic_flows, wakes
+  related: [vorticity, periodic_structures, fluid_dynamics]
+  tags: [fluids, geophysics, patterns]
+
+noctilucent_clouds:
+  context: Polar mesospheric ice crystal clouds at twilight; highest clouds in atmosphere, nacreous iridescence.
+  glsl_relevance: medium # high_atmosphere, ice_crystals, twilight
+  related: [mesosphere, ice, scattering, nacreous]
+  tags: [meteorology, clouds, optics]
+
+roll_clouds:
+  context: Horizontal tubular cloud formations from solitary wave propagation; morning glory phenomenon.
+  glsl_relevance: medium # soliton, wave_clouds, horizontal_vortices
+  related: [solitary_waves, atmospheric_waves, vortices]
+  tags: [meteorology, clouds, waves]

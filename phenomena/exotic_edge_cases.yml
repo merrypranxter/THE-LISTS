@@ -1,0 +1,20 @@
+# Exotic Edge Cases - Unusual physical phenomena
+# Ferrofluids, chemical gardens, non-Newtonian fluids
+
+ferrofluids:
+  context: Colloidal magnetic fluids forming spike/labyrinth patterns under magnetic fields; Rosensweig instability.
+  glsl_relevance: high # magnetic_fluids, spikes, instabilities
+  related: [magnetic_field, surface_instability, colloids]
+  tags: [materials, magnetism, fluids]
+
+chemical_gardens:
+  context: Osmotic growth of metal salt precipitation in silicate solution; tubular fractal structures.
+  glsl_relevance: medium # precipitation, osmosis, growth_tubes
+  related: [precipitation, osmosis, crystal_growth, tubes]
+  tags: [chemistry, materials, growth]
+
+non_newtonian_fluids:
+  context: Shear-dependent viscosity (dilatant/shear-thinning); oobleck, viscoelastic behavior.
+  glsl_relevance: low # rheology, shear_thickening
+  related: [viscosity, rheology, shear, complex_fluids]
+  tags: [fluids, materials, mechanics]

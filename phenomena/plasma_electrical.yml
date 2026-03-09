@@ -1,0 +1,32 @@
+# Plasma & Electrical Phenomena
+# Discharge patterns, aurora, dielectric breakdown, atmospheric electricity
+
+lichtenberg_figures:
+  context: Fractal branching discharge patterns from dielectric breakdown in solids; electron treeing in acrylic.
+  glsl_relevance: high # lightning_fractals, discharge_patterns, branching
+  related: [dielectric_breakdown, fractals, discharge, branching]
+  tags: [plasma, electricity, fractals]
+
+aurora:
+  context: Magnetospheric charged particle precipitation exciting atmospheric gases; Birkeland currents creating curtain/ribbon morphologies.
+  glsl_relevance: medium # atmospheric_effects, polar_lights
+  related: [magnetohydrodynamics, birkeland_currents, ionization, solar_wind]
+  tags: [plasma, geophysics, atmosphere]
+
+dielectric_breakdown:
+  context: Catastrophic conductivity increase in insulators under high electric field; avalanche ionization leading to discharge channels.
+  glsl_relevance: medium # lightning, sparks, failure_modes
+  related: [lichtenberg, conductivity, ionization]
+  tags: [electromagnetism, materials, plasma]
+
+corona_discharge:
+  context: Partial electrical breakdown in high-field regions near conductors; St. Elmo's fire, ion wind.
+  glsl_relevance: low # atmospheric_electricity, glow_effects
+  related: [plasma, high_voltage, ionization]
+  tags: [electromagnetism, atmosphere]
+
+sprites_jets_elves:
+  context: Transient luminous events (TLEs) above thunderstorms; mesospheric plasma discharges (red sprites, blue jets, elves).
+  glsl_relevance: low # atmospheric_phenomena, upper_atmosphere
+  related: [lightning, ionosphere, plasma, thunderstorms]
+  tags: [geophysics, atmosphere, plasma]
