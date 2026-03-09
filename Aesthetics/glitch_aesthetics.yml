@@ -1,0 +1,32 @@
+# Glitch Aesthetics - Digital corruption and decay visual styles
+# Compression artifacts, analog decay, digital corruption
+
+compression_artifacts:
+  - deep_fried
+  - jpeg_rot
+  - bit_crushed
+  - buffer_glitched
+  - frame_dropped
+  - chromatic_aberration
+  - datamosh
+  - vaporwave_glitch
+
+analog_decay:
+  - vhs_degradation
+  - crt_flicker
+  - tracking_error
+  - signal_snow
+  - magnetic_decay
+  - pal_distortion
+  - ntsc_fever
+  - beta_tape_afterlife
+
+digital_corruption:
+  - pixel_melt
+  - shader_error
+  - unrendered_shadow
+  - packet_torn
+  - codec_possession
+  - compression_hell
+  - lossy_samsara
+  - noise_elegy
