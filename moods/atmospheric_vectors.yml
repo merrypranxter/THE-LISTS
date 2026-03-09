@@ -1,0 +1,34 @@
+# Atmospheric Vectors - Emotional/atmospheric mood categories
+# Liminal, temporal, sacred/secular, intimacy, chaos moods
+
+liminal:
+  - neon_liminality          # parking lot infinity
+  - backrooms_hallucination
+  - threshold_anxiety
+  - transitional_uncanny
+
+temporal:
+  - synthetic_nostalgia      # false memory
+  - time_sick
+  - chronosick
+  - retrocausal
+  - eternity_glitched
+
+sacred_secular:
+  - videodrome_theology      # screen religion
+  - cybernetic_godform
+  - digital_entropy_worship
+  - synthetic_eschaton
+  - post_eschatonic_resonance
+
+intimacy:
+  - virtual_intimacy         # networked affection
+  - machine_longing
+  - post_human_empathy
+  - latency_love
+
+chaos:
+  - ytp_energy               # hyperedit meltdown
+  - neurotic_chaos           # cognitive overload
+  - brainrot                 # meme infection
+  - nonsense_engine          # absurd loop
