@@ -1,0 +1,130 @@
+{
+  "domain": "Higher Categorical & Quantum Mathematical Structures",
+  "description": "Advanced structures from six-functor formalism to quantum codes",
+  "subdomains": {
+    "7.1_foundational_formalisms": {
+      "continuous_six_functor": {
+        "spaces": "Locally compact Hausdorff spaces",
+        "sheaves": "Shv(X;Sp) spectral sheaves",
+        "descent_types": [
+          "canonical",
+          "profinite",
+          "hyperdescent"
+        ]
+      },
+      "infinity_category_theory": {
+        "types": [
+          "Presentable",
+          "stable",
+          "dualizable"
+        ],
+        "principles": [
+          "initiality",
+          "universality"
+        ]
+      }
+    },
+    "7.2_algebraic_combinatorial": {
+      "combinatorial_hopf_superalgebras": {
+        "theory": "Aguiar-Bergeron-Sottile theory in superspace",
+        "functions": "quasi-symmetric functions with parity"
+      },
+      "chromatic_hopf_superalgebras": {
+        "description": "Two-colored graph invariants",
+        "data": "vertex coloring with parity data"
+      },
+      "noncommutative_cluster": {
+        "surfaces": "Marked surfaces with punctures/orbifolds",
+        "actions": "braid group actions",
+        "phenomenon": "noncommutative Laurent phenomenon"
+      }
+    },
+    "7.3_higher_operads": {
+      "generalized_joyal_disks": {
+        "categories": "\u0398_d categories for weak d-categories",
+        "operations": "unary operations with higher structure"
+      },
+      "d_plus_one_operads": {
+        "generalization": "Tamarkin \u0394-colored 2-operad generalization",
+        "machinery": "Deligne conjecture machinery",
+        "desymmetrisation": "lattice path operads desymmetrisation"
+      },
+      "block_decomposition": {
+        "property": "Contractibility in topological/dg condensations"
+      }
+    },
+    "7.4_geometry_topology_moduli": {
+      "crepant_transformation": {
+        "theory": "Genus-zero Gromov-Witten theory",
+        "bundles": "toric stack bundles",
+        "transformations": "symplectic transformations on Givental space",
+        "continuation": "Mellin-Barnes continuation"
+      },
+      "hilbert_schemes_k3": {
+        "invariants": "Reduced Gromov-Witten invariants",
+        "geometry": "holomorphic symplectic geometry"
+      },
+      "elliptic_curves_fano": {
+        "constants": "Elliptic virtual structure constants",
+        "counting": "degree-d curve counting"
+      }
+    },
+    "7.5_symplectic_contact": {
+      "semitoric_integrable": {
+        "classification": "Toric/semitoric classification",
+        "polygons": "decorated polygons",
+        "control": "bifurcation control",
+        "extensions": "hypersemitoric extensions"
+      },
+      "periodic_symplectomorphisms": {
+        "order_2": "non-extendable involutions",
+        "higher_order": "Hamiltonian extensions",
+        "obstructions": "Klein 4-group obstructions"
+      }
+    },
+    "7.6_quantum_algebra": {
+      "degenerate_quantum_gl": {
+        "operators": "L-operators",
+        "matrix": "universal spectral-dependent L-matrix",
+        "construction": "FRT construction"
+      },
+      "equivariant_eilenberg_watts": {
+        "groups": "Locally compact quantum groups",
+        "identification": "Drinfeld center identification"
+      },
+      "crystal_structures": {
+        "categories": "Localized quantum unipotent coordinate categories",
+        "property": "cellular crystal connectedness"
+      },
+      "khovanov_skein_lasagna": {
+        "invariants": "Categorified link invariants",
+        "functoriality": "4-manifold cobordism functoriality"
+      }
+    },
+    "7.7_quantum_information": {
+      "bivariate_bicycle_codes": {
+        "type": "Self-dual CSS",
+        "gates": "transversal Clifford gates (CNOT/H/S)",
+        "parameters": [
+          "[[16,4,4]]",
+          "[[152,6,16]]"
+        ]
+      },
+      "twisted_tori": {
+        "enhancements": [
+          "Distance enhancement",
+          "locality optimization"
+        ]
+      },
+      "magnetic_helicity": {
+        "issue": "\u222bF\u2227F failure with monopoles",
+        "embedding": "'t Hooft-Polyakov embedding",
+        "invariants": "winding numbers + Higgs zeros"
+      },
+      "supersymmetric_axionic": {
+        "type": "N=1 SUSY extension of CFJ scenario",
+        "interactions": "axino/photino interactions"
+      }
+    }
+  }
+}

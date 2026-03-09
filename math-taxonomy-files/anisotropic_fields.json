@@ -1,0 +1,52 @@
+{
+  "domain": "Anisotropic Fields",
+  "description": "Director fields, disclinations, tensor material properties (60+ directional terms)",
+  "subdomains": {
+    "15.1_orientation_topology": {
+      "director_fields": [
+        "Uniform",
+        "radial",
+        "circular (vortex)",
+        "spiral",
+        "shear-aligned"
+      ],
+      "defects": {
+        "plus_half_disclination": "comet-tail",
+        "minus_half_disclination": "tri-lobed",
+        "properties": [
+          "winding numbers",
+          "defect braiding"
+        ]
+      },
+      "coherence_length": {
+        "long": "uniform domains",
+        "short": "frequent reorientation",
+        "patchy": "cellular domains"
+      }
+    },
+    "15.2_material_manifestations": {
+      "optical": [
+        "Birefringence",
+        "pleochroism",
+        "angle-dependent hue",
+        "stretched specular lobes (brushed metal)"
+      ],
+      "mechanical": [
+        "Fiber-aligned striations",
+        "columnar grains",
+        "slip bands",
+        "directional fracture"
+      ],
+      "transport": [
+        "Aligned permeability",
+        "diffusion anisotropy",
+        "flow-locked textures"
+      ]
+    },
+    "15.3_procedural_recipes": {
+      "field_first": "One hidden orientation field governs everything; texture combs along field lines",
+      "specular_alignment": "Elongate highlights along field, narrow perpendicular, brushed-metal logic",
+      "defect_seeding": "Insert +1/2 for motion cues, -1/2 for tension knots, cluster into belts/chains"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "domain": "Fractal Optics & Recursive Light",
+  "description": "Recursive light phenomena and chromatic glitch vocabularies (200+ terms)",
+  "subdomains": {
+    "10.1_mathematical_light_phenomena": {
+      "escape_time_gradients": [
+        "orbit trap shimmer",
+        "distance estimator glow",
+        "iteration bloom halos",
+        "domain coloring distortions"
+      ],
+      "recursive_structures": [
+        "recursive light shells",
+        "nested lightforms",
+        "zoom fractal shimmercore",
+        "infinitesimal glow recursion"
+      ],
+      "complex_geometry": [
+        "M\u00f6bius-bound surface light",
+        "complex inversion aura",
+        "conformal map flicker",
+        "hue-wrapped singularities"
+      ]
+    },
+    "10.2_emotional_symbolic_light": {
+      "emotion_encoding": {
+        "shame": "ultraviolet bleed",
+        "joy": "spectral crescents",
+        "grief": "blue-black spirals",
+        "rage": "flare geometry"
+      },
+      "memory_constructs": [
+        "glow-memory trace",
+        "aura of longing in recursive delay",
+        "identity loop through fractal mirrors"
+      ],
+      "light_entities": [
+        "glowform guardian",
+        "bokeh-born sentinel",
+        "spectral priestess in attractor logic",
+        "fractal mirror-beast"
+      ]
+    },
+    "10.3_glitch_vibration": {
+      "phase_resonance": [
+        "phase_desync",
+        "node_burst",
+        "ripple_stutter",
+        "FFT_shear",
+        "lissajous_jump",
+        "harmonic_clip",
+        "cymatic_flash",
+        "chladni_shift"
+      ],
+      "chromatic_glitch": [
+        "RGB_phase_bleed",
+        "huewrap_fracture",
+        "spectral_flare_tear",
+        "chroma_foldshift",
+        "glitchwave_dichrome",
+        "color_moire_rupture"
+      ],
+      "destructive_interference": [
+        "hue feedback annihilation",
+        "gradient collision event",
+        "recursive signal cannibalism",
+        "phasecoil_detune"
+      ]
+    },
+    "10.4_atmospheric_volumetric": [
+      "volumetric iteration mist",
+      "fog of recursion",
+      "shell-mapped atmosphere",
+      "gradient storm pulse",
+      "fractal weatherfront bloom",
+      "ghost lightfield drift",
+      "recursion-fog shroud",
+      "light smear from deep zoom"
+    ]
+  }
+}

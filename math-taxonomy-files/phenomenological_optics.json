@@ -1,0 +1,118 @@
+{
+  "domain": "Material Sciences & Physical Phenomena",
+  "subdomain": "Phenomenological Optics",
+  "description": "Visual phenomena from material ecstasies and soap bubble optics",
+  "phenomena_classes": [
+    {
+      "class": "Dendritic Growth",
+      "keywords": [
+        "diffusion-limited aggregation",
+        "electrodeposition",
+        "phase-field crystal",
+        "fractal branching",
+        "metallic frostwork",
+        "lightning-vein patterns",
+        "oriented attachment"
+      ]
+    },
+    {
+      "class": "Ferrofluid Dynamics",
+      "keywords": [
+        "spike lattice",
+        "magnetic caustics",
+        "magneto-optic effects",
+        "ink-black pyramids",
+        "radial crests",
+        "fluorescent pillars"
+      ]
+    },
+    {
+      "class": "Thin-Film Optics",
+      "keywords": [
+        "thin-film interference",
+        "Newton's rings",
+        "Fabry-P\u00e9rot etalon",
+        "Fresnel reflections",
+        "iridescent spectral bands",
+        "concentric fringes",
+        "oil-slick fire"
+      ]
+    },
+    {
+      "class": "Birefringence & Polarization",
+      "keywords": [
+        "photoelasticity",
+        "optical path difference (OPD)",
+        "crossed polarizers",
+        "neon contour fields",
+        "rainbow stress outlines",
+        "chromatic veils"
+      ]
+    },
+    {
+      "class": "Caustics & Catastrophe Theory",
+      "keywords": [
+        "cusp caustics",
+        "catacaustics",
+        "fold flares",
+        "hooks",
+        "refractive noise curtains",
+        "prismatic plasma"
+      ]
+    },
+    {
+      "class": "Fluid Surface Dynamics",
+      "keywords": [
+        "Marangoni flows",
+        "gravity drainage",
+        "Plateau borders convection",
+        "ribbons",
+        "thickness gradients",
+        "minimal surfaces"
+      ]
+    },
+    {
+      "class": "Reaction-Diffusion Systems",
+      "keywords": [
+        "Turing patterns",
+        "activator-inhibitor",
+        "Belousov-Zhabotinsky",
+        "leopard/maze patches",
+        "electric coral",
+        "nacreous glow"
+      ]
+    },
+    {
+      "class": "Quantum/Condensed Matter",
+      "keywords": [
+        "superfluid vortices",
+        "quantum filaments",
+        "interlaced magenta-cyan threads"
+      ]
+    }
+  ],
+  "visual_signatures": [
+    "glossy",
+    "bright fold",
+    "cusp caustics",
+    "catacaustics",
+    "fold flares",
+    "iridescent spectral bands",
+    "concentric fringes",
+    "oil-slick fire"
+  ],
+  "negative_constraints": [
+    "fingerprints",
+    "dust",
+    "foam clumps",
+    "metallic flakes",
+    "glitter",
+    "diffraction gratings",
+    "cartoon rainbows",
+    "fake chrome",
+    "latex balloons",
+    "AI rainbow filters",
+    "vector icons",
+    "splash stock imagery"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "domain": "Minimal Surfaces",
+  "description": "TPMS families, level-set parameters, photonic lattice structures (50+ surface types)",
+  "subdomains": {
+    "16.1_tpms_families": {
+      "gyroid_G": {
+        "description": "Saddle-web labyrinth",
+        "properties": [
+          "bicontinuous",
+          "chiral"
+        ]
+      },
+      "schwarz_P": {
+        "description": "Primitive - cubic chamber grid",
+        "properties": [
+          "orthogonal tunnels"
+        ]
+      },
+      "schwarz_D": {
+        "description": "Diamond - tetrahedral junctions",
+        "properties": [
+          "double interpenetrating networks"
+        ]
+      },
+      "others": [
+        "Neovius",
+        "Lidinoid",
+        "FKS",
+        "I-WP"
+      ]
+    },
+    "16.2_morphology_language": [
+      "bicontinuous labyrinth",
+      "coral-like network",
+      "trabecular foam",
+      "lace-like filigree",
+      "no self-intersections",
+      "zero mean curvature",
+      "area-minimizing",
+      "infinite periodic maze"
+    ],
+    "16.3_level_set_controls": {
+      "offset": {
+        "zero": "ideal membrane",
+        "positive": "thickened scaffold",
+        "negative": "hollowed skeletal"
+      },
+      "unit_cell_scale": {
+        "large": "architectural caverns",
+        "small": "dense foam",
+        "mixed": "biological realism"
+      },
+      "defects": [
+        "grain boundaries",
+        "zipper seams",
+        "screw dislocations",
+        "domain misalignment scars"
+      ]
+    },
+    "16.4_material_interpretations": [
+      "soap-film translucency",
+      "opalescent polymer",
+      "bone-like scaffold",
+      "photonic crystal iridescence"
+    ]
+  }
+}

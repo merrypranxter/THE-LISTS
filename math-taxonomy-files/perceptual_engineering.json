@@ -1,0 +1,160 @@
+{
+  "domain": "Perceptual Engineering & Visual Hacking",
+  "description": "85+ illusion types with neural mechanisms, GLSL parameters, and prompt vectors",
+  "subdomains": {
+    "6.1_neural_mechanisms": {
+      "foveal_processing": {
+        "range": "0-2\u00b0 eccentricity",
+        "characteristics": [
+          "high-resolution",
+          "color-sensitive",
+          "detail-focused"
+        ]
+      },
+      "peripheral_processing": {
+        "range": ">5\u00b0 eccentricity",
+        "characteristics": [
+          "motion-sensitive",
+          "low-resolution",
+          "color differential"
+        ]
+      },
+      "top_down_modulation": [
+        "HVAs feedback",
+        "recurrent processing",
+        "parietal-EVC gradient"
+      ],
+      "lateral_inhibition": {
+        "mechanism": "Retinal ganglion cells, center-surround antagonism",
+        "effects": [
+          "edge enhancement",
+          "contrast detection"
+        ]
+      }
+    },
+    "6.2_geometric_brightness_illusions": [
+      {
+        "illusion": "Fraser Spiral",
+        "mechanism": "Twisted cord effect, arc tilt relative to tangent",
+        "parameters": {
+          "background": "checkered"
+        }
+      },
+      {
+        "illusion": "Caf\u00e9 Wall",
+        "mechanism": "Parallel lines appear tilted via row offset",
+        "parameters": {
+          "tilt_angle": "5-15\u00b0",
+          "offset": "0.3-0.7\u00d7 brick width",
+          "mortar": "critical"
+        }
+      },
+      {
+        "illusion": "M\u00fcller-Lyer",
+        "mechanism": "Arrowhead direction affects length perception",
+        "parameters": {
+          "apparent_length_difference": "20%"
+        }
+      },
+      {
+        "illusion": "Simultaneous Contrast",
+        "mechanism": "Lateral inhibition, brightness induction",
+        "parameters": {
+          "delta_L": "30-60",
+          "brightness_shift": "up to 30%"
+        }
+      },
+      {
+        "illusion": "Hermann Grid",
+        "mechanism": "ON-center ganglion inhibition at crossings",
+        "parameters": {
+          "grid_width": "2-8px",
+          "spacing": "20-60px"
+        }
+      },
+      {
+        "illusion": "Scintillating Grid",
+        "mechanism": "White dots superimposed on grid intersections",
+        "parameters": {
+          "contrast_polarity": "reversal"
+        }
+      },
+      {
+        "illusion": "Munker-White",
+        "mechanism": "Color assimilation (violates lateral inhibition)",
+        "parameters": {
+          "effect": "Interleaved stripe color shifts"
+        }
+      }
+    ],
+    "6.3_motion_figure_ground": {
+      "peripheral_drift": {
+        "mechanism": "Asymmetric luminance gradients (sawtooth profiles)",
+        "rules": [
+          "dark-to-light motion rule",
+          "pupil dilation modulation (2025 discovery)"
+        ]
+      },
+      "rotating_snakes": {
+        "name": "Kitaoka illusion",
+        "optimal": "0.5-2 cycles/degree at 8\u00b0 eccentricity"
+      },
+      "rubins_vase": {
+        "type": "Bistable perception",
+        "enhancement": "frontoparietal recruitment (3-5\u00d7 enhancement)",
+        "switching_rate": "2-5s"
+      },
+      "kanizsa_triangle": {
+        "type": "Modal completion",
+        "neural_basis": "V2/V4 boundary completion"
+      }
+    },
+    "6.4_moire_interference": {
+      "spatial_beat_frequency": "|S1-S2|/(S1\u00d7S2)",
+      "applications": [
+        "Industrial pose estimation (6-DoF)"
+      ],
+      "removal": "Deep learning (CNN wavelet+spatial domain)"
+    },
+    "6.5_ai_generated_illusions": {
+      "phantasmagoria_gan": {
+        "architecture": "Candidate Generator + Illusion Discriminator (VTS+PQ)",
+        "performance": "70% correct illusion perception"
+      },
+      "diffusion_model_illusions": {
+        "techniques": [
+          "Latent space brightness/color shifts",
+          "visual anagrams"
+        ],
+        "transforms": [
+          "rotation",
+          "inversion",
+          "frequency filtering"
+        ]
+      },
+      "quantum_neural_networks": {
+        "model": "QT-DNN with quantum tunneling activation",
+        "application": "Models Necker cube switching"
+      },
+      "glsl_implementation": {
+        "techniques": [
+          "Asymmetric luminance gradients",
+          "UV coordinate warping"
+        ],
+        "output": "Real-time peripheral drift shaders"
+      },
+      "databending": {
+        "formats": [
+          "PNG",
+          "JPG",
+          "GIF",
+          "FLIF"
+        ],
+        "methods": [
+          "hex editing",
+          "Audacity sonification"
+        ]
+      }
+    }
+  }
+}

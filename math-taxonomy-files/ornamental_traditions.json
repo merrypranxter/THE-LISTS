@@ -1,0 +1,70 @@
+{
+  "domain": "Ornamental Traditions & Cultural Tessellation",
+  "description": "Cultural patterns with negative constraints for AI (distinct from Domain 14's mathematical wallpaper groups)",
+  "subdomains": {
+    "20.1_cultural_ornamental": {
+      "count": 69,
+      "traditions": [
+        "Celtic Knot",
+        "Greek Key",
+        "Islamic Geometric",
+        "Art Deco/Nouveau",
+        "Paisley",
+        "Mandala",
+        "Muqarnas",
+        "Zellige"
+      ]
+    },
+    "20.2_naturalistic_patterns": {
+      "count": 15,
+      "examples": [
+        "Animal print",
+        "Floral",
+        "Geode",
+        "Marble",
+        "Wood Grain",
+        "Sand Dune",
+        "Galaxy"
+      ]
+    },
+    "20.3_digital_technological": {
+      "count": 40,
+      "examples": [
+        "Pixelated",
+        "Circuit Board",
+        "Glitch",
+        "Matrix",
+        "Holographic",
+        "Wireframe",
+        "Laser Grid"
+      ]
+    },
+    "20.4_artistic_techniques": {
+      "count": 20,
+      "examples": [
+        "Graffiti",
+        "Stencil",
+        "Collage",
+        "Spray Paint",
+        "Splatter",
+        "Brush Stroke"
+      ]
+    }
+  },
+  "key_vectors": {
+    "cultural": [
+      "interlace continuity",
+      "arabesque scroll",
+      "meander key",
+      "zellij cut tiles",
+      "papercut negative space"
+    ],
+    "naturalistic": [
+      "vein branching",
+      "dendritic crystal",
+      "turbulent flow",
+      "sedimentary layering"
+    ]
+  },
+  "note": "Distinct from Domain 14's crystallographic wallpaper groups (p1-p6m) - this covers cultural motifs and craft techniques"
+}

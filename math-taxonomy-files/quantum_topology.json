@@ -1,0 +1,56 @@
+{
+  "domain": "Quantum Topological Phenomena",
+  "description": "Quantum Hall phenomena and topological protection systems (35 concepts)",
+  "subdomains": {
+    "9.1_topological_protection": {
+      "bulk_edge_duality": {
+        "description": "Insulating bulk void, luminous boundary currents",
+        "visual": "dark core/radiant rim, one-way edge flow"
+      },
+      "chern_number_invariance": {
+        "geometry": "Genus-based (donut vs sphere)",
+        "properties": [
+          "phase-protected states",
+          "energy gap enforcement"
+        ]
+      },
+      "chiral_edge_states": {
+        "properties": [
+          "Unidirectional current",
+          "backscatter-impossible motion",
+          "constrained quantum drift",
+          "skipping-orbit motion"
+        ]
+      }
+    },
+    "9.2_hofstadter_butterfly": {
+      "description": "Recursive energy wings, forbidden gap lattices",
+      "properties": [
+        "self-similar band structure",
+        "interference-driven recursion"
+      ],
+      "conflict": "Magnetic field vs lattice conflict",
+      "nature": "quantum fractal spectrum"
+    },
+    "9.3_controlled_failure": {
+      "glitch_aesthetics": [
+        "leaky topology",
+        "hot-spot ruptures",
+        "protection breakdown nodes",
+        "localized entropy leaks"
+      ],
+      "containment": [
+        "containment field tears",
+        "glowing failure vertices",
+        "precision collapse points"
+      ]
+    },
+    "9.4_material_textures": [
+      "Electric neon filaments",
+      "cold magnetic glow",
+      "data-stream light trails",
+      "quantum HUD overlays",
+      "scanline halos"
+    ]
+  }
+}

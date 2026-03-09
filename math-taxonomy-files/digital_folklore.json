@@ -1,0 +1,193 @@
+{
+  "domain": "Digital Folklore, Internet Aesthetics & Glitch Methodologies",
+  "description": "5 aesthetic buckets + synesthetic packs + technical glitch recipes (460+ concepts)",
+  "subdomains": {
+    "8.1_glitch_data_rot": {
+      "compression_artifacts": [
+        "JPEG Rot Halo",
+        "Macroblock Quilt",
+        "Banding Sunset",
+        "Chroma Crawl",
+        "Dither Confetti"
+      ],
+      "datamosh_frame_surgery": [
+        "I/P-frame melt (Eucharist)",
+        "Keyframe Collapse",
+        "Interlaced Teeth",
+        "Reverse-Frame Jitter"
+      ],
+      "ui_os_corruption": [
+        "Pop-Up Cathedral",
+        "Blue Screen Reliquary",
+        "404Sublime",
+        "Captcha Oracle",
+        "Update Loop Purgatory"
+      ],
+      "optics_glitch": [
+        "RGB Split Halo",
+        "Gamma Fight",
+        "Scanline Throb"
+      ]
+    },
+    "8.2_vaporwave_pastel": {
+      "palettes": [
+        "Miami Vice Spectrum",
+        "Sakura Cyber Fog",
+        "Peach Void",
+        "Lavender Chrome"
+      ],
+      "architecture": [
+        "Grid Horizon",
+        "Corporate Ruin",
+        "Empty Arcade",
+        "Digital Atlantis",
+        "Hotel Mirage"
+      ],
+      "icons": [
+        "Marble Bust Deity",
+        "Japanese Katakana Strip",
+        "CRT Monitor Shrine",
+        "Windows 95 Ruin"
+      ],
+      "macro_prompts": [
+        "VAPOR MONASTERY",
+        "DEAD MALL DREAM",
+        "BRAND SAINT ALTAR"
+      ]
+    },
+    "8.3_sacred_occult": {
+      "meme_deities": [
+        "Holy Trollface",
+        "Saint Doge",
+        "Pepe the Prophet",
+        "LULZ Pantheon"
+      ],
+      "digital_relics": [
+        "404Reliquary",
+        "Captcha Scroll",
+        "Keyboard Rosary",
+        "Ethernet Cross",
+        "Server Grail"
+      ],
+      "rituals": [
+        "Baptism of Bytes",
+        "Meme Transubstantiation",
+        "Data Pilgrimage",
+        "Glitch Resurrection"
+      ],
+      "architecture": [
+        "Church of the Algorithm",
+        "404Chapel",
+        "Pop-up Cathedral",
+        "Cloud Monastery"
+      ]
+    },
+    "8.4_folk_anonymous": {
+      "collective_identity": [
+        "Faceless Chorus",
+        "Anon Mask Totem",
+        "Comment Swarm",
+        "Username Fossil"
+      ],
+      "folk_characters": [
+        "Anonymous Trickster",
+        "Reply Sage",
+        "Greentext Bard",
+        "Screenshot Witch",
+        "Copypasta Prophet"
+      ],
+      "cultural_materials": [
+        "Reaction Image Bones",
+        "Greentext Scripture",
+        "Thread Quilt",
+        "Meme Folk Mask"
+      ],
+      "habitats": [
+        "Forum Necropolis",
+        "Discord Monastery",
+        "Pixel Commune",
+        "Archive Mausoleum"
+      ]
+    },
+    "8.5_visual_rhetoric": {
+      "structural_rhetoric": [
+        "Visual Enthymeme",
+        "Caption-Image Dialectic",
+        "Juxtaposition Irony",
+        "Rhetorical Remix"
+      ],
+      "detournement": [
+        "Logo sabotage",
+        "Capitalist Realism Meme",
+        "Propaganda Subversion",
+        "Cultural Jamming"
+      ],
+      "diagrammatic_absurdity": [
+        "Fake Infographic",
+        "Conspiracy Aesthetic (red string logic)",
+        "Flowchart Absurdity",
+        "Venn Diagram Irony"
+      ]
+    },
+    "8.6_synesthetic_packs": {
+      "absurd_folk_internet_SYN": {
+        "description": "Dada internet, glitch folklore, post-ironic communion",
+        "sensory": "neon laughter dripping in jpeg syrup"
+      },
+      "neurotic_weird_SYN": {
+        "description": "Anxious surrealism, overstimulated irony",
+        "sensory": "static that tastes like metal, panic wrapped in memes"
+      },
+      "hyper_electric_self_SYN": {
+        "description": "Hyperpop glamour, dopamine overload",
+        "sensory": "electric bubblegum + ultraviolet soda"
+      },
+      "CYBER_BUBBLEGUM_SYN": {
+        "description": "Kawaii futurism, chrome candy, soft-core rave",
+        "sensory": "strawberry static and mint electricity"
+      },
+      "NEON_DADA_SYN": {
+        "description": "Cheerful absurdism, glitch carnival, YTP euphoria",
+        "sensory": "hot sugar + static fizz"
+      }
+    },
+    "8.7_technical_glitch_cookbook": {
+      "datamoshing": [
+        "I-frame removal",
+        "P-frame duplication",
+        "GOP collapse",
+        "FFmpeg codec hacking"
+      ],
+      "pixel_sorting": [
+        "Kim Asendorf algorithms (ASDFPixelSort)",
+        "threshold-based interval selection",
+        "directional sorting (horizontal/vertical/diagonal)"
+      ],
+      "databending": [
+        "Text editor corruption (avoid headers)",
+        "Audacity sonification (import RAW as PCM)",
+        "Hex editing (HxD/HexFiend)",
+        "BMP creation from scratch"
+      ],
+      "cross_format": [
+        "JPG\u2192RAW\u2192MIDI\u2192AVI chains",
+        "compression interruption at 90%"
+      ],
+      "analog_methods": [
+        "VHS tape warping",
+        "CRT feedback loops (Nam June Paik style)",
+        "circuit bending photography"
+      ],
+      "ai_bio_glitches": [
+        "Neural network error propagation",
+        "DNA sequence corruption",
+        "cosmic ray bit flips"
+      ],
+      "automation": [
+        "Python batch processing (PIL/NumPy)",
+        "Processing sketches",
+        "GlitchKernel algorithm stacking"
+      ]
+    }
+  }
+}

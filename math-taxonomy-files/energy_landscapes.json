@@ -1,0 +1,60 @@
+{
+  "domain": "Energy Landscapes",
+  "description": "Attractor basins, saddle dynamics, optimization topology controls (80+ terms)",
+  "subdomains": {
+    "13.1_terrain_features": {
+      "basin_types": {
+        "funnel": "wide paths",
+        "bowl": "robust",
+        "terrace": "stepped",
+        "ravine": "constrained"
+      },
+      "transition_structures": [
+        "Saddle points",
+        "barrier ridges",
+        "narrow corridors",
+        "activation energy barriers"
+      ],
+      "stability_states": [
+        "Metastable false minima",
+        "absorbing states",
+        "marginally stable equilibria"
+      ]
+    },
+    "13.2_dynamics_language": [
+      "gradient descent",
+      "basin hopping",
+      "noise-driven escape",
+      "diffusive wandering",
+      "aging",
+      "relaxation time",
+      "path dependence",
+      "landscape scars"
+    ],
+    "13.3_control_knobs": {
+      "barrier_height": {
+        "high": "Rare transitions",
+        "low": "Frequent hopping"
+      },
+      "ruggedness": {
+        "glassy": "Micro-minima frustration",
+        "smooth": "Deterministic descent"
+      },
+      "global_tilt": [
+        "External forcing",
+        "symmetry breaking",
+        "drift behavior"
+      ],
+      "temperature_noise": [
+        "Blur small features",
+        "soften barriers",
+        "stochastic escape"
+      ]
+    },
+    "13.4_procedural_recipes": {
+      "basin_hierarchy": "One dominant attractor, nested smaller basins, depth=stability, width=tolerance",
+      "saddle_point_drama": "Narrow=precision, wide=inevitability, never allow teleportation between basins",
+      "quench_vs_anneal": "Rapid=freeze micro-basins, Slow=smooth coarsened terrain, Interrupted=layered scars"
+    }
+  }
+}

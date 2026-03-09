@@ -1,0 +1,44 @@
+{
+  "domain": "Wallpaper Symmetries",
+  "description": "17 wallpaper groups, crystallographic lattices, ornamental traditions (96 symmetry keys)",
+  "subdomains": {
+    "14.1_structural_groups": {
+      "frieze_groups": {
+        "count": 7,
+        "types": [
+          "One-direction repeats",
+          "glide reflections",
+          "footprint rhythms"
+        ]
+      },
+      "wallpaper_groups": {
+        "range": "p1 \u2192 p6m",
+        "operations": [
+          "Translation",
+          "rotation (2,3,4,6-fold)",
+          "reflection",
+          "glide-reflection"
+        ]
+      },
+      "lattice_types": [
+        "Primitive",
+        "centered",
+        "hexagonal",
+        "square",
+        "oblique"
+      ]
+    },
+    "14.2_ornamental_traditions": {
+      "alhambra_zellige": "Moorish glazed tilework, turquoise-ochre, arabesque motifs",
+      "muqarnas": "3D stalactite cellular vault geometry, gilded domes",
+      "escher": "Interlocking creatures, morphing angels/fish/lizards, impossible tessellations",
+      "byzantine_gothic": "Gold-blue mosaic, rose-window rib geometry"
+    },
+    "14.3_computational_cosmic": {
+      "voronoi_delaunay": "Cellular foam-map, triangle mesh aesthetics",
+      "hyperbolic_tiling": "Curved-space tessellation, recursive shrinkage, infinite boundary",
+      "quasicrystals": "Aperiodic metallic lattices, fivefold symmetry, Penrose patterns",
+      "morphogenetic": "Reaction-diffusion tiling, zebra/coral stripes, biological patterns"
+    }
+  }
+}

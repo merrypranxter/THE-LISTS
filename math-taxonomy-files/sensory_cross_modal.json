@@ -1,0 +1,33 @@
+{
+  "domain": "Cross-Modal Sensory Systems",
+  "description": "96 synesthetic constructs (acoustic\u2192visual, olfactory\u2192spatial, haptic\u2192luminous)",
+  "subdomains": {
+    "12.1_acoustic_geometry": {
+      "nodal_lines": "Sand migrates to stillness; thin pale particles outlining silent ridges on vibrating plate",
+      "faraday_waves": "Vertically shaken liquid tessellation, honeycomb ripples, phase-locked crests",
+      "sonoluminescent_flash": "UV pulse in dark liquid, single-pixel core with halo"
+    },
+    "12.2_olfactory_visualization": {
+      "turbulent_odor_plume": "Bursty ribbon flow, intermittent packets, curling filaments",
+      "scent_fractal": "Recursive odor topology, branching vapor trees, self-similar curls",
+      "olfactory_cathedral": "Misty vaulted hall, incense hues in columns, shafts through vapor mosaics"
+    },
+    "12.3_haptic_interfaces": {
+      "pinfield_brain_sculpture": "EEG topology, thousands of pins forming hills/valleys per attention state",
+      "haptic_fog_interface": "Invisible pressure veil, thin air pulse curtains, volumetric light catching mist",
+      "tactile_aurora": "Touchable light ribbons, electroluminescent filaments swaying like silk"
+    },
+    "12.4_chromesthetic_systems": {
+      "tone_color_scriabin": {
+        "description": "Circle-of-fifths palette",
+        "mapping": {
+          "C": "red",
+          "G": "orange",
+          "F#": "violet"
+        }
+      },
+      "fft_driven_particles": "Low bins swell forms, mids seed textures, highs sparkle noise",
+      "frequency_bloom": "Spectral flora, petals of amplitude, stems of harmonics"
+    }
+  }
+}

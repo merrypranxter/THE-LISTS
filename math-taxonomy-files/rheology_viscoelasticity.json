@@ -1,0 +1,58 @@
+{
+  "domain": "Rheology & Viscoelasticity",
+  "description": "Non-Newtonian flow behaviors, shear controls, horror modifiers (120+ terms)",
+  "subdomains": {
+    "11.1_material_archetypes": {
+      "dilatant_impact_armor": {
+        "examples": [
+          "Oobleck Golem",
+          "Jamming Shockwave"
+        ],
+        "behavior": "Shear thickening - harder under impact"
+      },
+      "thixotropic_systems": {
+        "examples": [
+          "Time-slow Cauldron",
+          "Gel Bog",
+          "Toothpaste Bulwark"
+        ],
+        "behavior": "Time-dependent liquefaction"
+      },
+      "elastic_phenomena": {
+        "examples": [
+          "Ghost Strings",
+          "Spiderweb Goo",
+          "Weissenberg Climb Mist"
+        ],
+        "behavior": "Memory and recoil effects"
+      }
+    },
+    "11.2_control_legends": {
+      "shear_rate_thickening": {
+        "parameter": "Shear Rate \u2191",
+        "effect": "Shock stiffening, armor formation, granular jamming"
+      },
+      "shear_rate_thinning": {
+        "parameter": "Shear Rate \u2191",
+        "effect": "Flow acceleration, delayed liquefaction"
+      },
+      "yield_stress": {
+        "parameter": "Yield Stress Threshold",
+        "effect": "Catastrophic slump vs. rigid rest"
+      },
+      "elasticity": {
+        "parameter": "Elasticity",
+        "effect": "Snapback recoil, beads-on-a-string, memory trails"
+      },
+      "thixotropy": {
+        "parameter": "Thixotropy",
+        "effect": "Time-dependent solidification, hysteresis webs"
+      }
+    },
+    "11.3_procedural_recipes": {
+      "impact_armor_illusion": "Freeze surface shape at contact frame, allow interior flow delay, crack the frozen shell",
+      "jamming_front": "Moving boundary freezes material ahead, traps bubbles/cracks behind uneven advance",
+      "inconsistency_injection": "Vary thickness locally, break symmetry on purpose, let regions obey different rules"
+    }
+  }
+}

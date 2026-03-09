@@ -1,0 +1,91 @@
+{
+  "domain": "Iterative Geometry & Mathematical Fractals",
+  "description": "100 fractals with formulas, algorithms, code implementations",
+  "subdomains": {
+    "19.1_escape_time_sets": {
+      "count": 40,
+      "examples": [
+        {
+          "name": "Mandelbrot",
+          "formula": "z_{n+1} = z_n^2 + c"
+        },
+        {
+          "name": "Julia",
+          "formula": "z_{n+1} = z_n^2 + c (fixed c)"
+        },
+        {
+          "name": "Tricorn",
+          "formula": "z_{n+1} = conj(z_n)^2 + c"
+        },
+        {
+          "name": "Burning Ship",
+          "formula": "z_{n+1} = (|Re(z_n)| + i|Im(z_n)|)^2 + c"
+        }
+      ]
+    },
+    "19.2_geometric_recursive": {
+      "count": 20,
+      "examples": [
+        "Sierpinski triangle/carpet/pyramid",
+        "Koch snowflake/island",
+        "Cantor set",
+        "Menger Sponge/Curve"
+      ]
+    },
+    "19.3_l_system_fractals": {
+      "count": 30,
+      "examples": [
+        "Barnsley Fern",
+        "Dragon Curve",
+        "Fractal Trees",
+        "Space-filling curves"
+      ],
+      "components": [
+        "axiom",
+        "production rules",
+        "branching angle",
+        "iteration depth"
+      ]
+    },
+    "19.4_3d_higher_dim": {
+      "count": 15,
+      "examples": [
+        "Tetrahedron fractals",
+        "Apollonian sphere packing",
+        "Klein bottle fractals",
+        "Torus knots"
+      ]
+    },
+    "19.5_stochastic_naturalistic": {
+      "count": 35,
+      "examples": [
+        "Lightning",
+        "Coral",
+        "Landscape",
+        "Strange Attractors",
+        "Fractal Cities/Waves"
+      ]
+    }
+  },
+  "key_vectors": {
+    "escape_time": [
+      "iteration depth",
+      "bailout radius",
+      "smooth coloring",
+      "orbit traps",
+      "perturbation"
+    ],
+    "l_systems": [
+      "axiom",
+      "production rules",
+      "branching angle",
+      "iteration depth",
+      "turtle graphics"
+    ],
+    "3d_fractals": [
+      "iterated function systems",
+      "Hausdorff dimension",
+      "self-similarity quotient"
+    ]
+  }
+}

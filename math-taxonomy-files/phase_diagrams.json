@@ -1,0 +1,60 @@
+{
+  "domain": "Phase Diagrams & Critical Phenomena",
+  "description": "Critical phenomena, spinodal patterns, coexistence textures (70+ regime terms)",
+  "subdomains": {
+    "17.1_regime_archetypes": {
+      "coexistence_regions": [
+        "Two-phase patches",
+        "three-phase junctions",
+        "miscibility gaps",
+        "spinodal zones"
+      ],
+      "phase_topologies": [
+        "Critical points",
+        "triple points",
+        "binodal/spinodal curves",
+        "phase domes"
+      ]
+    },
+    "17.2_pattern_morphologies": {
+      "nucleation_dominated": [
+        "Isolated droplets",
+        "growth fronts",
+        "impingement polygons",
+        "Ostwald ripening"
+      ],
+      "spinodal": [
+        "Interpenetrating labyrinthine domains",
+        "bicontinuous networks",
+        "no isolated droplets"
+      ],
+      "arrested": [
+        "Glassy frozen phases",
+        "pinned fronts",
+        "patchy coexistence"
+      ]
+    },
+    "17.3_transition_controls": {
+      "quench_depth": {
+        "shallow": "nucleation islands",
+        "deep": "spinodal decomposition",
+        "fast": "frozen disorder"
+      },
+      "coarsening": {
+        "time_up": "domain growth",
+        "mobility_up": "smooth interfaces",
+        "arrested": "glassy states"
+      },
+      "external_fields": [
+        "Alignment bias",
+        "striped/chevron domains",
+        "drifted boundaries"
+      ]
+    },
+    "17.4_procedural_recipes": {
+      "coexistence_band": "Define band across canvas, allow multiphase inside, enforce purity outside",
+      "history_embedding": "Fine texture=young/quenched, Coarse=old/annealed, Ghost lines persist",
+      "defect_first": "Place seams before filling regions, form triple junctions deliberately, scars feel inevitable"
+    }
+  }
+}

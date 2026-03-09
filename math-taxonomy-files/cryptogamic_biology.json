@@ -1,0 +1,117 @@
+{
+  "domain": "Cryptogamic Biology & Fungal Morphology",
+  "description": "145+ fungal specimens, slime molds, bryophytes, lichens, succulents with morphological vectors",
+  "subdomains": {
+    "18.1_fungal_specimens": {
+      "count": 145,
+      "examples": [
+        "Amanita",
+        "Russula",
+        "Lactarius"
+      ],
+      "morphological_vectors": [
+        "cap shape",
+        "gill structure",
+        "spore color",
+        "latex exudation"
+      ]
+    },
+    "18.2_myxomycetes": {
+      "count": 20,
+      "examples": [
+        "Physarum",
+        "Fuligo",
+        "Stemonitis"
+      ],
+      "textures": "plasmodial"
+    },
+    "18.3_bryophytes": {
+      "count": 15,
+      "types": [
+        "Mosses",
+        "Liverworts",
+        "Hornworts"
+      ],
+      "forms": [
+        "thalloid",
+        "leafy"
+      ]
+    },
+    "18.4_lichens": {
+      "count": 10,
+      "growth_forms": [
+        "Fruticose",
+        "Foliose",
+        "Crustose"
+      ],
+      "examples": [
+        "Usnea",
+        "Xanthoria"
+      ]
+    },
+    "18.5_algae_macrophytes": {
+      "count": 15,
+      "examples": [
+        "Seaweed",
+        "Kelp",
+        "Stoneworts",
+        "Chara"
+      ]
+    },
+    "18.6_vascular_cryptogams": {
+      "count": 10,
+      "examples": [
+        "Adiantum",
+        "Cyrtomium",
+        "Polystichum"
+      ],
+      "type": "Ferns"
+    },
+    "18.7_colonial_fauna": {
+      "count": 10,
+      "examples": [
+        "Membranipora",
+        "Bugula"
+      ],
+      "note": "Bryozoans - animal kingdom but plant-like morphology"
+    },
+    "18.8_xerophytes": {
+      "count": 15,
+      "examples": [
+        "Echeveria",
+        "Aloe",
+        "Haworthia",
+        "Lithops"
+      ],
+      "type": "Succulents with CAM-photosynthesis"
+    }
+  },
+  "ai_prompting_vectors": {
+    "fungal": [
+      "convex/depressed cap",
+      "decurrent gills",
+      "annulus/volva",
+      "latex exudation",
+      "amyloid spores",
+      "botryoidal masses"
+    ],
+    "slime_mold": [
+      "plasmodial veins",
+      "sporangia clusters",
+      "capillitium threads",
+      "lime deposits"
+    ],
+    "bryophyte": [
+      "phyllid arrangement",
+      "thalloid lobing",
+      "gemma cups",
+      "protonemal threads"
+    ],
+    "succulent": [
+      "farina coating",
+      "windowed leaves (Lithops)",
+      "stacked/compact rosettes",
+      "caudex formation"
+    ]
+  }
+}
