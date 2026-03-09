@@ -1,0 +1,32 @@
+# Optical Phenomena Operations - Light-based transformative processes
+# Mineral optics, structural color, interference effects
+
+chatoyancy:
+  context: Single moving band of reflected light from parallel fibrous inclusions or needle-like structures; anisotropic reflection creating "cat's-eye" streak.
+  glsl_relevance: high # anisotropic_specular, banded_reflection, fibrous_structure
+  related: [pleochroism, reflection, banding, fibrous_inclusions, gems]
+  tags: [optics, materials, shaders]
+
+pleochroism:
+  context: Different absorption colors depending on light polarization direction and viewing angle through anisotropic crystals.
+  glsl_relevance: high # dichroic_filtering, polarization_dependent_color, anisotropy
+  related: [birefringence, polarization, absorption, dichroism]
+  tags: [optics, crystallography, color]
+
+adularescence:
+  context: Soft billowy sheen from light scattering between microscopic lamellar layers; moonstone glow effect.
+  glsl_relevance: high # subsurface_scattering, layered_microstructure, soft_glow
+  related: [schiller, iridescence, scattering, moonstone]
+  tags: [optics, materials, gemology]
+
+schiller:
+  context: Play of color from submicroscopic inclusions or thin film interference within mineral; labradorite spectral flash.
+  glsl_relevance: high # thin_film_interference, inclusion_optics, spectral_flash
+  related: [adularescence, iridescence, labradorite, interference]
+  tags: [optics, materials]
+
+color_change:
+  context: Selective absorption shifts between incandescent and daylight sources; alexandrite effect (red vs green).
+  glsl_relevance: medium # lighting_dependent_color, metamerism, spectral_shift
+  related: [absorption, spectral, alexandrite, lighting]
+  tags: [optics, materials, color]

@@ -1,0 +1,37 @@
+# Chaos Operations - Transformative Processes
+# Mathematical, signal, organic, glitch operations
+
+mathematical:
+  - recursive_fold
+  - self_similar_iteration
+  - tessellation
+  - voronoi_partition
+  - delaunay_triangulation
+  - fractal_subdivision
+  - l_system_generation
+  - reaction_diffusion
+
+signal:
+  - feedback_loop
+  - convolution
+  - fourier_transform
+  - noise_injection
+  - quantization
+  - aliasing
+  - dithering
+
+organic:
+  - growth_simulation
+  - differential_growth
+  - hydraulic_erosion
+  - coral_accumulation
+  - slime_mold_optimization
+  - neural_arborization
+
+glitch_ops:
+  - datamoshing
+  - pixel_sorting
+  - channel_shifting
+  - scanline_disruption
+  - buffer_override
+  - codec_breakdown

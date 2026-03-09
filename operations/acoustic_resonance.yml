@@ -1,0 +1,26 @@
+# Acoustic Resonance - Sound and vibration operations
+# Cymatics, Faraday instability, Helmholtz resonance, Bessel beams
+
+cymatics:
+  context: Sound vibration visualization in particulate matter/fluids; geometric patterns from standing wave nodes.
+  glsl_relevance: high # sound_visualization, standing_waves, patterns
+  related: [chladni, standing_waves, acoustics, vibration]
+  tags: [acoustics, waves, visualization]
+
+faraday_instability:
+  context: Parametric surface wave excitation on shaken fluids; subharmonic response creating standing wave lattices.
+  glsl_relevance: high # vibrating_liquids, parametric_waves, lattices
+  related: [parametric_resonance, surface_waves, faraday_waves]
+  tags: [fluids, vibration, waves]
+
+helmholtz_resonance:
+  context: Acoustic cavity resonance from neck-cavity coupling; frequency selective amplification.
+  glsl_relevance: low # acoustic_design, resonance_chambers
+  related: [acoustics, resonance, cavity_modes]
+  tags: [acoustics, waves]
+
+bessel_beams:
+  context: Non-diffracting wave solutions with ringed intensity profiles; orbital angular momentum carriers.
+  glsl_relevance: medium # non_diffracting, vortex_beams, optics
+  related: [bessel_functions, non_diffracting, vortices, optics]
+  tags: [optics, waves, mathematics]
