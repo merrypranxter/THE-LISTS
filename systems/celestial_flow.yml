@@ -1,0 +1,7 @@
+# Celestial Flow - Network & Flow Architectures
+# Astronomical and space-based flow systems
+
+celestial_flow:
+  - magnetohydrodynamic      # Stellar plasma currents
+  - lunar_rille_networks     # Collapsed lava channels
+  - martian_paleochannels    # Ancient drainage ghosts

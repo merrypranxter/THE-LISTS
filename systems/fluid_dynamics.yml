@@ -1,0 +1,44 @@
+# Fluid Dynamics - Flow phenomena and instabilities
+# Convection, shear instabilities, rotating flows, surface waves
+
+rayleigh_benard_convection:
+  context: Thermal instability creating hexagonal convection cells when fluid heated from below exceeds critical Rayleigh number.
+  glsl_relevance: high # cellular patterns, heat_shimmer, bénard_cells
+  related: [convection, thermal_instability, hexagons, pattern_formation]
+  tags: [fluids, thermodynamics, pde]
+
+marangoni_convection:
+  context: Surface-tension-gradient driven flow (thermocapillary) without gravity dependence; tears_of_wine phenomenon.
+  glsl_relevance: medium # thin_film_dynamics, surface_flows
+  related: [surface_tension, capillary_flow, thin_films]
+  tags: [fluids, interface_physics]
+
+saffman_taylor_fingering:
+  context: Viscous fingering instability at fluid-fluid interface in porous media/hele-shaw cell; Laplacian growth patterns.
+  glsl_relevance: high # branching_flows, dendritic_fingers
+  related: [dla, laplacian_growth, porous_media, instability]
+  tags: [fluids, pattern_formation, fractals]
+
+kelvin_helmholtz_instability:
+  context: Shear-driven interface instability producing rolling vortices; cloud waves, atmospheric boundaries.
+  glsl_relevance: high # cloud_formations, shear_layers, wave_patterns
+  related: [shear_instability, vorticity, atmospheric_waves]
+  tags: [fluids, geophysics, waves]
+
+taylor_couette_flow:
+  context: Vortex rolls between rotating cylinders; hydrodynamic instability at critical Taylor number.
+  glsl_relevance: medium # vortex_streets, rotating_flows
+  related: [vortices, rotation, hydrodynamic_instability]
+  tags: [fluids, rotation, dynamics]
+
+double_diffusive_convection:
+  context: Differential diffusion of heat/salt creating layered stair-step structures; salt_fingers in ocean stratification.
+  glsl_relevance: medium # layered_fluids, ocean_patterns
+  related: [thermohaline, stratification, buoyancy]
+  tags: [fluids, geophysics, transport]
+
+faraday_waves:
+  context: Parametrically driven surface waves on vertically vibrated fluids; standing wave lattices, cymatics.
+  glsl_relevance: high # vibrating_surfaces, wave_lattices, parametric_resonance
+  related: [parametric_resonance, standing_waves, surface_waves]
+  tags: [fluids, vibration, waves]

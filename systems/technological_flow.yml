@@ -1,0 +1,7 @@
+# Technological Flow - Network & Flow Architectures
+# Human-made flow systems and networks
+
+technological_flow:
+  - pcb_trace_veins          # Silicon current pathways
+  - microfluidic_channels    # Lab-on-chip reagent routing
+  - electroplated_biohybrid  # Metal grown on microfluidics

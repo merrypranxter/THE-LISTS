@@ -1,0 +1,8 @@
+# Geological Flow - Network & Flow Architectures
+# Natural fluid transport systems in geology
+
+geological_flow:
+  - karst_labyrinths         # Dissolved limestone voids
+  - dune_drainage_lines      # Temporary sand rivers
+  - salt_flat_evaporation    # Crystalline polygon geometry
+  - cometary_sublimation     # Ice dendrite maps

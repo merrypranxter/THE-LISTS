@@ -1,0 +1,35 @@
+# Self-Organization - Emergent pattern formation systems
+# Reaction-diffusion, aggregation, convection, acoustic, crystal growth, criticality
+
+reaction_diffusion:
+  - turing_pattern_networks         # Mathematical biological texture
+  - belousov_zhabotinsky_reactions  # Chemical oscillations
+  - reaction_diffusion_fronts       # Chemical waves spots stripes
+  - phase_field_crystal_dynamics    # Atomic pattern generation
+
+aggregation:
+  - diffusion_limited_aggregation   # Random walk adhesion
+  - dendritic_crystallization       # Branching solidification
+  - electrochemical_diffusion       # Metal deposition trees
+
+convection:
+  - benard_cells                    # Thermal convection hexagons
+  - rayleigh_taylor_instability     # Fluid interface instability
+  - electrohydrodynamic_convection  # Charged fluid organization
+  - granular_convection             # Dry particle hexagons
+
+acoustic:
+  - faraday_instabilities           # Vibration surface patterns
+  - chladni_node_networks           # Standing wave sand patterns
+  - acoustic_levitation             # Sound node suspension
+  - thermoacoustic_patterning       # Heat-sound emergent waves
+
+crystal_growth:
+  - spherulite_growth               # Radiating fibrous crystals
+  - anisotropic_crystal_growth      # Directional solidification
+  - dendritic_crystallization       # (Cross-category)
+  - chemical_gardens                # Mineral precipitate branching
+
+criticality:
+  - self_organized_criticality      # Order/chaos poised systems
+  - avalanche_dynamics              # (Implied in SOC)

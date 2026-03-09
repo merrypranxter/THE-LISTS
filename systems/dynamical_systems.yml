@@ -1,0 +1,62 @@
+# Dynamical Systems - Strange attractors, chaos, and emergent behavior systems
+# Attractors, chaos theory, cellular automata, bifurcation
+
+strange_attractors:
+  context: Fractal sets in phase space toward which dynamical systems evolve; bounded aperiodic orbits (Lorenz, Rössler, Hénon).
+  glsl_relevance: high # particle_systems, flow_fields, trajectory_rendering
+  related: [lorenz_attractor, chaos, phase_space, fractal_geometry, lyapunov_exponent]
+  tags: [dynamical_systems, attractors, chaos, fractals]
+
+lorenz_attractor:
+  context: Butterfly-shaped strange attractor from simplified atmospheric convection; sensitive dependence on initial conditions.
+  glsl_relevance: high # iconic_chaos_visual, particle_flow
+  related: [strange_attractors, chaos_theory, weather_systems, butterfly_effect]
+  tags: [attractor, chaos, meteorology, iconic]
+
+rossler_attractor:
+  context: Spiral-formed strange attractor with simple equations; chaotic banded structure.
+  glsl_relevance: high # spiral_chaos, continuous_trajectory
+  related: [strange_attractors, spiral_chaos, chemical_kinetics]
+  tags: [attractor, spiral, chaos, continuous]
+
+henon_attractor:
+  context: Discrete-time dynamical system forming double-banded chaotic map; area-contracting.
+  glsl_relevance: medium # discrete_chaos, fractal_structure
+  related: [strange_attractors, dissipative_maps, fractal_dimension]
+  tags: [attractor, discrete, chaos, dissipative]
+
+lyapunov_exponents:
+  context: Measure of trajectory divergence rate; positive values indicate chaos and predictability horizon.
+  glsl_relevance: medium # stability_analysis, chaos_quantification
+  related: [chaos_theory, sensitivity, entropy, stability]
+  tags: [chaos, measurement, stability, divergence]
+
+logistic_map:
+  context: Simple nonlinear recurrence x_{n+1} = r*x_n*(1-x_n); exhibits period doubling and chaos via bifurcation.
+  glsl_relevance: medium # population_dynamics, bifurcation_visualization
+  related: [bifurcation, chaos, population_model, feigenbaum_constant]
+  tags: [chaos, discrete, logistic, bifurcation]
+
+bifurcation_diagram:
+  context: Visualization of qualitative behavior changes as parameters vary; fractal tree of period doublings.
+  glsl_relevance: high # recursive_structure, chaos_tree
+  related: [logistic_map, period_doubling, chaos_transition, feigenbaum]
+  tags: [chaos, visualization, parameter_space, fractal_tree]
+
+cellular_automata:
+  context: Discrete grid systems evolving by local rules; emergent complexity from simple binary states (Conway, Wolfram).
+  glsl_relevance: high # pixel_processing, emergent_patterns, grid_systems
+  related: [game_of_life, rule_30, emergence, discrete_dynamics, turing_complete]
+  tags: [discrete_systems, emergence, computation, grid]
+
+game_of_life:
+  context: 2D cellular automaton with birth/survival rules; produces gliders, oscillators, universal computation.
+  glsl_relevance: high # classic_CA, pixel_simulation
+  related: [cellular_automata, conway, gliders, self_organization]
+  tags: [CA, classic, emergence, computation]
+
+reaction_diffusion_systems:
+  context: Coupled chemical activator-inhibitor systems creating spots, stripes, and labyrinth patterns (Turing patterns).
+  glsl_relevance: high # organic_texture, pattern_formation, biological_mimicry
+  related: [turing_patterns, gray_scott, belousov_zhabotinsky, morphogenesis]
+  tags: [pattern_formation, chemical, biological, texture]

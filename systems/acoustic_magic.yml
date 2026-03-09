@@ -1,0 +1,56 @@
+# Acoustic Magic Systems - Sound/Vibration/Mythic Tech
+# Mythological sound systems, brainwave entrainment, sacred sound
+
+galdr:
+  context: Norse vocalic magic using rhythmic incantation and resonance; sung spells with direct reality manipulation through sound.
+  glsl_relevance: low # mythic_sound_systems, runic_vibration
+  related: [vocalization, resonance, norse, magic, seiðr]
+  tags: [mythology, acoustics, magic_systems, vibration]
+
+seiðr:
+  context: Norse trance-magic involving spirit communication and fate-manipulation; often accompanied by chanting and rhythmic percussion.
+  glsl_relevance: low # trance_states, spirit_tech, norse_magic
+  related: [shamanism, trance, galdr, völvas]
+  tags: [mythology, magic_systems, consciousness]
+
+brainwave_entrainment:
+  context: Neural oscillation synchronization to external rhythmic stimuli (drumming, flashing); frequency-following response inducing altered states.
+  glsl_relevance: medium # biofeedback, rhythmic_coupling, neural_synchronization
+  related: [cymatics, resonance, consciousness, binaural_beats, trance]
+  tags: [neuroscience, acoustics, consciousness, magic_systems]
+
+mantra:
+  context: Sanskrit "tool for the mind"; repetitive vocalization using vibrational quality rather than semantic meaning to concentrate consciousness.
+  glsl_relevance: low # vocal_repetition, vibrational_focus, sacred_sound
+  related: [nada_brahman, om, vibration, meditation]
+  tags: [spirituality, acoustics, consciousness, hinduism]
+
+nada_brahman:
+  context: Hindu cosmological principle identifying sound/vibration as ultimate reality and first manifestation of the divine.
+  glsl_relevance: low # cosmic_sound, vibration_cosmology, sonic_ontology
+  related: [mantra, om, cosmology, vibration]
+  tags: [philosophy, cosmology, spirituality, vibration]
+
+voces_magicae:
+  context: "Magical words" in ancient Mesopotamian incantations; lexically meaningless passages using aural/vibrational power over semantics.
+  glsl_relevance: low # glossolalia, sound_magic, pre_semantic_power
+  related: [incantation, hekau, galdr, vibration]
+  tags: [magic_systems, linguistics, history, acoustics]
+
+hekau:
+  context: Ancient Egyptian sacred vowel sounds used in healing; vibrational frequencies invoking specific energetic states.
+  glsl_relevance: low # sacred_vowels, egyptian_sound_healing, vocal_magic
+  related: [voces_magicae, mantra, vowel_harmonics]
+  tags: [egyptology, magic_systems, sound_healing]
+
+sistra:
+  context: Ancient Egyptian ritual rattle producing ultrasound frequencies; applied acoustic technology for altered states.
+  glsl_relevance: medium # ultrasound, ritual_instruments, acoustic_tech
+  related: [percussion, ultrasound, egyptian, vibration]
+  tags: [archaeology, acoustics, instruments, magic_systems]
+
+joik:
+  context: Sami shamanic healing song using pentatonic structures; personal spiritual essence encoded in melodic vibration.
+  glsl_relevance: low # shamanic_song, pentatonic_healing, indigenous_sound
+  related: [shamanic_sound, melody, healing, sami]
+  tags: [ethnomusicology, shamanism, sound_healing]

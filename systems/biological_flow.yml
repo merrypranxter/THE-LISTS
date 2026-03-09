@@ -1,0 +1,9 @@
+# Biological Flow - Network & Flow Architectures
+# Vascular systems, nutrient transport, biological networks
+
+biological_flow:
+  - xylem_phloem_spiral      # Twin nutrient serpents
+  - root_pressure_hydraulics # Fractal sap conduits
+  - microvascular_capillary  # Retinal feeding networks
+  - pulmonary_alveolar       # Fractal air exchange
+  - neuron_glia_covenant     # Thought-nutrition parallel
