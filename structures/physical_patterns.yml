@@ -1,0 +1,81 @@
+# Physical Patterns - Pattern formation in physical systems
+# Electrical, aggregation, crystallization, fluid dynamics, chemical, optical, magnetic phenomena
+
+electrical:
+  - lichtenberg_figures           # Dielectric breakdown branching
+  - dielectric_breakdown_channels # Lightning-etched organic fossils
+
+aggregation:
+  - diffusion_limited_aggregation # DLA, random walk particle adhesion
+  - dendritic_crystallization     # Snowflake morphogenesis
+  - electrochemical_diffusion_trees # Metal deposition fractals
+
+crystallization:
+  - pigment_crystallization_layers  # Thin-film interference
+  - crystal_spherulite_growth       # Radiating fibrous patterns
+  - bragg_reflector_layers          # Alternating interference layers
+  - photonic_crystals               # Nanoscale periodic dielectric
+  - colloidal_crystal_arrays        # Microsphere self-assembly
+
+fluid_dynamics:
+  - rayleigh_taylor_instability     # Heavy into light fluid plumes
+  - magnetohydrodynamic_instabilities # Plasma wave destabilization
+  - toroidal_plasma_rings           # Spheromaks, self-contained vortices
+  - superfluid_vortex_lattices      # Quantum fluid rotation arrays
+  - thermoacoustic_patterning       # Heat-sound standing waves
+  - acoustic_levitation_fields      # Sound wave node suspension
+  - faraday_instabilities           # Nonlinear standing waves
+  - shear_band_fracture_networks    # Material stress mapping
+  - turbulent_eddy_cascades         # Energy transfer between scales
+
+chemical:
+  - belousov_zhabotinsky_oscillations # Chemical reaction waves
+  - reaction_diffusion_fronts       # Turing patterns, BZ reactions
+  - phase_transition_patterns       # Bénard cells, convection hexagons
+  - patterned_chemical_gardens      # Mineral precipitate branching
+
+optical:
+  - optical_moire_fields            # Grid interference patterns
+  - diffraction_limited_holography  # 3D interference reconstruction
+  - optical_vortex_interference     # Phase singularity spiraling
+  - photonic_band_gap_crystals      # Light-trapping nanostructures
+  - diffraction_grating_scales      # Nanoscale ridge dispersion
+  - quasi_ordered_nanospheres       # Random-correlated scattering
+
+magnetic:
+  - ferrofluid_spiking              # Magnetic field fluid sculpture
+  - magnetorheological_sculptures   # Field-stiffened metallic fluids
+  - ferroresonant_magnetic_domains  # Synchronized chaos regions
+  - magnetoplasma_pinch_filaments   # Current-focused plasma
+
+geometric_abstract:
+  - lissajous_curves                # Harmonic oscillation figures
+  - voronoi_diagrams                # Proximity space partition
+  - perlin_noise_terrains           # Gradient noise landscapes
+  - fractal_flame_algorithms        # Iterative luminous self-similarity
+  - cellular_automata               # Emergent binary rule systems
+  - self_organized_criticality      # Order/chaos poised systems
+
+mechanical:
+  - granular_convection_hexagons    # Dry particle convection cells
+  - vibration_driven_self_assembly  # Acoustofluidic nodal geometries
+  - parametric_resonance_fields     # Frequency-matched amplification
+  - anisotropic_crystal_growth      # Directional solidification
+  - phase_field_crystal_dynamics    # Self-organized atomic patterns
+
+quantum:
+  - quantum_entanglement_lattices   # Unified waveform models
+  - quantum_foam_simulation         # Subatomic fluctuation visualization
+  - electron_diffraction_patterns   # Matter wave lattice revelation
+  - spinor_surfaces                 # Quantum spin geometric manifestation
+
+misc:
+  - phonon_interference_lattices    # Acoustic standing waves in matter
+  - liquid_crystal_defect_loops     # Topological distortions
+  - electrostatic_dust_sculptures   # Plasma crust orbital spirals
+  - crystallographic_defect_fields  # Lattice imperfection beauty
+  - nonlinear_optical_parametric_oscillation # Light dividing/recombining
+  - electromagnetic_standing_wave_sculptures # Field visibility through particles
+  - rotational_wavefront_dislocations # Phase twists in coherent beams
+  - electrohydrodynamic_convection_cells # Charged fluid hexagons
+  - shear_banding                   # Material stress visualization

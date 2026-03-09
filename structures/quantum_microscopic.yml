@@ -1,0 +1,20 @@
+# Quantum & Microscopic Structures - Atomic and quantum-scale phenomena
+# Atomic orbitals, interference, Bose-Einstein condensate
+
+atomic_orbitals:
+  context: Electron probability distributions; solutions to Schrödinger equation with spherical harmonics (s,p,d,f shapes).
+  glsl_relevance: high # quantum_visualization, electron_clouds, chemistry
+  related: [wavefunctions, schrodinger, quantum, harmonics]
+  tags: [quantum, chemistry, waves]
+
+double_slit_interference:
+  context: Wave-particle duality demonstration; interference fringes from coherent superposition.
+  glsl_relevance: medium # quantum_optics, interference, superposition
+  related: [interference, wave_particle, coherence, diffraction]
+  tags: [quantum, optics, waves]
+
+bose_einstein_condensate:
+  context: Macroscopic quantum ground state; superfluid with quantized vortices and matter-wave interference.
+  glsl_relevance: low # quantum_simulation, superfluidity
+  related: [superfluid, quantum, vortices, condensation]
+  tags: [quantum, statistical_mechanics, fluids]

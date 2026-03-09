@@ -1,0 +1,20 @@
+# Astronomical Structures - Cosmic-scale patterns and phenomena
+# Galactic spirals, cosmic web, gravitational lensing
+
+galactic_spirals:
+  context: Density wave theory structures; trailing/leading spiral arms in disk galaxies from differential rotation.
+  glsl_relevance: medium # cosmic_structures, density_waves
+  related: [density_wave, rotation, stellar_dynamics, arms]
+  tags: [astronomy, galaxies, dynamics]
+
+cosmic_web:
+  context: Large-scale structure of universe; dark matter filaments and voids from gravitational instability.
+  glsl_relevance: high # large_scale_structure, filaments, voids
+  related: [structure_formation, dark_matter, gravity, network]
+  tags: [cosmology, astronomy, networks]
+
+gravitational_lensing:
+  context: Light bending by mass; Einstein rings, arcs, and multiple images from spacetime curvature.
+  glsl_relevance: medium # relativistic_optics, einstein_rings, distortion
+  related: [general_relativity, optics, curvature, magnification]
+  tags: [astronomy, relativity, optics]

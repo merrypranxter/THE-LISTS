@@ -1,0 +1,154 @@
+# Fluid Instabilities - Fluid dynamics phenomena, interface instabilities, and flow pattern formations
+# Interfacial instabilities, convection, vorticity, wave phenomena, advanced instabilities
+
+# Interfacial Instabilities
+rayleigh_taylor:
+  context: Heavy fluid penetrates light fluid under gravity; creates brain-like folding patterns at density boundaries.
+  glsl_relevance: high # density-driven procedural textures, cloud formation
+  related: [kelvin_helmholtz, buoyant_plumes, density_stratification]
+  tags: [fluid_dynamics, instability, gravity_driven, interfacial]
+
+kelvin_helmholtz:
+  context: Shear flow produces curling waveforms at fluid boundaries moving at different velocities.
+  glsl_relevance: high # cloud formations, atmospheric bands
+  related: [rayleigh_taylor, vorticity, shear_layers]
+  tags: [fluid_dynamics, shear_instability, wave_formation]
+
+saffman_taylor_fingering:
+  context: Viscous fingering; less viscous fluid invades more viscous, creating branching dendritic fingers.
+  glsl_relevance: medium # pattern formation, oil-water interfaces
+  related: [dendritic_growth, porous_media_flow, diffusion_limited]
+  tags: [fluid_dynamics, viscous_fingering, fractal_fronts]
+
+richtmyer_meshkov:
+  context: Shockwave-induced chaotic mixing at material interfaces; shock-driven turbulence seeding.
+  glsl_relevance: low # unless explosion/detonation visualization
+  related: [shock_turbulence, blast_waves, compression]
+  tags: [fluid_dynamics, shock_instability, compressible_flow]
+
+plateau_rayleigh:
+  context: Surface tension drives cylindrical jets to break into droplets; capillary breakup.
+  glsl_relevance: high # particle systems, liquid splashes
+  related: [capillary_waves, droplet_coalescence, surface_tension]
+  tags: [fluid_dynamics, capillary_instability, jet_breakup]
+
+# Convection & Thermal
+benard_convection:
+  context: Heated fluid forms hexagonal circulation cells; thermal convection patterning.
+  glsl_relevance: high # cellular patterns, heat shimmer
+  related: [rayleigh_benard, thermal_cells, hexagonal_tessellation]
+  tags: [thermal_dynamics, convection, pattern_formation]
+
+double_diffusive_convection:
+  context: Differential diffusion rates of heat and salt create layered stair-step structures.
+  glsl_relevance: medium # ocean stratification, layered fluids
+  related: [salt_fingering, thermohaline, density_layers]
+  tags: [fluid_dynamics, double_diffusion, stratification]
+
+marangoni_flow:
+  context: Surface tension gradients drive fluid flow without gravity; thermocapillary convection.
+  glsl_relevance: medium # thin film dynamics, bubble motion
+  related: [surface_tension, thermal_gradient, thin_films]
+  tags: [fluid_dynamics, marangoni, surface_forces]
+
+# Vorticity & Rotational
+taylor_columns:
+  context: Rotating fluid coherent columns aligned with rotation axis; Coriolis-constrained vortices.
+  glsl_relevance: low # atmospheric modeling, planetary cores
+  related: [ekman_spirals, rotating_reference, geostrophic_flow]
+  tags: [rotating_fluids, geophysical, vortex_columns]
+
+ekman_spirals:
+  context: Coriolis forces twist fluid motion layers into logarithmic spirals.
+  glsl_relevance: medium # ocean currents, atmospheric boundary layer
+  related: [coriolis_effect, boundary_layer, rotating_fluids]
+  tags: [fluid_dynamics, geophysical, spiral_flow]
+
+von_karman_vortex_street:
+  context: Alternating vortex shedding behind bluff bodies; periodic wake pattern.
+  glsl_relevance: high # smoke trails, flag fluttering, aesthetic patterns
+  related: [vortex_shedding, wake_turbulence, periodic_flow]
+  tags: [fluid_dynamics, vortices, periodic_structures]
+
+# Wave Phenomena
+solitary_waves:
+  context: Solitons; self-sustaining wave packets traveling without dispersion.
+  glsl_relevance: medium # water waves, signal propagation
+  related: [nonlinear_waves, dispersion, wave_packets]
+  tags: [wave_dynamics, solitons, nonlinear]
+
+internal_gravity_waves:
+  context: Oscillations within stratified fluids; slow breathing modes of density interfaces.
+  glsl_relevance: medium # ocean internal waves, atmospheric gravity waves
+  related: [buoyancy_oscillations, stratification, rossby_waves]
+  tags: [fluid_dynamics, internal_waves, stratified_flow]
+
+rossby_waves:
+  context: Planetary-scale waves arising from Earth's rotation; atmospheric snakes.
+  glsl_relevance: low # climate modeling, large-scale circulation
+  related: [coriolis_effect, geostrophic_adjustment, planetary_waves]
+  tags: [geophysical_fluids, rotating_planet, wave_dynamics]
+
+# Advanced Instabilities
+magnetohydrodynamic_instabilities:
+  context: Magnetic field and plasma flow interactions; twisting rope-like field structures.
+  glsl_relevance: low # plasma physics, solar dynamics
+  related: [alfven_waves, magnetic_reconnection, plasma_filaments]
+  tags: [plasma_physics, magnetism, fluid_coupling]
+
+parkinson_instability:
+  context: Magnetic field lines arching/buckling under galactic pressure; magnetic buoyancy.
+  glsl_relevance: low # astrophysical magnetic fields
+  related: [magnetohydrodynamic, magnetic_buoyancy, galactic_fields]
+  tags: [astrophysics, magnetic_instability]
+
+reaction_diffusion_fronts:
+  context: Chemical reaction waves coupled with diffusion; Turing pattern chemical gardens.
+  glsl_relevance: high # texture synthesis, organic patterns
+  related: [turing_patterns, belousov_zhabotinsky, chemical_waves]
+  tags: [chemical_dynamics, pattern_formation, reaction_diffusion]
+
+faraday_instabilities:
+  context: Parametric surface waves from vertical vibration; standing wave lattices on fluids.
+  glsl_relevance: high # vibrating surface textures, cymatics
+  related: [parametric_resonance, standing_waves, vibration_driven]
+  tags: [fluid_dynamics, vibration, wave_lattice]
+
+# Cavitation & Phase Change
+cavitation_collapse:
+  context: Vapor bubble implosion in liquids; microscopic explosive vacuum formation.
+  glsl_relevance: medium # underwater dynamics, propeller erosion
+  related: [bubble_dynamics, shock_collapse, phase_transition]
+  tags: [cavitation, phase_change, implosion]
+
+leidenfrost_instability:
+  context: Droplet levitation above own vapor layer; film boiling transition.
+  glsl_relevance: medium # droplet dynamics, heat transfer
+  related: [film_boiling, vapor_layer, droplet_bouncing]
+  tags: [thermal_physics, phase_change, levitation]
+
+# Granular & Non-Newtonian
+shear_banding:
+  context: Non-Newtonian fluids form zones of differing viscosity under stress.
+  glsl_relevance: medium # paste/paint behavior, viscoplastic flow
+  related: [non_newtonian, viscosity_gradient, stress_localization]
+  tags: [complex_fluids, rheology, shear]
+
+granular_convection:
+  context: Vibration causes grains to behave fluid-like; Brazil nut effect.
+  glsl_relevance: medium # particle systems, sand behavior
+  related: [vibrated_granulars, convection_cells, size_segregation]
+  tags: [granular_matter, vibration, convection]
+
+# Miscellaneous
+hydraulic_jump:
+  context: Flow transitions abruptly from fast to slow; standing wave at discontinuity.
+  glsl_relevance: medium # kitchen sink flows, river rapids
+  related: [shock_waves, open_channel_flow, discontinuity]
+  tags: [fluid_dynamics, transition, standing_wave]
+
+turbulent_cascade:
+  context: Energy transfer from large to small vortices; Kolmogorov energy spectrum.
+  glsl_relevance: high # turbulence modeling, noise functions
+  related: [energy_spectrum, vortex_stretching, eddy_cascade]
+  tags: [turbulence, energy_transfer, multiscale]

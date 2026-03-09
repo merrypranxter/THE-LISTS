@@ -1,0 +1,453 @@
+# Cultural Ornament - Visual Style Vocabularies
+# Geometric and ornamental patterns from world cultures
+
+islamic:
+  - girih_star_polygons      # Nested decagons, infinite symmetry
+  - muqarnas                 # Stalactite vault fractals
+  - thuluth_calligraphy      # Rhythmic arabesques
+  - kufic_geometry           # Angular text-structure merge
+  - zellij_mosaic            # Starburst ceramic lattices
+  - mashrabiya_lattice       # Carved light-filters
+  - jali_pierced_marble      # Breathing stone screens
+
+celtic:
+  - knotwork_interlace       # Endless woven bands
+  - urnes_beasts             # Serpentine recursive loops
+
+east_asian:
+  - kumiko_wood_lattice      # Floral fractal joinery
+  - seigaiha_wave            # Repeating arc eternity
+  - chinese_bi_discs         # Jade cosmic rings
+
+polynesian:
+  - tatau_motifs             # Oceanic rhythmic geometry
+
+mesoamerican:
+  - mayan_glyphs             # Pictographic cosmology
+  - aztec_calendar_symmetry  # Radial time gears
+  - step_fret_design         # Stair motifs, spirit climbing
+  - serpent_friezes          # Undulating reptilian geometry
+
+african:
+  - kuba_cloth               # Mathematically irregular grids
+  - ndebele_wall_painting    # Bold domestic identity geometry
+  - adinkra_symbols          # Abstract moral icons
+
+aboriginal:
+  - dot_painting_systems     # Dreamtime cartography
+
+hindu_buddhist:
+  - yantra_diagrams          # Deity-cosmos fractals
+  - mandala_architecture     # Concentric spiritual ascent
+  - endless_knot             # Closed compassion loop
+
+byzantine:
+  - mosaic_tesserae          # Glass sacred chroma
+
+gothic:
+  - tracery_stone_lace       # Cathedral window veins
+  - vault_ribbing            # Intersecting arch skeletons
+
+renaissance:
+  - grotesque_ornament       # Human-floral-monster hybrids
+  - acanthus_scroll          # Botanical intellectual luxury
+
+art_nouveau:
+  - organic_ornament         # Sinuous botanical growth
+
+victorian:
+  - wallpaper_ornament       # Nature idealized infinite repeat
+
+modern_speculative:
+  - algorithmic_ornament     # Generative code patterns
+  - parametric_facades       # Living algorithm buildings
+  - fractal_textiles         # Recursive equation fabrics
+  - crystalline_ornament     # Self-growing mineral logic
+  - bioluminescent_architecture  # Living algae matrices
+
+# Entries 1-20 (Cultural Ornament Systems)
+islamic_geometric_tessellations:
+  context: Endlessly repeating star polygons; girih patterns embodying unity through mathematical pattern.
+  glsl_relevance: high # procedural_tiling, star_polygons
+  related: [girih, zellij, arabesque, geometric_pattern]
+  tags: [islamic_art, tessellation, sacred_geometry, ornament]
+
+celtic_knotwork:
+  context: Interlaced bands with no beginning/end; topological interweaving symbolizing eternity.
+  glsl_relevance: high # interlace_algorithms, knot_theory
+  related: [knotwork, endless_knot, interlace, topology]
+  tags: [celtic, knotwork, interlace, ornamental]
+
+polynesian_tatau:
+  context: Rhythmic tattoo motifs signifying lineage; geometry carved by wave patterns.
+  glsl_relevance: medium # tribal_geometry, rhythmic_pattern
+  related: [tapu, mana, oceanic_geometry, tattoo]
+  tags: [polynesian, tattoo, tribal, geometry]
+
+greek_meander:
+  context: Continuous right-angled paths; fret patterns symbolizing eternal flow and rivers squared.
+  glsl_relevance: high # meander_pattern, key_pattern, border
+  related: [fret, greek_key, labyrinthine, maze]
+  tags: [greek, meander, classical, border_pattern]
+
+mayan_glyph_ornamentation:
+  context: Pictographic geometry linking cosmology to architectural form; hieroglyphic breathing between time layers.
+  glsl_relevance: medium # mesoamerican, glyphic, stone_carving
+  related: [mayan, hieroglyphs, cosmological_art, stele]
+  tags: [mayan, mesoamerican, glyph, cosmology]
+
+navajo_sand_painting:
+  context: Ephemeral mandalas of pigment; sacred order destroyed by wind after ceremony.
+  glsl_relevance: medium # ephemeral_art, sand_mandala
+  related: [navajo, sand_painting, ritual_art, impermanence]
+  tags: [navajo, sand_painting, ritual, ephemeral]
+
+hindu_yantra:
+  context: Fractal deity-cosmos diagrams; geometric portals for meditation.
+  glsl_relevance: high # sacred_geometry, mandala, tantra
+  related: [mandala, sri_yantra, kali_yantra, geometric_diagram]
+  tags: [hindu, yantra, sacred_geometry, meditation]
+
+byzantine_mosaic:
+  context: Glass tesserae shimmering with sacred chroma; light frozen into theological geometry.
+  glsl_relevance: high # tesserae, gold_leaf, religious_art
+  related: [mosaic, tessellation, byzantine, gold]
+  tags: [byzantine, mosaic, tesserae, sacred]
+
+japanese_kumiko:
+  context: Precision wood joinery forming floral fractals without nails; breathing sacred order.
+  glsl_relevance: high # wood_joinery, lattice, asanoha, hemp_leaf
+  related: [kumiko, woodworking, lattice, traditional]
+  tags: [japanese, kumiko, wood, joinery]
+
+african_kuba_cloth:
+  context: Mathematically irregular grids woven with improvisation; asymmetry as life's geometry.
+  glsl_relevance: medium # textile, woven_pattern, improvisation
+  related: [kuba, congo, textile, raffia]
+  tags: [african, kuba, textile, asymmetric]
+
+islamic_muqarnas:
+  context: Stalactite vault fractals dissolving solid into pattern; stone liquefied into honeycomb.
+  glsl_relevance: high # architectural_ornament, vaulting, 3d_tessellation
+  related: [muqarnas, islamic_architecture, vault, stalactite]
+  tags: [islamic, muqarnas, architecture, fractal_vault]
+
+renaissance_grotesque:
+  context: Human-floral-monster hybrids in interlaced scrollwork; anatomy blending with foliage.
+  glsl_relevance: medium # mannerist, hybrid_creatures, ornament
+  related: [grotesque, renaissance, mannerism, acanthus]
+  tags: [renaissance, grotesque, hybrid, ornament]
+
+nordic_urnes_beasts:
+  context: Serpentine creatures tangled in recursive loops; mythic DNA patterns.
+  glsl_relevance: high # viking, animal_ornament, interlace
+  related: [urnes, norse, serpent, knotwork]
+  tags: [norse, urnes, medieval, beast]
+
+islamic_thuluth:
+  context: Rhythmic arabesque calligraphy; divine language curving into visual music.
+  glsl_relevance: high # calligraphy, arabesque, cursive
+  related: [thuluth, islamic_calligraphy, arabesque, script]
+  tags: [islamic, calligraphy, thuluth, arabesque]
+
+aboriginal_dot_painting:
+  context: Dreamtime cartography via pigment dots; cosmic constellations painted from memory.
+  glsl_relevance: medium # pointillist, symbolic, indigenous
+  related: [dot_painting, aboriginal, dreamtime, symbolic]
+  tags: [aboriginal, dot_painting, dreamtime, symbolic]
+
+art_nouveau_organic:
+  context: Sinuous lines mimicking botanical growth; architecture breathing vines.
+  glsl_relevance: high # whiplash_line, organic_ornament, mucha
+  related: [art_nouveau, jugendstil, organic, whiplash]
+  tags: [art_nouveau, organic, botanical, sinuous]
+
+aztec_calendar_symmetry:
+  context: Radial hieroglyphs depicting cyclical time; sun-face gears of stone.
+  glsl_relevance: medium # aztec, calendar_stone, radial_symmetry
+  related: [aztec, sun_stone, mesoamerican, cyclical_time]
+  tags: [aztec, mesoamerican, calendar, radial]
+
+persian_carpet_lattice:
+  context: Floral and geometric repetition in wool; textile as universe.
+  glsl_relevance: high # carpet_design, floral_lattice, knotting
+  related: [persian_rug, carpet, floral, infinite_repeat]
+  tags: [persian, carpet, textile, lattice]
+
+tibetan_mandala_architecture:
+  context: Concentric geometry mapping spiritual ascent; sacred cities made of symmetry.
+  glsl_relevance: high # mandala, concentric, palace_architecture
+  related: [mandala, tibetan, kalachakra, concentric]
+  tags: [tibetan, mandala, architecture, concentric]
+
+gothic_tracery:
+  context: Stone lace filling cathedral windows; glass veins glowing with divinity.
+  glsl_relevance: high # gothic, window_tracery, stone_lace
+  related: [gothic, cathedral, tracery, rose_window]
+  tags: [gothic, tracery, architecture, stone]
+
+# Entries 41-60 (continuation)
+andalusian_zellij:
+  context: Geometric tilework forming starburst lattices; ceramic light incarnating mathematics.
+  glsl_relevance: high # tilework, starburst, ceramic
+  related: [zellij, moroccan, tile, geometric]
+  tags: [islamic, zellij, tilework, moroccan]
+
+ndebele_wall_painting:
+  context: Bold color geometry defining domestic identity; homes wearing patterns as skin.
+  glsl_relevance: high # south_african, mural, bold_geometry
+  related: [ndebele, mural, domestic, identity]
+  tags: [african, ndebele, mural, geometric]
+
+armenian_khachkar:
+  context: Stone crosses overgrown with interlace; scripture turned vegetal.
+  glsl_relevance: medium # cross_stone, armenian, carved
+  related: [khachkar, armenian, cross, interlace]
+  tags: [armenian, khachkar, stone, cross]
+
+sami_duodji:
+  context: Narrow loom bands encoding tribe and rhythm; frozen light woven by reindeer.
+  glsl_relevance: medium # sami, weaving, band, indigenous
+  related: [duodji, sami, textile, band_weaving]
+  tags: [sami, textile, band, indigenous]
+
+greek_anthemion:
+  context: Palmette and lotus repeating as sacred decorum; flowers abstracted to immortality.
+  glsl_relevance: high # anthemion, palmette, classical
+  related: [greek, palmette, lotus, frieze]
+  tags: [greek, anthemion, classical, floral]
+
+fez_tilework:
+  context: Hand-cut tiles forming perfect imperfection; mosaic breathing human error.
+  glsl_relevance: high # zellige, moroccan, handmade
+  related: [zellige, fez, tile, imperfect]
+  tags: [islamic, moroccan, tile, craft]
+
+etruscan_reousse:
+  context: Hammered metal reliefs creating luminous mythology; bronze trembling with gods.
+  glsl_relevance: medium # metalwork, repousse, etruscan
+  related: [etruscan, metal, relief, ancient]
+  tags: [etruscan, metalwork, relief, ancient]
+
+balinese_ceiling_ornament:
+  context: Gold-leafed floral spirals representing heaven's canopy; paradise refracted through wood.
+  glsl_relevance: high # balinese, gold_leaf, ceiling, floral
+  related: [balinese, gold, wood_carving, canopy]
+  tags: [balinese, ornament, gold, ceiling]
+
+islamic_mashrabiya:
+  context: Carved lattice windows filtering light and privacy; shadow performing geometry.
+  glsl_relevance: high # lattice, screen, light_filter
+  related: [mashrabiya, jali, screen, lattice]
+  tags: [islamic, mashrabiya, architecture, screen]
+
+khmer_bas_reliefs:
+  context: Mythological processions looping through stone; eternity carved mid-motion.
+  glsl_relevance: medium # angkor, cambodian, stone_carving
+  related: [khmer, bas_relief, angkor, narrative]
+  tags: [khmer, cambodian, relief, stone]
+
+ethiopian_cross_filigree:
+  context: Pierced metalwork intertwining geometry and faith; breath crystallized into gold.
+  glsl_relevance: medium # ethiopian, cross, filigree, metal
+  related: [ethiopian, cross, filigree, coptic]
+  tags: [ethiopian, cross, filigree, metal]
+
+chinese_cloisonne:
+  context: Colorful cells separated by fine metal wires; stained glass shrunk to jewelry.
+  glsl_relevance: high # enamel, cloisonne, chinese, metal
+  related: [cloisonne, enamel, chinese, cell]
+  tags: [chinese, cloisonne, enamel, metal]
+
+native_plains_beadwork:
+  context: Symmetrical bead mosaics mapping stories; sky worn as ornament.
+  glsl_relevance: high # beadwork, native_american, geometric
+  related: [beadwork, plains_indian, native, geometric]
+  tags: [native_american, beadwork, geometric, tribal]
+
+mughal_jali:
+  context: Pierced marble screens filtering air; solid stone breathing pattern.
+  glsl_relevance: high # jali, marble, pierced, screen
+  related: [jali, mughal, marble, screen]
+  tags: [mughal, jali, architecture, marble]
+
+roman_opus_sectile:
+  context: Inlaid marble fragments creating rhythmic flooring; ground mosaicked like skin.
+  glsl_relevance: medium # roman, floor, inlay, marble
+  related: [roman, opus_sectile, floor, inlay]
+  tags: [roman, floor, inlay, classical]
+
+chinese_bi_discs:
+  context: Jade rings etched with cosmic pattern; circles of eternity passing through dynasties.
+  glsl_relevance: medium # jade, bi_disc, chinese, ritual
+  related: [bi_disc, jade, chinese, ritual]
+  tags: [chinese, jade, disc, ritual]
+
+victorian_wallpaper:
+  context: Nature idealized into infinite domestic repeat; mundane psychedelia.
+  glsl_relevance: high # wallpaper, repeat_pattern, william_morris
+  related: [wallpaper, victorian, repeat, floral]
+  tags: [victorian, wallpaper, pattern, domestic]
+
+islamic_girih_stars:
+  context: Nested decagons birthing infinite symmetry; language of unity disguised as decor.
+  glsl_relevance: high # girih, star_polygon, islamic, ten_fold
+  related: [girih, star, polygon, islamic]
+  tags: [islamic, girih, star, decagon]
+
+# Entries 61-100 (continuation)
+islamic_kufic_geometry:
+  context: Angular calligraphy merging text and structure; meaning encoded as architecture.
+  glsl_relevance: high # kufic, calligraphy, geometric, angular
+  related: [kufic, islamic, calligraphy, architectural]
+  tags: [islamic, kufic, calligraphy, geometric]
+
+african_adinkra:
+  context: Abstract icons conveying moral principles; philosophy condensed into symbol.
+  glsl_relevance: medium # adinkra, akan, ghana, symbol
+  related: [adinkra, akan, symbol, wisdom]
+  tags: [african, adinkra, symbol, akan]
+
+japanese_seigaiha:
+  context: Repeating arcs signifying eternity and flow; stylized ocean folding forever.
+  glsl_relevance: high # seigaiha, wave_pattern, japanese, repeat
+  related: [seigaiha, wave, japanese, pattern]
+  tags: [japanese, seigaiha, wave, pattern]
+
+incan_chakana:
+  context: Stepped cross linking underworld, earth, sky; cosmology in square symmetry.
+  glsl_relevance: medium # chakana, inca, cross, cosmology
+  related: [chakana, inca, andean, cosmology]
+  tags: [inca, chakana, andean, cosmology]
+
+roman_laurel_wreath:
+  context: Victory encoded in vegetal loops; leaf logic circling triumph.
+  glsl_relevance: medium # laurel, wreath, roman, victory
+  related: [laurel, wreath, roman, classical]
+  tags: [roman, laurel, wreath, victory]
+
+mughal_pietra_dura:
+  context: Semi-precious stone inlays shaping infinity gardens; marble photosynthesis.
+  glsl_relevance: high # pietra_dura, inlay, mughal, floral
+  related: [pietra_dura, mughal, inlay, stone]
+  tags: [mughal, pietra_dura, inlay, floral]
+
+minotaur_labyrinth_mosaic:
+  context: Recursive pathways symbolizing initiation; floor plan of consciousness.
+  glsl_relevance: medium # labyrinth, minoan, maze, tile
+  related: [labyrinth, knossos, minoan, maze]
+  tags: [minoan, labyrinth, maze, mosaic]
+
+egyptian_lotus_capital:
+  context: Floral geometry crowning columns; stone blossoming upward.
+  glsl_relevance: high # lotus, capital, egyptian, column
+  related: [lotus, egyptian, column, floral]
+  tags: [egyptian, lotus, column, architecture]
+
+chinese_dragon_scales:
+  context: Overlapping motifs symbolizing protection; scales becoming language.
+  glsl_relevance: high # dragon, scale, chinese, protective
+  related: [dragon, chinese, scale, imperial]
+  tags: [chinese, dragon, scale, protective]
+
+mayan_step_fret:
+  context: Geometric stair motifs reflecting mountain terraces; spirit climbing digital steps.
+  glsl_relevance: medium # step_fret, mayan, geometric, xicalcoliuhqui
+  related: [step_fret, mayan, mesoamerican, architectural]
+  tags: [mayan, step_fret, geometric, architecture]
+
+sufi_whirling_calligraphy:
+  context: Circular text rendered as dance; language orbiting divine center.
+  glsl_relevance: medium # sufi, calligraphy, circular, samāʿ
+  related: [sufi, calligraphy, circular, dance]
+  tags: [sufi, calligraphy, circular, mystical]
+
+viking_jelling_beasts:
+  context: Intertwined serpents reflecting cosmic entanglement; mythic anatomy as ornament.
+  glsl_relevance: high # jelling, viking, animal, interlace
+  related: [jelling, viking, norse, beast]
+  tags: [viking, jelling, norse, animal]
+
+tibetan_endless_knot:
+  context: Closed loop with no origin; compassion braided with wisdom.
+  glsl_relevance: high # endless_knot, tibetan, buddhist, topology
+  related: [endless_knot, buddhist, topology, eternal]
+  tags: [tibetan, buddhist, knot, endless]
+
+sumerian_cylinder_seals:
+  context: Miniature rolling reliefs marking clay; story compressed into rotation.
+  glsl_relevance: medium # cylinder_seal, sumerian, ancient, impression
+  related: [sumerian, seal, cylinder, ancient]
+  tags: [sumerian, seal, cylinder, ancient]
+
+islamic_blue_faience:
+  context: Cyan glaze representing purity of sky; ceramic atmosphere.
+  glsl_relevance: high # faience, turquoise, islamic, ceramic
+  related: [faience, blue, ceramic, glaze]
+  tags: [islamic, faience, ceramic, blue]
+
+gothic_vault_ribbing:
+  context: Intersecting arches dividing and uniting space; bones holding air in symmetry.
+  glsl_relevance: high # gothic, vault, rib, architecture
+  related: [gothic, vault, rib, structure]
+  tags: [gothic, vault, rib, architecture]
+
+kashi_star_polygon:
+  context: Radiating mathematical cosmos in tile form; heaven tessellated on walls.
+  glsl_relevance: high # kashi, star, polygon, islamic_tile
+  related: [kashi, star, tile, islamic]
+  tags: [islamic, kashi, star, tile]
+
+andean_feather_mosaic:
+  context: Bird plumage forming pictorial geometry; color arranged by flight.
+  glsl_relevance: medium # feather, mosaic, andean, inca
+  related: [feather, inca, andean, mosaic]
+  tags: [andean, feather, mosaic, inca]
+
+mesoamerican_serpent_friezes:
+  context: Reptilian geometry undulating along temples; motion frozen into masonry.
+  glsl_relevance: medium # serpent, frieze, mayan, aztec
+  related: [serpent, mesoamerican, architecture, reptile]
+  tags: [mesoamerican, serpent, frieze, architecture]
+
+cybernetic_ornament:
+  context: AI-generated recursive fractals mimicking sacred pattern; silicon mandalas.
+  glsl_relevance: high # generative, algorithmic, recursive, digital
+  related: [generative_art, algorithmic, fractal, parametric]
+  tags: [digital, generative, algorithmic, ornament]
+
+biomorphic_facades:
+  context: Parametric architecture covered in living algorithms; urban lungs breathing code.
+  glsl_relevance: high # parametric, architecture, biomorphic, facade
+  related: [parametric_design, algorithmic_architecture, facade, generative]
+  tags: [architecture, parametric, biomorphic, facade]
+
+fractal_textile_weaves:
+  context: Fabric structured by recursive equations; woven infinities.
+  glsl_relevance: medium # textile, fractal, weave, recursive
+  related: [textile, weave, fractal, pattern]
+  tags: [textile, fractal, weave, recursive]
+
+sacred_geometry_tattoos:
+  context: Body ornament guided by platonic solids; flesh aligned to cosmic math.
+  glsl_relevance: high # tattoo, sacred_geometry, platonic, body_art
+  related: [tattoo, sacred_geometry, platonic, geometry]
+  tags: [tattoo, sacred_geometry, platonic, body]
+
+crystalline_ornament:
+  context: Decor formed by self-growing mineral logic; pattern accreting itself.
+  glsl_relevance: high # crystal, growth, mineral, self_organizing
+  related: [crystal, growth, mineral, formation]
+  tags: [crystal, growth, mineral, ornament]
+
+bio_luminescent_architecture:
+  context: Pattern grown from glowing algae matrices; light woven from cells.
+  glsl_relevance: high # bioluminescent, algae, living_architecture, organic
+  related: [bioluminescent, algae, living, organic]
+  tags: [bioluminescent, algae, architecture, living]
+
+celestial_ornament_mind:
+  context: All symmetries converging as cognition; pattern recognizing itself.
+  glsl_relevance: high # cognitive, symmetry, consciousness, meta
+  related: [symmetry, consciousness, cognition, meta]
+  tags: [symmetry, consciousness, cognitive, meta]

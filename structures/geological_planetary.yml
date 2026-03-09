@@ -1,0 +1,26 @@
+# Geological & Planetary Patterns - Earth and planetary surface phenomena
+# Sand dunes, permafrost, impact craters, planetary storms
+
+sand_dunes:
+  context: Aeolian bedform migration; barchan, transverse, and longitudinal dune morphologies from wind-sand feedback.
+  glsl_relevance: medium # desert_patterns, wind_erosion, ripples
+  related: [aeolian, sediment, wind, geomorphology]
+  tags: [geology, geophysics, patterns]
+
+polygonal_ground:
+  context: Permafrost thermal contraction creating crack polygons; patterned ground from freeze-thaw cycling.
+  glsl_relevance: medium # frost_patterns, thermal_cracking, tessellation
+  related: [permafrost, thermal_stress, cracking, hexagons]
+  tags: [geology, thermodynamics, patterns]
+
+impact_craters:
+  context: Hypervelocity collision morphologies; bowl-shaped excavations with raised rims and central peaks.
+  glsl_relevance: low # planetary_geology, shock_waves
+  related: [hypervelocity, shock, planetary, excavation]
+  tags: [geology, astronomy, physics]
+
+planetary_storms:
+  context: Large-scale atmospheric vortices; Jupiter Great Red Spot, Saturn hexagonal jet stream.
+  glsl_relevance: medium # vortices, atmospheric_dynamics, geostrophic
+  related: [rossby_waves, geostrophic, vorticity, planetary_atmosphere]
+  tags: [geophysics, atmosphere, planets]

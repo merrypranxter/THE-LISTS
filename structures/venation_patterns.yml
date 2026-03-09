@@ -1,0 +1,36 @@
+# Venation Patterns - Geometric & Physical Patterns
+# Branching vascular and network structures found in nature
+
+branching:
+  - dichotomous          # Primitive forked (ferns, ginkgos)
+  - reticulate           # Netted redundancy (angiosperms)
+  - parallel             # Linear arteries (monocots)
+  - pinnate              # Central midrib with subveins
+  - palmate              # Radiating from point
+  - anastomosing         # Fusing/rejoining (braided rivers)
+  - retiform             # Complex meshwork
+
+tessellation:
+  - areolate             # Small repeating cells between veins
+  - voronoi-like         # Natural cellular partitions
+
+radial_symmetry:
+  - radial_floral        # Concentric petal venation
+  - radial_vascular      # Central hub distribution
+
+hierarchical:
+  - dendritic            # Fractal tree structures (rivers, neurons)
+  - arterial_tree        # Cardiovascular distribution
+  - neural_arborization  # Dendritic signal networks
+
+linear:
+  - crassulacean         # Thickened water-retaining channels
+  - monocot_linear       # Grass/lily parallel
+  - channel_networks     # Glacial melt, desiccation cracks
+
+reticulated:
+  - mycelial             # Decentralized nutrient networks
+  - coral_skeletal       # Biogenic calcium channels
+  - basalt_columns       # Fracture pseudo-venation
+  - mineral_veins        # Quartz/calcite in tectonic scars
+  - lava_tubes           # Hollow conduits, negative space

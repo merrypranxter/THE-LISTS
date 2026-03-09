@@ -1,0 +1,118 @@
+# Topological Manifolds - Pathological, non-standard, and higher-dimensional geometric objects
+# Non-orientable surfaces, minimal surfaces, hyperbolic geometry, knots, higher dimensions
+
+non_orientable:
+  - mobius_strip                    # Single-sided band
+  - klein_bottle                    # Self-swallowing no interior/exterior
+  - klein_foam                      # Network of intersecting Klein bottles
+  - mobius_net                      # Web of interconnected Mobius strips
+  - crosscap_surface                # Mobius with tear
+  - real_projective_plane           # Antipodal connection, inversion symmetry
+  - boys_surface                    # Projective plane 3D immersion
+  - whitney_umbrella                # Catastrophe surface, crosscap cusp
+
+minimal_surfaces:
+  - enneper_surface                 # Self-similar curvature spiral
+  - gyroid_surface                  # Triply periodic, no straight lines
+  - catenoid                        # Rotating catenary curve
+  - helicoid                        # Screw-like spiraling surface
+  - costa_surface                   # Catenoid-helicoid balance
+  - schwarz_p_surface               # Triply periodic crystalline foam
+  - dini_surface                    # Constant negative curvature helicoid
+  - neovius_surface                 # Periodic minimal lattice-like
+  - weierstrass_minimal_surface     # Complex analysis generated
+  - seifert_surface                 # Spans knots, continuous
+  - soap_film_junctions             # Minimal energy edge meetings
+
+hyperbolic:
+  - hyperbolic_plane                # Poincare disk, infinite extent finite circle
+  - pseudosphere                    # Constant negative curvature trumpet
+  - hyperbolic_paraboloid           # Saddle surface, doubly curved
+  - hyperbolic_honeycomb            # 3D hyperbolic tiling
+  - cusped_hyperbolic_manifold      # Ends taper to infinite spikes
+  - hyperbolic_scroll               # Ruled saddle form
+  - hyperbolic_sheet_cluster        # Fused coral networks
+
+spherical_elliptic:
+  - riemann_sphere                  # Complex plane plus infinity point
+  - elliptic_paraboloid             # Smooth bowl curve
+  - clifford_torus                  # 3-sphere equatorial balance
+
+higher_dimensional:
+  - calabi_yau_manifold             # String theory compact dimensions
+  - tesseract_boundary              # 3-sphere, 4D cube hypersurface
+  - hilbert_cube_manifold           # Infinite-dimensional compressed
+  - exotic_sphere                   # Topologically identical, geometrically alien
+  - exotic_r4                       # Unexpected smoothness 4D space
+  - 8d_spin_manifold                # Theoretical physics topological playground
+
+knot_theory:
+  - trefoil_knot_surface            # Simplest nontrivial knot
+  - torus_knot_surface              # Wrapped around torus
+  - knot_complement_manifold        # 3D space minus knot
+  - knot_energy_surface             # Energy-minimized smooth toroids
+  - knot_mosaic_surface             # Microtopological domain tiling
+  - framed_link_surface             # Thickened twisted bands
+  - exotic_knot_complement          # Higher dimensional negative space
+
+complex_structures:
+  - k3_surface                      # (Implicit in Calabi-Yau context)
+  - kummer_surface                  # Quartic with 16 singularities
+  - biquadratic_surface             # Fourth-degree equation oscillation
+  - goursat_surface                 # Family of ruled surfaces
+  - dupin_cyclide                   # Torus/cylinder/cone inversion blend
+
+decomposition_structures:
+  - heegaard_splitting              # 3-manifold into handlebodies
+  - handlebody_decomposition        # Tubular parts breakdown
+  - manifold_with_boundary          # Space ending in edge
+
+specialized:
+  - tangent_developable_surface     # Line tangent to curve movement
+  - riemann_surface                 # Complex one-dimensional manifold
+  - lagrangian_submanifold          # Symplectic balance preservation
+  - kahler_manifold_projection      # Complex symplectic metric harmony
+  - spin_foam_diagram_surface       # Quantum gravity spacetime interactions
+  - fermi_sheet_surface             # Quantum electron motion boundary
+  - teichmuller_space_map           # Parameter space of surface shapes
+  - ricci_flow_surface              # Curvature smoothing evolution
+  - black_hole_horizon_surface      # Null surface one-way membrane
+  - cusp_catastrophe_surface        # Folded control sudden shifts
+  - swallowtail_singularity         # Higher-order overlapping folds
+  - umbilic_torus                   # Folded through focal curvature points
+  - pinched_torus                   # Collapsing to sphere through neck
+  - teichmuller_space               # Shape deformation atlas
+  - orbifold_surface                # Symmetrical singularities
+  - topology_change_surface         # Spacetime tear/resew
+  - wormhole_throat_surface         # Minimal surface between universes
+  - exotic_brane_surface            # Higher-dimensional vibrating membrane
+  - topology_of_desire_surface      # Nonlinear emotional manifold
+  - entropy_minimizing_surface      # Disorder reduction geometry
+  - manifold_of_memory              # Trajectory imprint retention
+  - boundaryless_dream_surface      # Edge-dissolving continuity
+  - singular_surface_of_birth       # Cusp merger of two manifolds
+  - manifold_of_silence             # Curvature/complexity limit
+  - euler_characteristic_tapestry   # Holes twists genus record
+  - isotropic_cone                  # Metric degeneration lightlike paths
+  - calotte_patch                   # Local curvature partial embedding
+  - triply_warped_product_surface   # Asymmetrical orthogonal stretching
+  - duplex_surface                  # Double-layered reflecting manifold
+  - topological_inversion_surface   # Stereographic projection inside-out
+  - fibration_bundle_surface        # Base and fibers interwoven
+  - fractal_boundary_surface        # Cantor dust solidified
+  - fractal_surface_embedding       # Fractal curve higher dimension solidification
+  - banchoff_chen_surface           # Threefold symmetry crosscaps
+  - isometric_embedding_sheet       # Distance-preserving curvature
+  - twistor_surface                 # Light rays as points complex manifold
+  - dyadic_fold_surface             # Recursive doubling folds
+  - cathedral_of_genus_5            # Multi-holed high complexity
+  - hyperbolic_vase_surface         # Rotational negative curvature
+  - topological_soliton_surface     # Self-stabilizing trapped wave
+  - topological_bloom               # Manifold expansion biological growth
+
+abstract_algebraic:
+  - quaternionic_hopf_surface       # 4D complex manifold
+  - hopf_fibration                  # Circles linking in 3D space
+  - spin_foam                       # Quantum gravity surface networks
+  - einstein_hilbert_surface        # Curvature action integration
+  - nonorientable_triptych          # Three surfaces twisted seams

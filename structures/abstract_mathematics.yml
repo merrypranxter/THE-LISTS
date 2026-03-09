@@ -1,0 +1,99 @@
+# Abstract Mathematics - High-level mathematical structures, cohomology theories, algebraic geometric objects
+# Cohomology, geometric structures, category theory, number systems, exceptional objects
+
+# Cohomology & Homological Algebra
+hodge_structures:
+  context: Filtration decomposition of smooth projective variety cohomology; weight filtration and Hodge decomposition.
+  glsl_relevance: low # theoretical framework, periods
+  related: [cohomology, hodge_theory, algebraic_cycles, period_mapping]
+  tags: [algebraic_geometry, cohomology, hodge_theory, pure_math]
+
+d_modules:
+  context: Modules over rings of differential operators; encoding differential equations algebraically.
+  glsl_relevance: low # algebraic analysis, PDE systems
+  related: [riemann_hilbert, differential_operators, perverse_sheaves]
+  tags: [algebraic_analysis, differential_equations, sheaf_theory]
+
+elliptic_cohomology:
+  context: Generalized cohomology theory linked to elliptic curves and string theory; topological modular forms.
+  glsl_relevance: low # high-energy physics, genus_one
+  related: [string_theory, elliptic_curves, topological_modular_forms]
+  tags: [algebraic_topology, elliptic_genus, string_math]
+
+etale_cohomology:
+  context: Algebraic topology for schemes; l-adic cohomology over finite fields, Weil conjectures.
+  glsl_relevance: low # arithmetic geometry, point counting
+  related: [weil_conjectures, l_adic_sheaves, galois_representations]
+  tags: [arithmetic_geometry, algebraic_topology, finite_fields]
+
+# Geometric Structures
+moduli_spaces:
+  context: Parameter spaces classifying geometric structures (curves, sheaves, solutions); often stratified by singularities.
+  glsl_relevance: medium # deformation spaces, shape interpolation
+  related: [deformation_theory, parameter_space, geometric_classification]
+  tags: [algebraic_geometry, classification, parameter_space]
+
+calabi_yau_manifolds:
+  context: Ricci-flat Kähler manifolds with SU(n) holonomy; compactification spaces in string theory.
+  glsl_relevance: medium # extra_dimensions, mirror_symmetry
+  related: [string_compactification, mirror_symmetry, supersymmetry]
+  tags: [differential_geometry, string_theory, special_holonomy]
+
+motives:
+  context: Hypothetical universal building blocks of algebraic varieties; Grothendieck's dream of cohomology unification.
+  glsl_relevance: low # deep arithmetic, universal_cohomology
+  related: [grothendieck, algebraic_cycles, mixed_motives, tannakian]
+  tags: [algebraic_geometry, motives, cohomology_theory]
+
+# Category Theory & Logic
+topos_theory:
+  context: Category-theoretic generalization of space and logic; internal language of categories.
+  glsl_relevance: low # categorical logic, geometric_logic
+  related: [category_theory, sheaves, logic, grothendieck_topos]
+  tags: [category_theory, logic, foundations]
+
+non_wellfounded_sets:
+  context: Hypersets allowing self-containing sets X∈X; Aczel's anti-foundation axiom.
+  glsl_relevance: low # nonstandard_foundations, self_reference
+  related: [hypersets, bisimulation, self_reference, paradox]
+  tags: [set_theory, logic, non_wellfounded]
+
+# Number Systems
+surreal_numbers:
+  context: Proper-class sized ordered field containing all reals, ordinals, infinitesimals; Conway's recursive construction {L|R}.
+  glsl_relevance: low # combinatorial_game_theory, transfinite
+  related: [ordinals, infinitesimals, combinatorial_games, hyperreals]
+  tags: [number_theory, surreal, infinity, recursive]
+
+p_adic_numbers:
+  context: Ultrametric number system where distance measured by prime divisibility; |x|_p = p^{-v_p(x)}.
+  glsl_relevance: low # arithmetic_geometry, fractal_trees
+  related: [ultrametric, local_fields, profinite, p_adic_analysis]
+  tags: [number_theory, p_adic, ultrametric, topology]
+
+# Exceptional Objects
+monster_group:
+  context: Largest sporadic simple group; ~8×10^53 elements, 196883 dimensions, connected to Monstrous Moonshine.
+  glsl_relevance: low # symmetry, exceptional_structure
+  related: [monstrous_moonshine, leech_lattice, sporadic_groups, vertex_operator_algebras]
+  tags: [group_theory, finite_groups, exceptional_objects]
+
+e8_lie_group:
+  context: Exceptional Lie group of 248 dimensions; root system with 240 vectors, related to heterotic string theory.
+  glsl_relevance: low # exceptional_symmetry, unification
+  related: [root_systems, lie_algebras, exceptional_lie, string_unification]
+  tags: [group_theory, lie_theory, exceptional, symmetry]
+
+# Topological Recursion
+topological_recursion:
+  context: Recursive construction of invariants from spectral curves; universal across matrix models, Gromov-Witten theory, knot theory.
+  glsl_relevance: low # mathematical_physics, enumerative_geometry
+  related: [spectral_curves, moduli_spaces, quantum_curves, airy_kernel]
+  tags: [mathematical_physics, recursion, invariants]
+
+# Fractal & Dynamical Math
+strange_nonchaotic_attractors:
+  context: SNA; fractally structured attractors with zero/negative Lyapunov exponents; quasiperiodically forced systems.
+  glsl_relevance: medium # deterministic_fractals, non_chaotic_complexity
+  related: [quasiperiodic_forcing, lyapunov_exponent, fractal_structure]
+  tags: [dynamical_systems, fractals, non_chaos, quasiperiodic]

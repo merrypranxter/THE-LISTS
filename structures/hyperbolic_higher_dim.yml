@@ -1,0 +1,38 @@
+# Hyperbolic & Higher-Dimensional Geometry
+# Hyperbolic honeycombs, exotic spheres, isospectral manifolds, quasicrystals
+
+hyperbolic_honeycomb:
+  context: Tessellation of hyperbolic space by regular polytopes; {4,3,5} order-5 cubic, exponential volume growth.
+  glsl_relevance: high # negative_curvature, tilings, impossible_euclidean
+  related: [hyperbolic_geometry, tessellation, coxeter_groups, negative_curvature]
+  tags: [geometry, hyperbolic, topology, discrete]
+
+ideal_polytopes:
+  context: Hyperbolic polytopes with vertices at infinity; finite volume, infinite edge length.
+  glsl_relevance: medium # ideal_tetrahedra, cusps, hyperbolic_manifolds
+  related: [hyperbolic_geometry, ideal_vertices, cusps, volume]
+  tags: [geometry, hyperbolic, topology]
+
+exotic_spheres:
+  context: Smooth manifolds homeomorphic but not diffeomorphic to standard n-sphere; Milnor's 7-sphere.
+  glsl_relevance: low # differential_topology, smooth_structure
+  related: [milnor, differential_topology, h_cobordism, seven_dimensions]
+  tags: [topology, differential_geometry, exotic]
+
+exotic_r4:
+  context: Smooth structures on R^4 homeomorphic but not diffeomorphic to standard; uncountably many exotic smoothings.
+  glsl_relevance: low # four_dimensions, smooth_structure, pathological
+  related: [donaldson, freedman, four_manifolds, differential_topology]
+  tags: [topology, differential_geometry, exotic]
+
+isospectral_manifolds:
+  context: Distinct Riemannian manifolds sharing Laplace spectra; cannot hear the shape of a drum.
+  glsl_relevance: low # spectral_geometry, hearing_shape, sunada
+  related: [laplacian, spectral_theory, sunada_method, drums]
+  tags: [geometry, analysis, topology, spectral]
+
+quasicrystal_8d:
+  context: 8D projection to 3D creating aperiodic structures; E8 root system, phason degrees of freedom.
+  glsl_relevance: medium # higher_dimensional, projections, aperiodic
+  related: [e8, quasicrystals, projection, higher_dimensions]
+  tags: [geometry, crystallography, higher_dimensions]

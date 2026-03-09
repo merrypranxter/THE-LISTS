@@ -1,0 +1,106 @@
+# Biomimetic Microstructures - Insect photonics, chiral structures, surface textures
+# Bio-inspired nanoscale optical and structural patterns
+
+photonic_crystals:
+  - photonic_crystal_cuticle        # Beetle multilayer lattices
+  - gyroid_nanostructure            # Morpho butterfly triply periodic
+  - bragg_reflector_layers          # Jewel beetle alternating layers
+  - photonic_bandgap_gradient       # Varying lattice reflectivity
+  - photonic_nanofoam               # Moth scale random air-chitin
+  - nanocavity_whispering_galleries # Butterfly scale light trapping
+  - hexagonal_plasmonic_resonators  # Weevil nano-hexagons
+  - metasurface_plasmon_lattices    # Engineered photonic plates
+  - photonic_band_gap_crystals      # Nanoscale periodic dielectric
+
+helicoidal_chiral:
+  - chitin_helicoidal_layering      # Spiral-stacked polarization sheen
+  - cholesteric_liquid_crystals     # Twisting optical axes
+  - helicoidal_gradient_layers      # Varying pitch color gradients
+  - double_helix_ridge_arrays       # Moth scale DNA-like intersections
+  - circular_polarization_filters   # Helical nanostructures
+
+surface_textures:
+  - diffraction_grating_scales      # Fine ridge nanogratings
+  - anti_reflective_nipple_arrays   # Moth eye cone nanostructures
+  - nanoporous_iridescent_films     # Random hole resonant cavities
+  - nanodimple_arrays               # Dragonfly wing concavities
+  - hierarchical_nanospikes         # Moth wing margin spiked arrays
+  - nanotextured_interlocking_scales # Moth thorax airflow regulation
+  - subsurface_resonant_cavities    # Weevil hollow tuned pockets
+  - nanoporous_arrays               # (General class)
+
+composite_structures:
+  - sculptured_micro_trusses        # Beetle elytra internal ribs
+  - chitinous_microdomes            # Dragonfly thorax hemispheres
+  - crystalline_dome_arrays         # Bee compound eye hex lenses
+  - honeycomb_lattice               # (General biological)
+  - helicoidal_plywood_structure    # Crustacean alternating angles
+  - micro_laminate_photonic_foils   # Butterfly compacted rainbows
+  - ptychotrix_microfiber_weave     # Caddisfly protein-chitin diagonal
+  - layered_cuticular_nanopillars   # Jewel beetle vertical columns
+
+reflective_optical:
+  - mirror_scale_architecture       # Scarab micro-mirrors
+  - iridescent_structural_films     # True bug interference membranes
+  - metallic_nanoparticle_inclusion # Bee plasmon resonance
+  - surface_plasmon_resonance_patches # Electromagnetic field concentration
+  - quasi_ordered_nanospheres       # Dragonfly wing correlated random
+  - fractal_ridge_ornamentation     # Butterfly scale rib interference
+  - scale_overlap_tiling            # Butterfly/moth wing mosaics
+  - thin_platelet_pigment_layers    # Firebug stacked pigment
+  - subsurface_pigment_mirrors      # Wasp carapace dark under reflective
+
+dynamic_responsive:
+  - anisotropic_reflectors          # Tortoise beetle liquid layers
+  - dynamic_coloration_hemolymph    # Fluid altering refractive spacing
+  - piezochromic_cuticle            # Stress-shift color (speculative)
+  - thermo_optic_phase_transitions  # Heat refractive index change
+  - thermal_gradient_photonic_response # Desert beetle IR reflection
+
+specialized:
+  - hollow_microtubule_lattice      # Cicada wing nano-pillars
+  - silica_embedded_nanostructures  # Diatom mineral incorporation
+  - biogenic_silica_nano_layering   # Ant cuticle UV refraction
+  - carbon_nanofiber_analogues      # Fungus beetle conductive networks
+  - hemolymph_lined_reflective_canals # Click beetle fluid-backed
+  - nanoparticle_inclusion          # (General)
+  - birefringent_cuticle_layers     # Butterfly antennae split light
+  - polarized_wing_membrane_bands   # Mayfly ordered nanostructure
+  - chiral_cholesteric              # (Redundant with cholesteric above)
+  - scale_groove_diffusers          # Shallow microgroove homogenization
+  - helix_bundle_reflectors         # Beetle cuticle helical fibrils
+  - fringe_layer_reflectors         # Beetle elytra edge microfringes
+  - hexagonal_nano_pocket_arrays    # Butterfly basal membrane recesses
+  - submicron_pillar_forests        # Cicada wing base dampers
+  - elliptical_microlens_arrays     # Fly compound eye ommatidia
+  - elastic_refractive_membranes    # Grasshopper color-shifting
+  - pigment_lattice_fusion          # Beetle spots embedded
+  - hierarchical_surface_scaling    # Nested structural levels
+  - refractive_void_channels        # Beetle elytral hollow pores
+  - polarization_selective_films    # Butterfly microlayered filters
+  - magnetite_nanocrystal_inclusions # Ant head orientation crystals
+  - layered_elastic_fibril_bundles  # Cricket leg armor resilience
+  - nanochannel_air_cavities        # Beetle reflective hollow gaps
+  - hybrid_biophotonic_pigment_systems # Heat co-modulation
+  - resonant_plasmonic_antennae     # Insect antennae nano-metallic
+  - hydrocarbon_wax_microfilms      # Beetle surface UV/dehydration
+  - fluidic_refractive_networks     # Wasp thoracic circulatory tubes
+  - piezoelectric_reflective_crystals # Fictional pressure-charge-color
+  - bio_optical_interference_crystals # Genetic optimization
+  - acoustic_optic_crosslinking     # Cricket tympanum sound-light
+  - transparent_metallic_chitin     # Speculative clear metal
+  - optical_neural_synapse_arrays   # Bio-synthetic photonic nerve
+  - quantum_coherent_exoskeleton    # Phase-locked perfect interference
+
+bioluminescence:
+  - pigment_chitin_hybrid_systems   # Firefly glow balance
+  - metalloprotein_optical_tissues  # Firefly protein-metal glow
+  - bio_electroluminescent_tissue   # Speculative continuous charge
+  - reactive_oxygen_glow_films      # Speculative oxygen-triggered
+
+mechanical_optical:
+  - hydrophobic_nanopatterning      # Lotus beetle self-cleaning
+  - hydrophilic_hydrophobic_alternation # Water beetle buoyancy
+  - self_cleaning_optical_membrane  # Cicada wing nano-cones
+  - ultrasmooth_anti_scatter_membranes # Moth eyelike deep matte
+  - acoustic_damping_arrays         # (Related to pillar forests)

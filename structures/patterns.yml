@@ -1,0 +1,32 @@
+# Patterns - Geometric pattern additions
+# Herringbone, reticulate, meander, rugose, isometric grid
+
+herringbone:
+  context: V-shaped zigzag weaving pattern resembling fish skeleton; alternating diagonal directions.
+  glsl_relevance: medium # weave_patterns, zigzag_textures, directional_alternation
+  related: [weaving, zigzag, textiles, geometry]
+  tags: [patterns, textiles, geometry]
+
+reticulate:
+  context: Net-like pattern with interconnected veins forming mesh topology; leaf venation networks.
+  glsl_relevance: high # network_patterns, mesh_structures, anastomosing
+  related: [venation, networks, mesh, anastomosis]
+  tags: [biology, patterns, networks]
+
+meander:
+  context: Sinuous winding curves with repeated turns; river sinuosity and geometric meander patterns.
+  glsl_relevance: medium # winding_curves, sinuous_paths, river_geometry
+  related: [rivers, sinuosity, curves, labyrinthine]
+  tags: [geology, geometry, patterns]
+
+rugose:
+  context: Wrinkled, corrugated, or ridged surface texture; rough folded morphology.
+  glsl_relevance: medium # wrinkled_surfaces, corrugation, rough_texture
+  related: [corrugation, wrinkles, surface_texture, folding]
+  tags: [morphology, textures, surfaces]
+
+isometric_grid:
+  context: 3D coordinate system with equal angles between axes; triangular tiling basis for hexagonal packing.
+  glsl_relevance: high # hexagonal_basis, 3d_grid, crystal_lattices, packing
+  related: [hexagonal, tessellation, lattices, packing]
+  tags: [geometry, grids, crystallography]

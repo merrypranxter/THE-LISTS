@@ -1,0 +1,26 @@
+# Biological Patterns - Natural pattern formation in living systems
+# Phyllotaxis, reaction-diffusion pigmentation, slime mold, leaf venation
+
+phyllotaxis:
+  context: Spiral packing arrangements in botanical structures (seeds, leaves) following Fibonacci/golden angle (137.5°) optimization.
+  glsl_relevance: high # sunflower_spirals, golden_ratio, packing
+  related: [fibonacci, golden_angle, packing, voronoi]
+  tags: [biology, geometry, growth]
+
+reaction_diffusion_pigmentation:
+  context: Turing-type morphogenetic processes generating animal coat patterns (leopard spots, zebra stripes, giraffe patches).
+  glsl_relevance: high # organic_textures, camouflage, biological_patterns
+  related: [turing_patterns, morphogenesis, animal_patterns]
+  tags: [biology, pde, patterns]
+
+slime_mold_optimization:
+  context: Physarum polycephalum network formation via nutrient feedback; adaptive routing solving maze/steiner tree problems.
+  glsl_relevance: medium # network_optimization, biological_computation
+  related: [networks, optimization, biological_computation, transport]
+  tags: [biology, networks, algorithms]
+
+leaf_venation:
+  context: Fractal branching vascular networks guided by auxin canalization; optimized transport architecture.
+  glsl_relevance: high # branching, transport_networks, fractals
+  related: [auxin_transport, canalization, dendritic, venation]
+  tags: [biology, networks, transport]

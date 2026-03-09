@@ -1,0 +1,70 @@
+# Crystalline Materials - Specific high-signature minerals and crystal habits
+# Optical effects, crystal habits, notable minerals
+
+# Crystal Habits
+conchoidal_fracture:
+  context: Smooth curved fracture surfaces resembling concentric rings of a clam shell; glassy breakage pattern.
+  glsl_relevance: medium # fracture_surfaces, breakage_patterns, smooth_curves
+  related: [fracture_mechanics, flint, chert, obsidian]
+  tags: [materials, mechanics, geometry]
+
+botryoidal:
+  context: Hemispherical globular aggregates resembling grape clusters; radial-fibrous internal structure.
+  glsl_relevance: medium # organic_forms, clustering, radial_growth, malachite
+  related: [stalactitic, reniform, globular, aggregation]
+  tags: [morphology, crystal_habit, geology]
+
+acicular:
+  context: Slender needle-like crystal habit; radiating clusters or parallel alignments.
+  glsl_relevance: medium # fibrous_structures, needled_forms, radiating
+  related: [fibrous, prismatic, crystal_habit, rutile]
+  tags: [morphology, crystallography]
+
+dodecahedral:
+  context: Twelve-faced crystal form with pentagonal faces; garnet habit.
+  glsl_relevance: medium # platonic_solids, pentagonal_faces, crystal_geometry
+  related: [icosahedral, cubic, crystal_systems, garnet]
+  tags: [geometry, crystallography]
+
+tabular:
+  context: Flat plate-like crystal form with prominent basal pinacoid; wulfenite, barite habit.
+  glsl_relevance: low # planar_forms, flat_crystals, layering
+  related: [platy, lamellar, crystal_habit]
+  tags: [morphology, crystallography]
+
+# Specific Minerals
+banded_agate:
+  context: Concentric rhythmic precipitation bands in chalcedony; alternating color layers from periodic mineral deposition.
+  glsl_relevance: high # procedural_banding, concentric_layers, rhythmic_patterns
+  related: [chalcedony, liesegang_rings, precipitation, banding]
+  tags: [minerals, patterns, geological]
+
+rutilated_quartz:
+  context: Quartz containing golden/reddish needle-like rutile inclusions; hair-like patterns suspended in transparent matrix.
+  glsl_relevance: high # inclusions, suspended_needles, transparent_matrix, hair_patterns
+  related: [acicular, rutile, quartz, inclusions]
+  tags: [minerals, optics, textures]
+
+labradorite:
+  context: Feldspar displaying labradorescence (schiller); iridescent blue/green flash from lamellar twinning structures.
+  glsl_relevance: high # iridescent_feldspar, flash_effect, lamellar_interference
+  related: [schiller, feldspar, twinning, iridescence]
+  tags: [minerals, optics, gemology]
+
+alexandrite:
+  context: Chrysoberyl variety with strong color-change (green daylight to red incandescent); chromium absorption bands.
+  glsl_relevance: medium # color_shift, lighting_dependent, chrysoberyl
+  related: [color_change, pleochroism, chrysoberyl]
+  tags: [minerals, optics, rare]
+
+malachite:
+  context: Copper carbonate with distinctive concentric banding in deep green; botryoidal masses with radial fibrous structure.
+  glsl_relevance: high # banded_green, copper_mineral, radial_fibers, bullseye_patterns
+  related: [botryoidal, banded, copper, carbonate]
+  tags: [minerals, patterns, color]
+
+pyrite:
+  context: Iron sulfide with metallic luster and cubic/striated crystal habit; "fool's gold" cubic clusters.
+  glsl_relevance: medium # metallic_cubes, striated_faces, cubic_crystals
+  related: [cubic, metallic_luster, sulfide, crystals]
+  tags: [minerals, geometry, metallic]

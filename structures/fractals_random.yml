@@ -1,0 +1,26 @@
+# Fractals & Random Processes - Stochastic pattern formation
+# DLA, percolation, self-organized criticality, river networks
+
+diffusion_limited_aggregation:
+  context: Random walk particle clustering creating fractal dendrites; Witten-Sander model for frost/coral/mineral growth.
+  glsl_relevance: high # fractal_growth, particle_systems, branching
+  related: [dla, fractals, random_walk, aggregation]
+  tags: [fractals, stochastic, growth]
+
+percolation:
+  context: Connectivity phase transition in random networks; emergence of spanning clusters at threshold probability.
+  glsl_relevance: medium # random_networks, phase_transitions, clusters
+  related: [criticality, networks, random_media, threshold]
+  tags: [probability, statistical_mechanics, fractals]
+
+self_organized_criticality:
+  context: Systems evolving to critical state without external tuning; power-law avalanches (sandpile model, Bak-Tang-Wiesenfeld).
+  glsl_relevance: medium # avalanches, power_laws, criticality
+  related: [sandpile, critical_phenomena, power_law, avalanches]
+  tags: [complexity, statistical_mechanics, dynamics]
+
+river_networks:
+  context: Optimal channel formation via erosion creating fractal drainage basins; Hack's law scaling.
+  glsl_relevance: medium # drainage, fractal_geometry, transport
+  related: [optimal_transport, fractals, erosion, dendritic]
+  tags: [geology, networks, fractals]

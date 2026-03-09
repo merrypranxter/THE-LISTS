@@ -1,0 +1,61 @@
+# Exotic Geometries - Pathological, non-standard, and higher-dimensional geometric objects
+# Non-standard topologies, higher dimensions, hyperbolic, algebraic curves, space-filling
+
+# Non-Standard Topologies
+long_line:
+  context: Uncountable topological space locally like R but longer than R; non-metrizable, non-paracompact.
+  glsl_relevance: low # pathological_topology, ordinal_spaces
+  related: [ordinal_topology, non_metrizable, uncountable_length, lexicographic]
+  tags: [topology, exotic, non_standard, long_line]
+
+exotic_r4:
+  context: Smooth 4-manifold homeomorphic but not diffeomorphic to standard R^4; infinitely many smooth structures exist only in dim=4.
+  glsl_relevance: low # differential_topology, smooth_structure
+  related: [donaldson_theory, freedman, smooth_manifolds, four_dimensions]
+  tags: [differential_topology, exotic_smooth, four_d, pathology]
+
+alexander_horned_sphere:
+  context: Wild embedding of S^2 in R^3 with non-simply-connected exterior; violates Jordan-Schoenflies.
+  glsl_relevance: low # wild_topology, fractal_embedding
+  related: [wild_knots, topological_embedding, cantor_set, pathology]
+  tags: [topology, wild_embedding, spheres, pathology]
+
+hawaiian_earring:
+  context: Countable union of shrinking circles intersecting at point; fundamental group uncountable and non-free.
+  glsl_relevance: low # wild_topology, infinite_genus
+  related: [wild_homotopy, fundamental_group, shrinking_loops, topology]
+  tags: [algebraic_topology, wild_topology, loops, pathological]
+
+solenoid:
+  context: Inverse limit of circles; compact connected totally disconnected group; Cantor-set cross S^1.
+  glsl_relevance: low # dynamical_systems, foliations
+  related: [inverse_limits, cantor_set, topological_groups, minimal_sets]
+  tags: [topology, solenoid, dynamical_systems, fractal_group]
+
+# Higher Dimensions & Exotic
+exotic_spheres:
+  context: Smooth manifolds homeomorphic but not diffeomorphic to standard n-sphere; Milnor's construction in dim 7.
+  glsl_relevance: low # differential_topology, h_cobordism
+  related: [milnor, smooth_structure, exotic_differentiable, seven_dimensions]
+  tags: [differential_topology, spheres, exotic, high_dimensions]
+
+# Hyperbolic & Non-Euclidean
+hyperbolic_honeycomb:
+  context: Regular tessellation of hyperbolic space; Schläfli symbol {p,q} with (p-2)(q-2)>4.
+  glsl_relevance: high # escher_tilings, negative_curvature
+  related: [poincare_disk, hyperbolic_geometry, tessellation, non_euclidean]
+  tags: [hyperbolic, tessellation, honeycomb, infinite_tiling]
+
+# Algebraic Curves
+dessins_denfants:
+  context: Bipartite graphs on Riemann surfaces encoding Belyi maps; Grothendieck's children's drawings with Galois action.
+  glsl_relevance: medium # algebraic_curves, graph_embedding
+  related: [belyi_maps, galois_action, monodromy, algebraic_geometry]
+  tags: [algebraic_geometry, graphs, galois, combinatorial]
+
+# Space-Filling & Dimensionality
+space_filling_curves:
+  context: Continuous surjective maps from [0,1] to [0,1]^n; Peano/Hilbert curves; fractal dimension 2.
+  glsl_relevance: medium # z_ordering, memory_layout, fractal_path
+  related: [peano_curve, hilbert_curve, fractal_curves, surjection]
+  tags: [fractals, curves, dimensionality, space_filling]

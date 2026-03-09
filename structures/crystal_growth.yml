@@ -1,0 +1,44 @@
+# Crystal Growth - Crystallization patterns and growth phenomena
+# Dendritic growth, precipitation, spherulites, spinodal decomposition, quasicrystals
+
+dendritic_growth:
+  context: Branching solidification morphology driven by diffusion-limited aggregation and Mullins-Sekerka instability at solid-liquid interface.
+  glsl_relevance: high # snowflakes, frost patterns, fractal growth
+  related: [dla, diffusion_limited, solidification, branching]
+  tags: [phase_transition, fractals, materials]
+
+liesegang_rings:
+  context: Periodic precipitation bands forming in gels via supersaturation threshold cycling and diffusion-controlled nucleation.
+  glsl_relevance: medium # concentric banding, chemical art
+  related: [precipitation, diffusion, periodic_structures, chemical_gardens]
+  tags: [chemistry, patterns, materials]
+
+spherulitic_growth:
+  context: Radial crystallization from central nuclei producing fibrous sunburst patterns with concentric banding; common in polymers/minerals.
+  glsl_relevance: medium # radial textures, crystalline optics
+  related: [crystallization, radial_symmetry, polymer_physics]
+  tags: [materials, phase_transition]
+
+spinodal_decomposition:
+  context: Phase separation via uphill diffusion; Cahn-Hilliard dynamics producing interconnected labyrinthine domains that coarsen over time.
+  glsl_relevance: high # phase separation textures, alloy patterns
+  related: [cahn_hilliard, phase_transition, pattern_formation, coarsening]
+  tags: [thermodynamics, pde, materials]
+
+chladni_figures:
+  context: Modal patterns of vibrating plates visualized via particle accumulation at nodal lines; eigenfunctions of 2D wave equation.
+  glsl_relevance: high # cymatics, acoustic visualization, standing_waves
+  related: [standing_waves, eigenmodes, vibration, nodes]
+  tags: [acoustics, waves, geometry]
+
+quasicrystals:
+  context: Aperiodic long-range order with forbidden rotational symmetries (5,8,10-fold); projection of higher-dimensional periodic lattices.
+  glsl_relevance: high # penrose_tiling, aperiodic_tessellation
+  related: [penrose_tiling, aperiodic_order, diffraction, forbidden_symmetry]
+  tags: [crystallography, geometry, materials]
+
+columnar_jointing:
+  context: Hexagonal fracture patterns in cooling lava/magma from thermal contraction stress; Devils Postpile geometry.
+  glsl_relevance: medium # geological patterns, hexagonal_tessellation
+  related: [fracture_mechanics, cooling, hexagons, basalt]
+  tags: [geology, thermodynamics, patterns]

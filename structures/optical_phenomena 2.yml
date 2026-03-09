@@ -1,0 +1,69 @@
+# Optical Phenomena - Mineral/Structural Optics
+# Thin film interference, diffraction, structural coloration, optical effects
+
+thin_film_interference:
+  context: Phase shift between reflected light waves from film boundaries creates angle-dependent color bands via constructive/destructive interference.
+  glsl_relevance: high # soap bubbles, oil slicks, iridescence shaders
+  related: [iridescence, newton_rings, phase_shift, structural_color]
+  tags: [optics, wave_physics, rendering]
+
+bragg_reflection:
+  context: Coherent scattering from periodic dielectric lattices; wavelength-selective reflection in photonic crystals/multilayer stacks.
+  glsl_relevance: high # butterfly wings, beetle shells, photonic shaders
+  related: [photonic_crystal, diffraction, structural_color, multilayer]
+  tags: [optics, solid_state, biology]
+
+diffraction_grating:
+  context: Periodic structure splitting light into spectral orders via wave interference; angular dispersion governed by grating equation.
+  glsl_relevance: high # spectral effects, holographic textures
+  related: [bragg_reflection, fourier_optics, dispersion]
+  tags: [optics, wave_physics]
+
+caustics:
+  context: Envelope of light rays bending through refractive interfaces; catastrophe-theory singularities (cusps, folds) in intensity patterns.
+  glsl_relevance: high # pool light patterns, lens effects, raytracing
+  related: [catastrophe_theory, ray_bending, envelope, light_transport]
+  tags: [optics, geometry, rendering]
+
+birefringence:
+  context: Double refraction in anisotropic crystals splitting incident light into orthogonal polarizations with differing refractive indices.
+  glsl_relevance: medium # stress patterns, mineral optics
+  related: [polarization, anisotropy, refraction, optical_activity]
+  tags: [optics, crystallography]
+
+structural_coloration:
+  context: Physical nanostructures (multilayers, gratings, photonic crystals) producing color via interference rather than pigment absorption.
+  glsl_relevance: high # biomimetic rendering, iridescence
+  related: [bragg_reflection, thin_film, photonic_crystal, diffraction]
+  tags: [optics, biology, materials]
+
+# Mineral Optics
+chatoyancy:
+  context: Single moving band of reflected light from parallel fibrous inclusions or needle-like structures; anisotropic reflection creating "cat's-eye" streak.
+  glsl_relevance: high # anisotropic_specular, banded_reflection, fibrous_structure
+  related: [pleochroism, reflection, banding, fibrous_inclusions, gems]
+  tags: [optics, materials, shaders]
+
+pleochroism:
+  context: Different absorption colors depending on light polarization direction and viewing angle through anisotropic crystals.
+  glsl_relevance: high # dichroic_filtering, polarization_dependent_color, anisotropy
+  related: [birefringence, polarization, absorption, dichroism]
+  tags: [optics, crystallography, color]
+
+adularescence:
+  context: Soft billowy sheen from light scattering between microscopic lamellar layers; moonstone glow effect.
+  glsl_relevance: high # subsurface_scattering, layered_microstructure, soft_glow
+  related: [schiller, iridescence, scattering, moonstone]
+  tags: [optics, materials, gemology]
+
+schiller:
+  context: Play of color from submicroscopic inclusions or thin film interference within mineral; labradorite spectral flash.
+  glsl_relevance: high # thin_film_interference, inclusion_optics, spectral_flash
+  related: [adularescence, iridescence, labradorite, interference]
+  tags: [optics, materials]
+
+color_change:
+  context: Selective absorption shifts between incandescent and daylight sources; alexandrite effect (red vs green).
+  glsl_relevance: medium # lighting_dependent_color, metamerism, spectral_shift
+  related: [absorption, spectral, alexandrite, lighting]
+  tags: [optics, materials, color]
