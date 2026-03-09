@@ -1,0 +1,32 @@
+# Abstract Geometries - Mathematical geometric structures
+# Voronoi, minimal surfaces, Penrose tiling, logarithmic spiral, strange attractors
+
+voronoi_tessellation:
+  context: Partition of space into regions closest to each seed point; nearest-neighbor cellular decomposition.
+  glsl_relevance: high # cellular_patterns, cracking, packing
+  related: [delaunay, tessellation, proximity, cells]
+  tags: [geometry, algorithms, discrete_math]
+
+minimal_surfaces:
+  context: Zero mean curvature surfaces minimizing area; soap films, Plateau's laws, Schwarz P/Gyroid.
+  glsl_relevance: high # soap_bubbles, surface_minimization, triply_periodic
+  related: [plateau, mean_curvature, surface_tension, gyroid]
+  tags: [geometry, calculus_of_variations, surfaces]
+
+penrose_tiling:
+  context: Aperiodic tessellation with fivefold symmetry; inflation/deflation substitution rules.
+  glsl_relevance: high # aperiodic, quasicrystals, substitution
+  related: [quasicrystals, aperiodic, tiling, fivefold]
+  tags: [geometry, discrete_math, patterns]
+
+logarithmic_spiral:
+  context: Self-similar spiral with constant growth angle; r = ae^(bθ), found in shells/galaxies/hurricanes.
+  glsl_relevance: medium # golden_spiral, growth, phyllotaxis
+  related: [equiangular, fibonacci, self_similarity, growth]
+  tags: [geometry, calculus, biology]
+
+strange_attractors:
+  context: Chaotic invariant sets with fractal structure; Lorenz, Rössler, Hénon attractors in phase space.
+  glsl_relevance: high # chaos, dynamical_systems, particle_flows
+  related: [chaos, fractals, lorenz, dynamics, phase_space]
+  tags: [dynamics, chaos, fractals]
