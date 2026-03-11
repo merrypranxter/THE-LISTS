@@ -1,0 +1,28 @@
+{
+  "phase": 5,
+  "domain": "Chaos & Fractals",
+  "title": "🌡️ Reaction-Diffusion Systems",
+  "emoji": "🌡️",
+  "name": "Reaction-Diffusion Systems",
+  "what_it_is": "Math systems modeling how two substances interact—often creates flowing, rippling blobs like pigment spreading in water.",
+  "how_to_use": [
+    "her aura is made of reaction-diffusion—fluid color pulses spreading across her form",
+    "the wall bleeds with math—reaction waves ripple like alien bio-ink"
+  ],
+  "good_for": [
+    "Auras",
+    "magic",
+    "liquid behavior",
+    "skin overlay",
+    "portals"
+  ],
+  "visual_keywords": [
+    "Spreading blobs",
+    "ripple bloom",
+    "fluid chaos",
+    "living ink",
+    "alien diffusion"
+  ],
+  "animation_behavior": "Color flows in waves, reactive ripple effects, pulsing with life or thought",
+  "id": "chaos_p5_04"
+}

@@ -1,0 +1,28 @@
+{
+  "phase": 5,
+  "domain": "Chaos & Fractals",
+  "title": "🧬 Turing Patterns",
+  "emoji": "🧬",
+  "name": "Turing Patterns",
+  "what_it_is": "Natural patterns that form through chemical reactions and diffusion—responsible for zebra stripes, leopard spots, and coral forms.",
+  "how_to_use": [
+    "her skin is covered in Turing stripes—organic symmetry, mathematical in origin",
+    "the creature’s shell is etched with Turing pulses—spots that shift with breath"
+  ],
+  "good_for": [
+    "Skin",
+    "shells",
+    "fur patterns",
+    "liquid effects",
+    "magical inks"
+  ],
+  "visual_keywords": [
+    "Ripples",
+    "stripes",
+    "blotches",
+    "animal fractals",
+    "organic symmetry"
+  ],
+  "animation_behavior": "Patterns slowly ripple or morph across the surface—living paint ---",
+  "id": "chaos_p5_01"
+}

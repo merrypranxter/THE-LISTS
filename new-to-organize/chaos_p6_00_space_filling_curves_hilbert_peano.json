@@ -1,0 +1,27 @@
+{
+  "phase": 6,
+  "domain": "Chaos & Fractals",
+  "title": "🔁 Space-Filling Curves (Hilbert, Peano)",
+  "emoji": "🔁",
+  "name": "Space-Filling Curves (Hilbert, Peano)",
+  "what_it_is": "Curves that fill a 2D area completely without lifting the pen—used to model recursive motion and strange traversal paths.",
+  "how_to_use": [
+    "her limbs are inked with space-filling veins—paths that twist through every surface atom",
+    "the floor is a Hilbert curve—motion slides through every square inch with perfect recursion"
+  ],
+  "good_for": [
+    "Skin tattoos",
+    "ground textures",
+    "data trails",
+    "spirit-paths"
+  ],
+  "visual_keywords": [
+    "Recursive path",
+    "complete fill",
+    "ink maze",
+    "snaking logic",
+    "motion map"
+  ],
+  "animation_behavior": "Curve animates across a surface—growing or shifting through every point of space ---",
+  "id": "chaos_p6_00"
+}

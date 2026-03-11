@@ -1,0 +1,26 @@
+{
+  "phase": 9,
+  "domain": "Chaos & Fractals",
+  "title": "🧠 Chaos Logic Paradoxes",
+  "emoji": "🧠",
+  "name": "Chaos Logic Paradoxes",
+  "what_it_is": "Paradoxical or contradictory truths emerging from chaotic systems—where logic breaks down or loops into itself (e.g., liar’s paradox, self-erasing truths).",
+  "how_to_use": [
+    "her sigils embody paradox—glyphs that erase themselves while still casting effects",
+    "his aura speaks paradox—truths loop and contradict in recursive glow"
+  ],
+  "good_for": [
+    "Sigils",
+    "paradox magic",
+    "recursive glyphwork",
+    "mystery codes"
+  ],
+  "visual_keywords": [
+    "Self-negating runes",
+    "paradox sigils",
+    "glowing contradiction",
+    "flickering logic"
+  ],
+  "animation_behavior": "Glyphs appear and cancel, meaning loops, animation undoes itself as it progresses ---",
+  "id": "chaos_p9_03"
+}

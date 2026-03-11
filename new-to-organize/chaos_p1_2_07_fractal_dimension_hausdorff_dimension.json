@@ -1,0 +1,27 @@
+{
+  "phase": "1_2",
+  "domain": "Chaos & Fractals",
+  "title": "🧩 Fractal Dimension (Hausdorff Dimension)",
+  "emoji": "🧩",
+  "name": "Fractal Dimension (Hausdorff Dimension)",
+  "what_it_is": "A way to describe shapes that aren’t whole-dimensional—like a curve that almost fills a surface. Used to describe coastlines, clouds, blood vessels, etc.",
+  "how_to_use": [
+    "her skin has a fractional dimensional crust—neither flat nor textured, but infinitely in-between",
+    "a gown woven from fractional light—drifting between 1D thread and 2D mist"
+  ],
+  "good_for": [
+    "Surface textures",
+    "terrain",
+    "magical garments",
+    "skin",
+    "edges"
+  ],
+  "visual_keywords": [
+    "Fractional",
+    "non-integer",
+    "detail-in-every-scale",
+    "ghost-dimensioned"
+  ],
+  "animation_behavior": "Flickering at different levels of zoom, texture appears and vanishes depending on perspective ---",
+  "id": "chaos_p1_2_07"
+}

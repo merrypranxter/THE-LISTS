@@ -1,0 +1,26 @@
+{
+  "phase": 5,
+  "domain": "Chaos & Fractals",
+  "title": "🧫 Cellular Automata (Conway, Wolfram)",
+  "emoji": "🧫",
+  "name": "Cellular Automata (Conway, Wolfram)",
+  "what_it_is": "Rule-based grids where each cell changes over time depending on its neighbors. Can model life, death, motion, and chaos from simple rules.",
+  "how_to_use": [
+    "her skin pulses with cellular automata—each patch evolving through birth and decay",
+    "floor tiles react like Game of Life—emitting light when motion passes near"
+  ],
+  "good_for": [
+    "Skin textures",
+    "background grids",
+    "reactive environments"
+  ],
+  "visual_keywords": [
+    "Pixel logic",
+    "grid evolution",
+    "reactive cells",
+    "binary bloom",
+    "chaos logic"
+  ],
+  "animation_behavior": "Cell states flicker, patterns ripple outward, responsive to interaction or internal states ---",
+  "id": "chaos_p5_00"
+}

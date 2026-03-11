@@ -1,0 +1,27 @@
+{
+  "phase": 4,
+  "domain": "Chaos & Fractals",
+  "title": "🌿 L-Systems (Lindenmayer Systems)",
+  "emoji": "🌿",
+  "name": "L-Systems (Lindenmayer Systems)",
+  "what_it_is": "Recursive string-replacement systems that model natural growth—used to simulate plants, fungi, lightning, and coral.",
+  "how_to_use": [
+    "horns that grow like L-systems—symmetrical, recursive branching from crown to tip",
+    "forest of fungal light—every stalk a recursive L-system bloom"
+  ],
+  "good_for": [
+    "Organic growth forms",
+    "trees",
+    "bone structures",
+    "alien landscapes"
+  ],
+  "visual_keywords": [
+    "Branching",
+    "recursive",
+    "botanical",
+    "rule-based growth",
+    "lightning fractals"
+  ],
+  "animation_behavior": "Smooth growing recursion, curling growths, stepwise expansion over time ---",
+  "id": "chaos_p4_01"
+}

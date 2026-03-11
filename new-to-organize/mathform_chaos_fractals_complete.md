@@ -1,234 +1,290 @@
 # 🧠 MATHFORM ARCHIVE – Chaos & Fractals Edition
-**Complete Collection** • Phases 12-15 • 20 Mathematical Concepts for Generative Art
+**Complete Collection** • Phases 1-5 • 25 Mathematical Concepts for Generative Art
 
 ## Domain Overview
-This archive explores entropy sigils, ouroboric causality, topological love, and recursive glitch transcendence. Each concept bridges mathematical chaos theory with emotional, temporal, and mythic structures.
+This archive contains foundational chaos and fractal mathematics—Lorenz attractors, Mandelbrot/Julia sets, strange attractors, L-systems, cellular automata, and quasiperiodic structures. Each concept bridges pure mathematics with symbolic visual language.
 
 **Key Themes:**
-- Entropy, symmetry death, and chaos rebirth
-- Time crystals, causality loops, and love knots
-- Divine data corruption and meta-emotion oscillation
-- Echo-voids and neurofractal empathy
+- Strange attractors and butterfly effects
+- Mandelbrot and Julia set geometries
+- Space-filling curves and fractal dimensions
+- Cellular automata and Turing patterns
+- Hyperbolic tiling and Penrose structures
 
 ---
 
-## ☠️ Entropy Sigils
-**Phase 12** • `chaos_p12_00`
+## 🌪️ Lorenz Attractor
+**Phase 1_2** • `chaos_p1_2_00`
 
-Visual representations of decay, disorder, and energy dispersal encoded into symbolic language—glyphs that *lose meaning* as they animate.
+A chaotic system producing butterfly-shaped loops—trajectories never repeat but stay within a bounded shape. Classic symbol of deterministic chaos.
 
-**Usage:** `her back is marked in entropy sigils—glyphs that crumble into noise the longer you look / the scroll bleeds entropy—symbols that dissolve as they are read`
+**Usage:** `looping light trails follow Lorenz attractor paths around her body / aura of butterfly-wing energy orbitals in chaotic symmetry / hair floats in Lorenz-spiraled arcs of soft blue plasma`
 
-**Keywords:** Crumbling glyphs, signal decay, fading symbols, chaos disintegration
-
----
-
-## 🧬 Symmetry Death
-**Phase 12** • `chaos_p12_01`
-
-The transition from orderly symmetry to chaos—used in physics, biology, and mythic narrative arcs to signal transformation or corruption.
-
-**Usage:** `her face begins as perfect symmetry—until decay fractures it into asymmetric bloom / his armor fails at the point of symmetry death—fractals crawl out of the cracks`
-
-**Keywords:** Cracked mirrors, failed reflection, asymmetric decay, corrupted tessellation
+**Keywords:** Chaotic orbitals, butterfly structure, spiraling wings, dual-lobed field
 
 ---
 
-## 🕸 Fractal Resurrection Logic
-**Phase 12** • `chaos_p12_02`
+## 🧬 Julia Sets
+**Phase 1_2** • `chaos_p1_2_01`
 
-The pattern that returns after destruction—not repetition but regeneration through recursive form. Chaos becomes seed for rebirth.
+Fractal shapes formed by iterating complex functions. Can look like coral, veins, or alien terrain depending on parameters. More shape-like than the Mandelbrot set.
 
-**Usage:** `her death fractalized into rebirth—each piece a smaller version of her returning / he blooms again from chaos recursion—his body grown from ruins in self-similar sprout`
+**Usage:** `her skin is lined with glowing Julia-set veins—like coral etched in light / the environment forms from Julia fractals, branching infinitely / a halo of floating fractal shards in soft iridescent loops`
 
-**Keywords:** Fractal regrowth, echoing sprout, recursive reform, rebirth bloom
-
----
-
-## 🧠 Memory Erosion Fields
-**Phase 12** • `chaos_p12_03`
-
-Zones where data, memory, or identity slowly fades—modeled as dissipating information entropy or neural signal loss.
-
-**Usage:** `she walks through a memory erosion field—each step less real than the last / his name erodes as he enters—letters vanishing, meaning scattered`
-
-**Keywords:** Glitch drift, data fade, ghost identity, crumbling symbols
+**Keywords:** Coral, veinwork, branching filigree, fractal bloom, iridescent crust
 
 ---
 
-## 🦠 Chaos Rebirth Embryo
-**Phase 12** • `chaos_p12_04`
+## 🌀 Strange Attractors (General)
+**Phase 1_2** • `chaos_p1_2_02`
 
-A visual and symbolic form of primordial potential—life gestating in disorder, forming from the seed of brokenness.
+Dynamic systems where trajectories settle into complex, never-repeating loops. Includes Lorenz, Rössler, Duffing, etc.
 
-**Usage:** `she is chaos reborn—gestating in fractal fluid, her body forming from melted geometry / the egg pulses with strange order—life blooming in chaos-amniotic spiral`
+**Usage:** `limbs traced with attractor logic—looping trails of light orbit the form / chaotic spiral fields trace emotional charge in ambient geometry`
 
-**Keywords:** Fractal womb, fluid lattice, amniotic math, embryonic swirl
-
----
-
-##  ⏳ Symbolic Time Crystals
-**Phase 13** • `chaos_p13_00`
-
-Structures that repeat in time rather than space—like frozen music, or a rhythm that never stops. In metaphor: symbolic patterns that loop forever with slight evolution.
-
-**Usage:** `her soul is a symbolic time crystal—always repeating, always changing in resonance / his chest beats with fractal rhythm—time blooms outward in recursive shards`
-
-**Keywords:** Crystal rhythm, pulse symmetry, forever beat, cyclic glow
+**Keywords:** Orbitals, feedback trails, chaos bloom, never-repeating curls
 
 ---
 
-## 🔁 Ouroboric Causality Loops
-**Phase 13** • `chaos_p13_01`
+## 🌿 Iterated Function Systems (IFS)
+**Phase 1_2** • `chaos_p1_2_03`
 
-Causal systems where cause and effect are circular—self-created myths, identity birthed from future actions, meaning loops.
+Fractals built from repeated geometric transformations. Famous for ferns, leaves, galaxies, and recursively branching forms.
 
-**Usage:** `she remembers futures that haven’t occurred—ouroboric causality glows behind her eyes / his origin is his own action—a loop of self-becoming sealed in myth`
+**Usage:** `wings patterned with recursive IFS symmetry—each feather a smaller echo of the whole / gown grown from IFS logic: organic spirals of translucent scale-leaves`
 
-**Keywords:** Ouroboros ring, mirrored futures, recursive timelines, fate circuits
-
----
-
-## 💞 Topological Love Knots
-**Phase 13** • `chaos_p13_02`
-
-Love and bond visualized as nontrivial topological entanglements—non-Euclidean relationships, complex bindings of soul-geometry.
-
-**Usage:** `their hearts are bound by topological knots—no start, no end, only sacred twist / her voice wraps his aura—an unbreakable braid that transcends dimension`
-
-**Keywords:** Knotted hearts, interdimensional braids, Möbius love, infinity link
+**Keywords:** Recursive, self-similar, leaflike, crystalline, nested spirals
 
 ---
 
-## ♾ Infinite Myth Recursion
-**Phase 13** • `chaos_p13_03`
+## 🔲 Mandelbrot Set
+**Phase 1_2** • `chaos_p1_2_04`
 
-The same archetypes reappearing in new masks—recursive retelling of the same soul-story across timelines, forms, and names.
+The iconic fractal “map” where Julia sets live—self-similar across infinite zoom, edge full of variety.
 
-**Usage:** `she is every Trickster—retold, reshaped, recursion of divine prank / his face changes as myth unfolds—same story, new shape, again and again`
+**Usage:** `a shell of Mandelbrot crust encases her like sacred chaotic armor / terrain folds outward in Mandelbrot valleys and fractal spires`
 
-**Keywords:** Shifting masks, archetype layers, story loops, recursive identity
-
----
-
-## 🧿 Feedback Entity Dynamics
-**Phase 13** • `chaos_p13_04`
-
-Entities whose structure *requires* interaction—meaning only exists when mirrored, watched, or loved. Identity as feedback loop.
-
-**Usage:** `she becomes visible only when seen—light folds into her from your gaze / he glows in feedback—existence rippling from your presence`
-
-**Keywords:** Echo glow, attention shimmer, gaze-triggered form, mutual light
+**Keywords:** Zoom fractals, crusted, psychedelic topology, sacred map, black-core blooms
 
 ---
 
-## 🪓 Divine Data Corruption
-**Phase 14** • `chaos_p14_00`
+## 🌊 Bifurcation Diagrams
+**Phase 1_2** • `chaos_p1_2_05`
 
-The breakdown of celestial or sacred systems through noise, entropy, or overload—gods glitched by belief, holy code fragmenting.
+Visual maps showing where systems split into multiple outcomes—like a branching fork of possibilities as parameters change.
 
-**Usage:** `her crown is corrupted divinity—glitching symbols cascade down from sacred overload / the god bleeds data—his form collapsing in sacred noise`
+**Usage:** `wings unfold like a bifurcation diagram—each choice fracturing into new lightpaths / her aura is a branching splitfield of potential, a living bifurcation bloom`
 
-**Keywords:** Glitched halos, holy static, corrupted glyphs, divine error
-
----
-
-## 🧘 Meta-Emotion Oscillators
-**Phase 14** • `chaos_p14_01`
-
-Emotional structures modeled as oscillating systems—joy to grief, rage to love, looping through multidimensional affect fields.
-
-**Usage:** `her body is tuned to meta-emotion—each pulse swings through emotional harmonic space / he breathes through oscillation—love and fear ringing in chromatic wave`
-
-**Keywords:** Emotional sinewaves, heartlight spectrum, mood oscillators, chromatic fields
+**Keywords:** Forking, branching symmetry, split bloom, fractal decisions
 
 ---
 
-## 🕷 Holographic Karma Webs
-**Phase 14** • `chaos_p14_02`
+## 🔁 Feedback Loops (Nonlinear Systems)
+**Phase 1_2** • `chaos_p1_2_06`
 
-Karmic systems visualized as multidimensional webs—each choice entangling strands of mirrored consequence across lives.
+Systems where the output loops back into the input—amplifying, mutating, or stabilizing behaviors. Chaos emerges when feedback gets wild.
 
-**Usage:** `her karma is encoded in holographic web—each thread a mirrored life path / he moves through choicefield—decisions light up echo-strands behind him`
+**Usage:** `her voice triggers feedback visuals: sound pulses build into geometric bloom / cloak that evolves via nonlinear feedback—folds deepen as motion repeats`
 
-**Keywords:** Threaded timelines, mirrored webs, karmic reflection, soul entanglement
-
----
-
-## 👁 ‍🗨 Mythos Collapse Attractors
-**Phase 14** • `chaos_p14_03`
-
-Regions where story, archetype, and logic collapse into singularity—myths overfed on their own meaning spiral into form-death.
-
-**Usage:** `her tale reached the attractor—myth collapsed into recursive null / the oracle whispers near collapse—meaning folds into itself endlessly`
-
-**Keywords:** Myth singularity, logic fold, story recursion death, archetype melt
+**Keywords:** Echo, loop, intensifying flow, recursive bloom, behavior-based visuals
 
 ---
 
-## 🌐 Recursive Glitch Transcendence
-**Phase 14** • `chaos_p14_04`
+## 🧩 Fractal Dimension (Hausdorff Dimension)
+**Phase 1_2** • `chaos_p1_2_07`
 
-The moment when constant error produces emergence—divine breakthrough through system failure. Transcendence via recursive malfunction.
+A way to describe shapes that aren’t whole-dimensional—like a curve that almost fills a surface. Used to describe coastlines, clouds, blood vessels, etc.
 
-**Usage:** `her awakening was a recursive glitch—light born from breakdown / he ascended through malfunction—error loops gave rise to godform`
+**Usage:** `her skin has a fractional dimensional crust—neither flat nor textured, but infinitely in-between / a gown woven from fractional light—drifting between 1D thread and 2D mist`
 
-**Keywords:** Feedback glitch halo, fractal transcendence, recursive glitchbody, emergence from error
-
----
-
-## 🕳 Echo-Void Constructs
-**Phase 15** • `chaos_p15_00`
-
-Spaces built from what remains *after* meaning is gone—resonant hollows where only the memory of presence lingers, a geometry of absence.
-
-**Usage:** `she stands in an echo-void—her outline carved from the absence of light and story / his speech is felt, not heard—a negative space in sound, a void that whispers`
-
-**Keywords:** Sound shadows, hollow geometry, negative imprint, void resonance
+**Keywords:** Fractional, non-integer, detail-in-every-scale, ghost-dimensioned
 
 ---
 
-## 🧠 Neurofractal Empathy Fields
-**Phase 15** • `chaos_p15_01`
+## 📈 Lyapunov Exponent (Chaos Sensitivity)
+**Phase 1_2** • `chaos_p1_2_08`
 
-Affective resonance systems mapped fractally across consciousness—empathy as recursive simulation of others, emotion as geometry.
+Measures how sensitive a system is to initial conditions—the famous “butterfly effect.” High Lyapunov = chaotic, low = stable.
 
-**Usage:** `her aura blooms in empathy fractals—each feeling mirrored into infinite shapes / his field pulses in neurofractal rhythm—he *feels* the room in layered feedback waves`
+**Usage:** `the shimmer of her body reflects high Lyapunov variance—colors shift at the smallest input / space around her flickers with sensitivity—a chaos field tuned to emotion`
 
-**Keywords:** Fractal feelers, feedback blooms, mirrored emotion geometry, recursive hearts
-
----
-
-## 🌀 Regret Spirals (Recursive Sorrow)
-**Phase 15** • `chaos_p15_02`
-
-Emotional attractors built from spirals of decision echo—recursive loops of imagined better outcomes haunting the present.
-
-**Usage:** `his mind spins regret spirals—each loop a replay of what could’ve been / she dreams in recursive sorrow—every alternate path lived and lost inside`
-
-**Keywords:** Faded choices, sorrow coils, spiraling timelines, haunted light
+**Keywords:** Sensitivity field, micro-reactive, flickering, emotional charge
 
 ---
 
-## 📜 Recursive Language Gods
-**Phase 15** • `chaos_p15_03`
+##  ⌛ Time Series & Phase Space Maps
+**Phase 1_2** • `chaos_p1_2_09`
 
-Entities or systems that *speak themselves into being*—language loops that generate deity through utterance, symbol as creator.
+Time series show system behavior over time. Phase space maps track all possible states of a system. Together, they’re motion maps of reality.
 
-**Usage:** `her voice is the word that births her—recursive language god in fractal grammar glow / he spells his own bones—syntax folding him into body`
+**Usage:** `her body a living time series—each gesture trails motion echoes across phase space / space folds into phase-mapped layers, every direction a memory of movement`
 
-**Keywords:** Glyph body, fractal mouth, grammar aura, syntax tendrils
+**Keywords:** Trajectory maps, motion memory, multi-possibility layering
 
 ---
 
-## 💫 Phantom Mirror Entities
-**Phase 15** • `chaos_p15_04`
+## 🔳 Henon Map
+**Phase 3** • `chaos_p3_00`
 
-Beings that only exist when reflected—dependent on others for form, haunting mirrors, lenses, or minds.
+A discrete chaotic system that generates 2D point patterns—like a scattered, elliptical vortex. Classic for strange attractor shapes.
 
-**Usage:** `she appears only in mirrors—never seen directly, her form a recursive echo / his face is yours, reversed—he exists only when you look`
+**Usage:** `energy field generated by Henon map logic—points swirl into chaotic ellipse / wings stitched from Henon chaos points—each feather a spatial trajectory`
 
-**Keywords:** Mirror-body, reversed symmetry, reflected shimmer, flicker-being
+**Keywords:** Elliptical vortex, point cloud, chaos scatter, structured randomness
+
+---
+
+## 🔥 Fractal Flames (Scott Draves)
+**Phase 3** • `chaos_p3_01`
+
+A method to render fractals with colored, layered translucency and glowing trails. Combines nonlinear functions + color gradients.
+
+**Usage:** `her body is made of fractal flame light—layered wisps of color moving like slow fire / the background pulses in shifting flame fractals—iridescent trails dancing in chaos`
+
+**Keywords:** Wispy, glowing, layered, smoke-light, iridescent fire, morphing trails
+
+---
+
+## 🕳️ Escape-Time Algorithms
+**Phase 3** • `chaos_p3_02`
+
+Used to render fractals like the Mandelbrot set—each pixel's color is based on how fast it “escapes” to infinity during iteration.
+
+**Usage:** `terrain built from escape-time logic—colors bloom based on divergence / her dress glows brighter where values escape fast—like chaotic tide maps`
+
+**Keywords:** Radiant, computational bloom, divergence gradients, chaotic boundaries
+
+---
+
+## 🔻 Self-Affine Fractals
+**Phase 3** • `chaos_p3_03`
+
+Fractals with different scaling in different directions—stretched or warped symmetry. Common in nature (e.g., mountain ranges).
+
+**Usage:** `the landscape is a self-affine stretch—each ridge scaled nonuniformly in fractal logic / her limbs are elongated like self-affine branches—chaotic but balanced`
+
+**Keywords:** Skewed symmetry, warped repetition, stretched fractals, anisotropic geometry
+
+---
+
+## 💥 Attractor Merging & Collapse
+**Phase 3** • `chaos_p3_04`
+
+When two or more attractors interact—can merge into a new shape or collapse into a chaotic crash. Represents system destabilization.
+
+**Usage:** `two chaotic entities merge—attractor fields collapsing into a single luminous form / her aura flickers through attractor collapse—moments of harmony shatter into noise`
+
+**Keywords:** Collision, merge bloom, instability flicker, harmonic distortion
+
+---
+
+##  🟣 Cantor Dust & Cantor Sets
+**Phase 4** • `chaos_p4_00`
+
+Infinitely fragmented structures made by removing middle portions—like a visual representation of infinite emptiness. Appears as scattered dust with no solid core.
+
+**Usage:** `her cloak is woven from Cantor dust—shimmering particles suspended in ordered void / the space dissolves into Cantor fractals—fragmented light and shadow in recursive intervals`
+
+**Keywords:** Fragmented, recursive gaps, dust fractal, ghost grid, infinite void
+
+---
+
+## 🌿 L-Systems (Lindenmayer Systems)
+**Phase 4** • `chaos_p4_01`
+
+Recursive string-replacement systems that model natural growth—used to simulate plants, fungi, lightning, and coral.
+
+**Usage:** `horns that grow like L-systems—symmetrical, recursive branching from crown to tip / forest of fungal light—every stalk a recursive L-system bloom`
+
+**Keywords:** Branching, recursive, botanical, rule-based growth, lightning fractals
+
+---
+
+## 🔮 Newton Fractals
+**Phase 4** • `chaos_p4_02`
+
+Fractals created from Newton’s method for finding roots—results in ghostly, web-like basins of attraction.
+
+**Usage:** `her skin reflects Newton fractals—zones of iridescent logic where light chooses a path / the space blooms in Newton basins—shifting boundary webs of convergence`
+
+**Keywords:** Webbed, basin logic, light funnels, convergent chaos
+
+---
+
+## 🧠 Symbolic Bifurcation
+**Phase 4** • `chaos_p4_03`
+
+Bifurcation as metaphor: a single path splitting into symbolically charged trajectories—used in chaos theory and metaphysics alike.
+
+**Usage:** `a sigil of bifurcation unfolds in light—each path represents a soul trajectory / her crown fractalizes into bifurcated glyphs—forked symbols of choice and fate`
+
+**Keywords:** Forked glyphs, symbolic logic, spiritual split, decision diagrams
+
+---
+
+## 🧾 Recursive Topology (Meta-Containment)
+**Phase 4** • `chaos_p4_04`
+
+Structures that contain versions of themselves—used to create worlds inside worlds. “A map where every room contains the map.”
+
+**Usage:** `her geometry loops recursively—each layer holds a smaller self repeating inward / temple walls tessellate into recursive topology—each pattern zooms into its own micro-world`
+
+**Keywords:** Nested, self-contained, zoom worlds, labyrinths, looped structure
+
+---
+
+## 🧫 Cellular Automata (Conway, Wolfram)
+**Phase 5** • `chaos_p5_00`
+
+Rule-based grids where each cell changes over time depending on its neighbors. Can model life, death, motion, and chaos from simple rules.
+
+**Usage:** `her skin pulses with cellular automata—each patch evolving through birth and decay / floor tiles react like Game of Life—emitting light when motion passes near`
+
+**Keywords:** Pixel logic, grid evolution, reactive cells, binary bloom, chaos logic
+
+---
+
+## 🧬 Turing Patterns
+**Phase 5** • `chaos_p5_01`
+
+Natural patterns that form through chemical reactions and diffusion—responsible for zebra stripes, leopard spots, and coral forms.
+
+**Usage:** `her skin is covered in Turing stripes—organic symmetry, mathematical in origin / the creature’s shell is etched with Turing pulses—spots that shift with breath`
+
+**Keywords:** Ripples, stripes, blotches, animal fractals, organic symmetry
+
+---
+
+## 🧿 Hyperbolic Tiling
+**Phase 5** • `chaos_p5_02`
+
+Tiling that happens in curved space—like Escher’s famous fish patterns that shrink infinitely toward the edges.
+
+**Usage:** `her cloak ripples with hyperbolic tiling—endless recursive figures shrinking into curvature / temple floors bend in hyperbolic symmetry—non-Euclidean mosaics wrapping inwards`
+
+**Keywords:** Shrinking symmetry, recursive fishscale, curved grid, infinite tessellation
+
+---
+
+## 🌀 Quasiperiodic Structures (Penrose Tiling)
+**Phase 5** • `chaos_p5_03`
+
+Patterns that never repeat but still follow strict logic. Often used in quasicrystals and sacred geometry. Penrose tiling is the most famous.
+
+**Usage:** `her armor is grown from Penrose tiling—geometric truth in chaotic logic / the floor is quasiperiodic—no tile repeats, yet all fits together in symmetry`
+
+**Keywords:** Never-repeating symmetry, geometric lattice, holy irrationality, tiling truth
+
+---
+
+## 🌡️ Reaction-Diffusion Systems
+**Phase 5** • `chaos_p5_04`
+
+Math systems modeling how two substances interact—often creates flowing, rippling blobs like pigment spreading in water.
+
+**Usage:** `her aura is made of reaction-diffusion—fluid color pulses spreading across her form / the wall bleeds with math—reaction waves ripple like alien bio-ink`
+
+**Keywords:** Spreading blobs, ripple bloom, fluid chaos, living ink, alien diffusion
 
 ---
 

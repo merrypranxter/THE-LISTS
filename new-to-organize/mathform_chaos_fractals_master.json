@@ -1,523 +1,681 @@
 {
   "archive": "MATHFORM ARCHIVE – Chaos & Fractals Edition",
   "phases": [
-    12,
-    13,
-    14,
-    15
+    "1_2",
+    3,
+    4,
+    5
   ],
-  "total_concepts": 20,
+  "total_concepts": 25,
   "domain_tags": [
     "chaos",
     "fractals",
-    "recursion",
-    "entropy",
-    "time",
-    "myth",
-    "love",
-    "emotion"
+    "attractors",
+    "mandelbrot",
+    "julia",
+    "lorenz",
+    "tiling",
+    "automata"
   ],
   "concepts": [
     {
-      "phase": 12,
+      "phase": "1_2",
       "domain": "Chaos & Fractals",
-      "title": "☠️ Entropy Sigils",
-      "emoji": "☠️",
-      "name": "Entropy Sigils",
-      "what_it_is": "Visual representations of decay, disorder, and energy dispersal encoded into symbolic language—glyphs that *lose meaning* as they animate.",
+      "title": "🌪️ Lorenz Attractor",
+      "emoji": "🌪️",
+      "name": "Lorenz Attractor",
+      "what_it_is": "A chaotic system producing butterfly-shaped loops—trajectories never repeat but stay within a bounded shape. Classic symbol of deterministic chaos.",
       "how_to_use": [
-        "her back is marked in entropy sigils—glyphs that crumble into noise the longer you look",
-        "the scroll bleeds entropy—symbols that dissolve as they are read"
+        "looping light trails follow Lorenz attractor paths around her body",
+        "aura of butterfly-wing energy orbitals in chaotic symmetry",
+        "hair floats in Lorenz-spiraled arcs of soft blue plasma"
       ],
       "good_for": [
-        "Magical decay",
-        "loss of memory",
-        "entropy rituals"
+        "Motion trails",
+        "energy flows",
+        "chaotic auras",
+        "hairstyle animation"
       ],
       "visual_keywords": [
-        "Crumbling glyphs",
-        "signal decay",
-        "fading symbols",
-        "chaos disintegration"
+        "Chaotic orbitals",
+        "butterfly structure",
+        "spiraling wings",
+        "dual-lobed field"
       ],
-      "animation_behavior": "Sigils fade and distort, meaning breaks down over time, pieces flake off like ash ---",
-      "id": "chaos_p12_00"
+      "animation_behavior": "Smooth but unstable loops, orbiting trails, sensitive to touch or emotional states—never quite repeating. ---",
+      "id": "chaos_p1_2_00"
     },
     {
-      "phase": 12,
+      "phase": "1_2",
       "domain": "Chaos & Fractals",
-      "title": "🧬 Symmetry Death",
+      "title": "🧬 Julia Sets",
       "emoji": "🧬",
-      "name": "Symmetry Death",
-      "what_it_is": "The transition from orderly symmetry to chaos—used in physics, biology, and mythic narrative arcs to signal transformation or corruption.",
+      "name": "Julia Sets",
+      "what_it_is": "Fractal shapes formed by iterating complex functions. Can look like coral, veins, or alien terrain depending on parameters. More shape-like than the Mandelbrot set.",
       "how_to_use": [
-        "her face begins as perfect symmetry—until decay fractures it into asymmetric bloom",
-        "his armor fails at the point of symmetry death—fractals crawl out of the cracks"
+        "her skin is lined with glowing Julia-set veins—like coral etched in light",
+        "the environment forms from Julia fractals, branching infinitely",
+        "a halo of floating fractal shards in soft iridescent loops"
       ],
       "good_for": [
-        "Entity transformation",
-        "magical failure",
-        "beauty broken by truth"
+        "Skin textures",
+        "terrain",
+        "background patterns",
+        "crystalline growths"
       ],
       "visual_keywords": [
-        "Cracked mirrors",
-        "failed reflection",
-        "asymmetric decay",
-        "corrupted tessellation"
+        "Coral",
+        "veinwork",
+        "branching filigree",
+        "fractal bloom",
+        "iridescent crust"
       ],
-      "animation_behavior": "Symmetry breaks mid-sequence, one side distorts, balanced forms collapse into fractal ruin ---",
-      "id": "chaos_p12_01"
+      "animation_behavior": "Zooming pulses, expanding from points, recursive undulation ---",
+      "id": "chaos_p1_2_01"
     },
     {
-      "phase": 12,
+      "phase": "1_2",
       "domain": "Chaos & Fractals",
-      "title": "🕸 Fractal Resurrection Logic",
-      "emoji": "🕸",
-      "name": "Fractal Resurrection Logic",
-      "what_it_is": "The pattern that returns after destruction—not repetition but regeneration through recursive form. Chaos becomes seed for rebirth.",
-      "how_to_use": [
-        "her death fractalized into rebirth—each piece a smaller version of her returning",
-        "he blooms again from chaos recursion—his body grown from ruins in self-similar sprout"
-      ],
-      "good_for": [
-        "Resurrection scenes",
-        "mythic return",
-        "structural healing"
-      ],
-      "visual_keywords": [
-        "Fractal regrowth",
-        "echoing sprout",
-        "recursive reform",
-        "rebirth bloom"
-      ],
-      "animation_behavior": "Destruction becomes self-replication, shape rebuilds from itself, recursive feedback into form ---",
-      "id": "chaos_p12_02"
-    },
-    {
-      "phase": 12,
-      "domain": "Chaos & Fractals",
-      "title": "🧠 Memory Erosion Fields",
-      "emoji": "🧠",
-      "name": "Memory Erosion Fields",
-      "what_it_is": "Zones where data, memory, or identity slowly fades—modeled as dissipating information entropy or neural signal loss.",
-      "how_to_use": [
-        "she walks through a memory erosion field—each step less real than the last",
-        "his name erodes as he enters—letters vanishing, meaning scattered"
-      ],
-      "good_for": [
-        "Dream scenes",
-        "identity loss",
-        "sacred forgetting"
-      ],
-      "visual_keywords": [
-        "Glitch drift",
-        "data fade",
-        "ghost identity",
-        "crumbling symbols"
-      ],
-      "animation_behavior": "Letters disappear, identity pixels dissolve, form glitches then fades ---",
-      "id": "chaos_p12_03"
-    },
-    {
-      "phase": 12,
-      "domain": "Chaos & Fractals",
-      "title": "🦠 Chaos Rebirth Embryo",
-      "emoji": "🦠",
-      "name": "Chaos Rebirth Embryo",
-      "what_it_is": "A visual and symbolic form of primordial potential—life gestating in disorder, forming from the seed of brokenness.",
-      "how_to_use": [
-        "she is chaos reborn—gestating in fractal fluid, her body forming from melted geometry",
-        "the egg pulses with strange order—life blooming in chaos-amniotic spiral"
-      ],
-      "good_for": [
-        "Character origin",
-        "rebirth sequences",
-        "cosmic evolution"
-      ],
-      "visual_keywords": [
-        "Fractal womb",
-        "fluid lattice",
-        "amniotic math",
-        "embryonic swirl"
-      ],
-      "animation_behavior": "Liquid forms coalesce into symmetry, embryonic shape flickers in chaotic swirl, fractals stabilize into new being",
-      "id": "chaos_p12_04"
-    },
-    {
-      "phase": 13,
-      "domain": "Chaos & Fractals",
-      "title": "⏳ Symbolic Time Crystals",
-      "emoji": "",
-      "name": "⏳ Symbolic Time Crystals",
-      "what_it_is": "Structures that repeat in time rather than space—like frozen music, or a rhythm that never stops. In metaphor: symbolic patterns that loop forever with slight evolution.",
-      "how_to_use": [
-        "her soul is a symbolic time crystal—always repeating, always changing in resonance",
-        "his chest beats with fractal rhythm—time blooms outward in recursive shards"
-      ],
-      "good_for": [
-        "Hearts",
-        "soul cores",
-        "time rituals",
-        "looping emotions"
-      ],
-      "visual_keywords": [
-        "Crystal rhythm",
-        "pulse symmetry",
-        "forever beat",
-        "cyclic glow"
-      ],
-      "animation_behavior": "Shape loops with slight mutation each cycle, rhythmic pulse emits light, structure evolves in time not space ---",
-      "id": "chaos_p13_00"
-    },
-    {
-      "phase": 13,
-      "domain": "Chaos & Fractals",
-      "title": "🔁 Ouroboric Causality Loops",
-      "emoji": "🔁",
-      "name": "Ouroboric Causality Loops",
-      "what_it_is": "Causal systems where cause and effect are circular—self-created myths, identity birthed from future actions, meaning loops.",
-      "how_to_use": [
-        "she remembers futures that haven’t occurred—ouroboric causality glows behind her eyes",
-        "his origin is his own action—a loop of self-becoming sealed in myth"
-      ],
-      "good_for": [
-        "Time travel aesthetics",
-        "prophecy",
-        "self-made gods"
-      ],
-      "visual_keywords": [
-        "Ouroboros ring",
-        "mirrored futures",
-        "recursive timelines",
-        "fate circuits"
-      ],
-      "animation_behavior": "Action triggers past memory, visuals loop to origin point, movement completes its own beginning ---",
-      "id": "chaos_p13_01"
-    },
-    {
-      "phase": 13,
-      "domain": "Chaos & Fractals",
-      "title": "💞 Topological Love Knots",
-      "emoji": "💞",
-      "name": "Topological Love Knots",
-      "what_it_is": "Love and bond visualized as nontrivial topological entanglements—non-Euclidean relationships, complex bindings of soul-geometry.",
-      "how_to_use": [
-        "their hearts are bound by topological knots—no start, no end, only sacred twist",
-        "her voice wraps his aura—an unbreakable braid that transcends dimension"
-      ],
-      "good_for": [
-        "Relationship visuals",
-        "soulmates",
-        "sacred unions"
-      ],
-      "visual_keywords": [
-        "Knotted hearts",
-        "interdimensional braids",
-        "Möbius love",
-        "infinity link"
-      ],
-      "animation_behavior": "Knots shift but never break, bonds pulse with shared light, twists map shared memory ---",
-      "id": "chaos_p13_02"
-    },
-    {
-      "phase": 13,
-      "domain": "Chaos & Fractals",
-      "title": "♾ Infinite Myth Recursion",
-      "emoji": "♾",
-      "name": "Infinite Myth Recursion",
-      "what_it_is": "The same archetypes reappearing in new masks—recursive retelling of the same soul-story across timelines, forms, and names.",
-      "how_to_use": [
-        "she is every Trickster—retold, reshaped, recursion of divine prank",
-        "his face changes as myth unfolds—same story, new shape, again and again"
-      ],
-      "good_for": [
-        "Multiform characters",
-        "reincarnation",
-        "myth evolution"
-      ],
-      "visual_keywords": [
-        "Shifting masks",
-        "archetype layers",
-        "story loops",
-        "recursive identity"
-      ],
-      "animation_behavior": "Face changes through cycle, same gesture in different clothing/time, form morphs across myth templates ---",
-      "id": "chaos_p13_03"
-    },
-    {
-      "phase": 13,
-      "domain": "Chaos & Fractals",
-      "title": "🧿 Feedback Entity Dynamics",
-      "emoji": "🧿",
-      "name": "Feedback Entity Dynamics",
-      "what_it_is": "Entities whose structure *requires* interaction—meaning only exists when mirrored, watched, or loved. Identity as feedback loop.",
-      "how_to_use": [
-        "she becomes visible only when seen—light folds into her from your gaze",
-        "he glows in feedback—existence rippling from your presence"
-      ],
-      "good_for": [
-        "Spirit companions",
-        "relational beings",
-        "observer-bound deities"
-      ],
-      "visual_keywords": [
-        "Echo glow",
-        "attention shimmer",
-        "gaze-triggered form",
-        "mutual light"
-      ],
-      "animation_behavior": "Form resolves when observed, pulsing grows stronger near viewer, entity mirrors movement or mood",
-      "id": "chaos_p13_04"
-    },
-    {
-      "phase": 14,
-      "domain": "Chaos & Fractals",
-      "title": "🪓 Divine Data Corruption",
-      "emoji": "🪓",
-      "name": "Divine Data Corruption",
-      "what_it_is": "The breakdown of celestial or sacred systems through noise, entropy, or overload—gods glitched by belief, holy code fragmenting.",
-      "how_to_use": [
-        "her crown is corrupted divinity—glitching symbols cascade down from sacred overload",
-        "the god bleeds data—his form collapsing in sacred noise"
-      ],
-      "good_for": [
-        "Deity collapse",
-        "corrupted rituals",
-        "failed miracles"
-      ],
-      "visual_keywords": [
-        "Glitched halos",
-        "holy static",
-        "corrupted glyphs",
-        "divine error"
-      ],
-      "animation_behavior": "Symbols flicker out of phase, divinity loops and distorts, light bleeds into glitch fractals ---",
-      "id": "chaos_p14_00"
-    },
-    {
-      "phase": 14,
-      "domain": "Chaos & Fractals",
-      "title": "🧘 Meta-Emotion Oscillators",
-      "emoji": "🧘",
-      "name": "Meta-Emotion Oscillators",
-      "what_it_is": "Emotional structures modeled as oscillating systems—joy to grief, rage to love, looping through multidimensional affect fields.",
-      "how_to_use": [
-        "her body is tuned to meta-emotion—each pulse swings through emotional harmonic space",
-        "he breathes through oscillation—love and fear ringing in chromatic wave"
-      ],
-      "good_for": [
-        "Moodfields",
-        "energy healing",
-        "heart-based architecture"
-      ],
-      "visual_keywords": [
-        "Emotional sinewaves",
-        "heartlight spectrum",
-        "mood oscillators",
-        "chromatic fields"
-      ],
-      "animation_behavior": "Emotion pulses ripple through body, color changes with feeling, harmonic mood oscillates visually ---",
-      "id": "chaos_p14_01"
-    },
-    {
-      "phase": 14,
-      "domain": "Chaos & Fractals",
-      "title": "🕷 Holographic Karma Webs",
-      "emoji": "🕷",
-      "name": "Holographic Karma Webs",
-      "what_it_is": "Karmic systems visualized as multidimensional webs—each choice entangling strands of mirrored consequence across lives.",
-      "how_to_use": [
-        "her karma is encoded in holographic web—each thread a mirrored life path",
-        "he moves through choicefield—decisions light up echo-strands behind him"
-      ],
-      "good_for": [
-        "Spirit worlds",
-        "soul contracts",
-        "choice-based visuals"
-      ],
-      "visual_keywords": [
-        "Threaded timelines",
-        "mirrored webs",
-        "karmic reflection",
-        "soul entanglement"
-      ],
-      "animation_behavior": "Web pulses when touched, threads light up with decision, karma echoes ripple outward ---",
-      "id": "chaos_p14_02"
-    },
-    {
-      "phase": 14,
-      "domain": "Chaos & Fractals",
-      "title": "👁‍🗨 Mythos Collapse Attractors",
-      "emoji": "👁",
-      "name": "‍🗨 Mythos Collapse Attractors",
-      "what_it_is": "Regions where story, archetype, and logic collapse into singularity—myths overfed on their own meaning spiral into form-death.",
-      "how_to_use": [
-        "her tale reached the attractor—myth collapsed into recursive null",
-        "the oracle whispers near collapse—meaning folds into itself endlessly"
-      ],
-      "good_for": [
-        "End-of-arc visuals",
-        "narrative implosions",
-        "broken prophecies"
-      ],
-      "visual_keywords": [
-        "Myth singularity",
-        "logic fold",
-        "story recursion death",
-        "archetype melt"
-      ],
-      "animation_behavior": "Symbols spiral inward and vanish, narrative forms fold in on themselves, speech loops collapse into silence ---",
-      "id": "chaos_p14_03"
-    },
-    {
-      "phase": 14,
-      "domain": "Chaos & Fractals",
-      "title": "🌐 Recursive Glitch Transcendence",
-      "emoji": "🌐",
-      "name": "Recursive Glitch Transcendence",
-      "what_it_is": "The moment when constant error produces emergence—divine breakthrough through system failure. Transcendence via recursive malfunction.",
-      "how_to_use": [
-        "her awakening was a recursive glitch—light born from breakdown",
-        "he ascended through malfunction—error loops gave rise to godform"
-      ],
-      "good_for": [
-        "Spiritual rebirth",
-        "AI gods",
-        "evolution scenes"
-      ],
-      "visual_keywords": [
-        "Feedback glitch halo",
-        "fractal transcendence",
-        "recursive glitchbody",
-        "emergence from error"
-      ],
-      "animation_behavior": "Glitches repeat, then synchronize, then bloom into complex form—looping noise turns into godlight",
-      "id": "chaos_p14_04"
-    },
-    {
-      "phase": 15,
-      "domain": "Chaos & Fractals",
-      "title": "🕳 Echo-Void Constructs",
-      "emoji": "🕳",
-      "name": "Echo-Void Constructs",
-      "what_it_is": "Spaces built from what remains *after* meaning is gone—resonant hollows where only the memory of presence lingers, a geometry of absence.",
-      "how_to_use": [
-        "she stands in an echo-void—her outline carved from the absence of light and story",
-        "his speech is felt, not heard—a negative space in sound, a void that whispers"
-      ],
-      "good_for": [
-        "Memory fields",
-        "vanished cities",
-        "ghostspaces"
-      ],
-      "visual_keywords": [
-        "Sound shadows",
-        "hollow geometry",
-        "negative imprint",
-        "void resonance"
-      ],
-      "animation_behavior": "Words echo backward, space ripples with phantom impact, scenes collapse into emptiness ---",
-      "id": "chaos_p15_00"
-    },
-    {
-      "phase": 15,
-      "domain": "Chaos & Fractals",
-      "title": "🧠 Neurofractal Empathy Fields",
-      "emoji": "🧠",
-      "name": "Neurofractal Empathy Fields",
-      "what_it_is": "Affective resonance systems mapped fractally across consciousness—empathy as recursive simulation of others, emotion as geometry.",
-      "how_to_use": [
-        "her aura blooms in empathy fractals—each feeling mirrored into infinite shapes",
-        "his field pulses in neurofractal rhythm—he *feels* the room in layered feedback waves"
-      ],
-      "good_for": [
-        "Telepathy",
-        "AI empathy",
-        "collective fields"
-      ],
-      "visual_keywords": [
-        "Fractal feelers",
-        "feedback blooms",
-        "mirrored emotion geometry",
-        "recursive hearts"
-      ],
-      "animation_behavior": "Emotions trigger light fractals, scenes morph with mood, connection visible as resonant waveforms ---",
-      "id": "chaos_p15_01"
-    },
-    {
-      "phase": 15,
-      "domain": "Chaos & Fractals",
-      "title": "🌀 Regret Spirals (Recursive Sorrow)",
+      "title": "🌀 Strange Attractors (General)",
       "emoji": "🌀",
-      "name": "Regret Spirals (Recursive Sorrow)",
-      "what_it_is": "Emotional attractors built from spirals of decision echo—recursive loops of imagined better outcomes haunting the present.",
+      "name": "Strange Attractors (General)",
+      "what_it_is": "Dynamic systems where trajectories settle into complex, never-repeating loops. Includes Lorenz, Rössler, Duffing, etc.",
       "how_to_use": [
-        "his mind spins regret spirals—each loop a replay of what could’ve been",
-        "she dreams in recursive sorrow—every alternate path lived and lost inside"
+        "limbs traced with attractor logic—looping trails of light orbit the form",
+        "chaotic spiral fields trace emotional charge in ambient geometry"
       ],
       "good_for": [
-        "Dream sequences",
-        "psychic pain",
-        "time-backlash"
+        "Aura shaping",
+        "trail logic",
+        "gesture echo",
+        "psychedelic spaceflows"
       ],
       "visual_keywords": [
-        "Faded choices",
-        "sorrow coils",
-        "spiraling timelines",
-        "haunted light"
+        "Orbitals",
+        "feedback trails",
+        "chaos bloom",
+        "never-repeating curls"
       ],
-      "animation_behavior": "Scene plays out in loops with variation, faces shift across alternate paths, light dims then blooms and fails ---",
-      "id": "chaos_p15_02"
+      "animation_behavior": "Shifting loops that orbit or drift—no two turns the same, but always returning to the shape ---",
+      "id": "chaos_p1_2_02"
     },
     {
-      "phase": 15,
+      "phase": "1_2",
       "domain": "Chaos & Fractals",
-      "title": "📜 Recursive Language Gods",
-      "emoji": "📜",
-      "name": "Recursive Language Gods",
-      "what_it_is": "Entities or systems that *speak themselves into being*—language loops that generate deity through utterance, symbol as creator.",
+      "title": "🌿 Iterated Function Systems (IFS)",
+      "emoji": "🌿",
+      "name": "Iterated Function Systems (IFS)",
+      "what_it_is": "Fractals built from repeated geometric transformations. Famous for ferns, leaves, galaxies, and recursively branching forms.",
       "how_to_use": [
-        "her voice is the word that births her—recursive language god in fractal grammar glow",
-        "he spells his own bones—syntax folding him into body"
+        "wings patterned with recursive IFS symmetry—each feather a smaller echo of the whole",
+        "gown grown from IFS logic: organic spirals of translucent scale-leaves"
       ],
       "good_for": [
-        "Myth tech",
-        "AI speech rituals",
-        "sentient languages"
+        "Plant-like forms",
+        "self-similar clothing",
+        "terrain",
+        "fractal hair",
+        "architectural growths"
       ],
       "visual_keywords": [
-        "Glyph body",
-        "fractal mouth",
-        "grammar aura",
-        "syntax tendrils"
+        "Recursive",
+        "self-similar",
+        "leaflike",
+        "crystalline",
+        "nested spirals"
       ],
-      "animation_behavior": "Language coils into shape, glyphs loop recursively to birth form, speaking creates visible structure ---",
-      "id": "chaos_p15_03"
+      "animation_behavior": "Continuous growth outward—branching, flowering, pulsing from a point of origin ---",
+      "id": "chaos_p1_2_03"
     },
     {
-      "phase": 15,
+      "phase": "1_2",
       "domain": "Chaos & Fractals",
-      "title": "💫 Phantom Mirror Entities",
-      "emoji": "💫",
-      "name": "Phantom Mirror Entities",
-      "what_it_is": "Beings that only exist when reflected—dependent on others for form, haunting mirrors, lenses, or minds.",
+      "title": "🔲 Mandelbrot Set",
+      "emoji": "🔲",
+      "name": "Mandelbrot Set",
+      "what_it_is": "The iconic fractal “map” where Julia sets live—self-similar across infinite zoom, edge full of variety.",
       "how_to_use": [
-        "she appears only in mirrors—never seen directly, her form a recursive echo",
-        "his face is yours, reversed—he exists only when you look"
+        "a shell of Mandelbrot crust encases her like sacred chaotic armor",
+        "terrain folds outward in Mandelbrot valleys and fractal spires"
       ],
       "good_for": [
-        "Dream beings",
-        "haunted reflections",
-        "intersubjective gods"
+        "Terrain",
+        "armor",
+        "cosmic backdrops",
+        "sacred geometry structures"
       ],
       "visual_keywords": [
-        "Mirror-body",
-        "reversed symmetry",
-        "reflected shimmer",
-        "flicker-being"
+        "Zoom fractals",
+        "crusted",
+        "psychedelic topology",
+        "sacred map",
+        "black-core blooms"
       ],
-      "animation_behavior": "Only visible in certain views, glitches in from behind, reflection morphs as viewer changes",
-      "id": "chaos_p15_04"
+      "animation_behavior": "Endless zoom, recursive edge morphing, rotating fractal fields ---",
+      "id": "chaos_p1_2_04"
+    },
+    {
+      "phase": "1_2",
+      "domain": "Chaos & Fractals",
+      "title": "🌊 Bifurcation Diagrams",
+      "emoji": "🌊",
+      "name": "Bifurcation Diagrams",
+      "what_it_is": "Visual maps showing where systems split into multiple outcomes—like a branching fork of possibilities as parameters change.",
+      "how_to_use": [
+        "wings unfold like a bifurcation diagram—each choice fracturing into new lightpaths",
+        "her aura is a branching splitfield of potential, a living bifurcation bloom"
+      ],
+      "good_for": [
+        "Decision-space visuals",
+        "wings",
+        "evolving geometry",
+        "timeline metaphors"
+      ],
+      "visual_keywords": [
+        "Forking",
+        "branching symmetry",
+        "split bloom",
+        "fractal decisions"
+      ],
+      "animation_behavior": "Branching outward, flickering between future paths, unstable balance around each fork ---",
+      "id": "chaos_p1_2_05"
+    },
+    {
+      "phase": "1_2",
+      "domain": "Chaos & Fractals",
+      "title": "🔁 Feedback Loops (Nonlinear Systems)",
+      "emoji": "🔁",
+      "name": "Feedback Loops (Nonlinear Systems)",
+      "what_it_is": "Systems where the output loops back into the input—amplifying, mutating, or stabilizing behaviors. Chaos emerges when feedback gets wild.",
+      "how_to_use": [
+        "her voice triggers feedback visuals: sound pulses build into geometric bloom",
+        "cloak that evolves via nonlinear feedback—folds deepen as motion repeats"
+      ],
+      "good_for": [
+        "Motion trails",
+        "behavior-driven visuals",
+        "reactive ornamentation"
+      ],
+      "visual_keywords": [
+        "Echo",
+        "loop",
+        "intensifying flow",
+        "recursive bloom",
+        "behavior-based visuals"
+      ],
+      "animation_behavior": "Reacts to motion or sound, visuals build over time, unstable feedback pulses ---",
+      "id": "chaos_p1_2_06"
+    },
+    {
+      "phase": "1_2",
+      "domain": "Chaos & Fractals",
+      "title": "🧩 Fractal Dimension (Hausdorff Dimension)",
+      "emoji": "🧩",
+      "name": "Fractal Dimension (Hausdorff Dimension)",
+      "what_it_is": "A way to describe shapes that aren’t whole-dimensional—like a curve that almost fills a surface. Used to describe coastlines, clouds, blood vessels, etc.",
+      "how_to_use": [
+        "her skin has a fractional dimensional crust—neither flat nor textured, but infinitely in-between",
+        "a gown woven from fractional light—drifting between 1D thread and 2D mist"
+      ],
+      "good_for": [
+        "Surface textures",
+        "terrain",
+        "magical garments",
+        "skin",
+        "edges"
+      ],
+      "visual_keywords": [
+        "Fractional",
+        "non-integer",
+        "detail-in-every-scale",
+        "ghost-dimensioned"
+      ],
+      "animation_behavior": "Flickering at different levels of zoom, texture appears and vanishes depending on perspective ---",
+      "id": "chaos_p1_2_07"
+    },
+    {
+      "phase": "1_2",
+      "domain": "Chaos & Fractals",
+      "title": "📈 Lyapunov Exponent (Chaos Sensitivity)",
+      "emoji": "📈",
+      "name": "Lyapunov Exponent (Chaos Sensitivity)",
+      "what_it_is": "Measures how sensitive a system is to initial conditions—the famous “butterfly effect.” High Lyapunov = chaotic, low = stable.",
+      "how_to_use": [
+        "the shimmer of her body reflects high Lyapunov variance—colors shift at the smallest input",
+        "space around her flickers with sensitivity—a chaos field tuned to emotion"
+      ],
+      "good_for": [
+        "Auras",
+        "instability fields",
+        "perception overlays"
+      ],
+      "visual_keywords": [
+        "Sensitivity field",
+        "micro-reactive",
+        "flickering",
+        "emotional charge"
+      ],
+      "animation_behavior": "Subtle reactions to slight motion, micro-changes ripple outward in light ---",
+      "id": "chaos_p1_2_08"
+    },
+    {
+      "phase": "1_2",
+      "domain": "Chaos & Fractals",
+      "title": "⌛ Time Series & Phase Space Maps",
+      "emoji": "",
+      "name": "⌛ Time Series & Phase Space Maps",
+      "what_it_is": "Time series show system behavior over time. Phase space maps track all possible states of a system. Together, they’re motion maps of reality.",
+      "how_to_use": [
+        "her body a living time series—each gesture trails motion echoes across phase space",
+        "space folds into phase-mapped layers, every direction a memory of movement"
+      ],
+      "good_for": [
+        "Backgrounds",
+        "motion ghosts",
+        "symbolic metaphysics"
+      ],
+      "visual_keywords": [
+        "Trajectory maps",
+        "motion memory",
+        "multi-possibility layering"
+      ],
+      "animation_behavior": "Fading trails, ghost limbs, recursive path echoes, memory-motion unfolding in real time",
+      "id": "chaos_p1_2_09"
+    },
+    {
+      "phase": 3,
+      "domain": "Chaos & Fractals",
+      "title": "🔳 Henon Map",
+      "emoji": "🔳",
+      "name": "Henon Map",
+      "what_it_is": "A discrete chaotic system that generates 2D point patterns—like a scattered, elliptical vortex. Classic for strange attractor shapes.",
+      "how_to_use": [
+        "energy field generated by Henon map logic—points swirl into chaotic ellipse",
+        "wings stitched from Henon chaos points—each feather a spatial trajectory"
+      ],
+      "good_for": [
+        "Chaotic textures",
+        "particle formations",
+        "aura geometry"
+      ],
+      "visual_keywords": [
+        "Elliptical vortex",
+        "point cloud",
+        "chaos scatter",
+        "structured randomness"
+      ],
+      "animation_behavior": "Points orbit elliptically, cluster and scatter, seemingly random but bounded ---",
+      "id": "chaos_p3_00"
+    },
+    {
+      "phase": 3,
+      "domain": "Chaos & Fractals",
+      "title": "🔥 Fractal Flames (Scott Draves)",
+      "emoji": "🔥",
+      "name": "Fractal Flames (Scott Draves)",
+      "what_it_is": "A method to render fractals with colored, layered translucency and glowing trails. Combines nonlinear functions + color gradients.",
+      "how_to_use": [
+        "her body is made of fractal flame light—layered wisps of color moving like slow fire",
+        "the background pulses in shifting flame fractals—iridescent trails dancing in chaos"
+      ],
+      "good_for": [
+        "Character bodies",
+        "magical energy",
+        "full-scene style overlays"
+      ],
+      "visual_keywords": [
+        "Wispy",
+        "glowing",
+        "layered",
+        "smoke-light",
+        "iridescent fire",
+        "morphing trails"
+      ],
+      "animation_behavior": "Smoothly shifting trails, layered glowing pulses, color morph over time ---",
+      "id": "chaos_p3_01"
+    },
+    {
+      "phase": 3,
+      "domain": "Chaos & Fractals",
+      "title": "🕳️ Escape-Time Algorithms",
+      "emoji": "🕳️",
+      "name": "Escape-Time Algorithms",
+      "what_it_is": "Used to render fractals like the Mandelbrot set—each pixel's color is based on how fast it “escapes” to infinity during iteration.",
+      "how_to_use": [
+        "terrain built from escape-time logic—colors bloom based on divergence",
+        "her dress glows brighter where values escape fast—like chaotic tide maps"
+      ],
+      "good_for": [
+        "Color mapping",
+        "surface rendering",
+        "fractal environments"
+      ],
+      "visual_keywords": [
+        "Radiant",
+        "computational bloom",
+        "divergence gradients",
+        "chaotic boundaries"
+      ],
+      "animation_behavior": "Color flickers based on input or location, zoom reveals layers of escape patterns ---",
+      "id": "chaos_p3_02"
+    },
+    {
+      "phase": 3,
+      "domain": "Chaos & Fractals",
+      "title": "🔻 Self-Affine Fractals",
+      "emoji": "🔻",
+      "name": "Self-Affine Fractals",
+      "what_it_is": "Fractals with different scaling in different directions—stretched or warped symmetry. Common in nature (e.g., mountain ranges).",
+      "how_to_use": [
+        "the landscape is a self-affine stretch—each ridge scaled nonuniformly in fractal logic",
+        "her limbs are elongated like self-affine branches—chaotic but balanced"
+      ],
+      "good_for": [
+        "Mountains",
+        "body structures",
+        "background architecture",
+        "hair"
+      ],
+      "visual_keywords": [
+        "Skewed symmetry",
+        "warped repetition",
+        "stretched fractals",
+        "anisotropic geometry"
+      ],
+      "animation_behavior": "Scaling shifts along different axes, pulsing distortion over form ---",
+      "id": "chaos_p3_03"
+    },
+    {
+      "phase": 3,
+      "domain": "Chaos & Fractals",
+      "title": "💥 Attractor Merging & Collapse",
+      "emoji": "💥",
+      "name": "Attractor Merging & Collapse",
+      "what_it_is": "When two or more attractors interact—can merge into a new shape or collapse into a chaotic crash. Represents system destabilization.",
+      "how_to_use": [
+        "two chaotic entities merge—attractor fields collapsing into a single luminous form",
+        "her aura flickers through attractor collapse—moments of harmony shatter into noise"
+      ],
+      "good_for": [
+        "Duality visuals",
+        "transformation scenes",
+        "fusion effects"
+      ],
+      "visual_keywords": [
+        "Collision",
+        "merge bloom",
+        "instability flicker",
+        "harmonic distortion"
+      ],
+      "animation_behavior": "Attractors orbit, destabilize, snap into one form or explode into chaos",
+      "id": "chaos_p3_04"
+    },
+    {
+      "phase": 4,
+      "domain": "Chaos & Fractals",
+      "title": "🟣 Cantor Dust & Cantor Sets",
+      "emoji": "",
+      "name": "🟣 Cantor Dust & Cantor Sets",
+      "what_it_is": "Infinitely fragmented structures made by removing middle portions—like a visual representation of infinite emptiness. Appears as scattered dust with no solid core.",
+      "how_to_use": [
+        "her cloak is woven from Cantor dust—shimmering particles suspended in ordered void",
+        "the space dissolves into Cantor fractals—fragmented light and shadow in recursive intervals"
+      ],
+      "good_for": [
+        "Particle effects",
+        "voids",
+        "ghost trails",
+        "ancient digital decay"
+      ],
+      "visual_keywords": [
+        "Fragmented",
+        "recursive gaps",
+        "dust fractal",
+        "ghost grid",
+        "infinite void"
+      ],
+      "animation_behavior": "Particles blink in and out, recursive disintegration, flickering digital silence ---",
+      "id": "chaos_p4_00"
+    },
+    {
+      "phase": 4,
+      "domain": "Chaos & Fractals",
+      "title": "🌿 L-Systems (Lindenmayer Systems)",
+      "emoji": "🌿",
+      "name": "L-Systems (Lindenmayer Systems)",
+      "what_it_is": "Recursive string-replacement systems that model natural growth—used to simulate plants, fungi, lightning, and coral.",
+      "how_to_use": [
+        "horns that grow like L-systems—symmetrical, recursive branching from crown to tip",
+        "forest of fungal light—every stalk a recursive L-system bloom"
+      ],
+      "good_for": [
+        "Organic growth forms",
+        "trees",
+        "bone structures",
+        "alien landscapes"
+      ],
+      "visual_keywords": [
+        "Branching",
+        "recursive",
+        "botanical",
+        "rule-based growth",
+        "lightning fractals"
+      ],
+      "animation_behavior": "Smooth growing recursion, curling growths, stepwise expansion over time ---",
+      "id": "chaos_p4_01"
+    },
+    {
+      "phase": 4,
+      "domain": "Chaos & Fractals",
+      "title": "🔮 Newton Fractals",
+      "emoji": "🔮",
+      "name": "Newton Fractals",
+      "what_it_is": "Fractals created from Newton’s method for finding roots—results in ghostly, web-like basins of attraction.",
+      "how_to_use": [
+        "her skin reflects Newton fractals—zones of iridescent logic where light chooses a path",
+        "the space blooms in Newton basins—shifting boundary webs of convergence"
+      ],
+      "good_for": [
+        "Symbolic maps",
+        "skin texture",
+        "portals",
+        "light-based spells"
+      ],
+      "visual_keywords": [
+        "Webbed",
+        "basin logic",
+        "light funnels",
+        "convergent chaos"
+      ],
+      "animation_behavior": "Fractal surfaces change color based on user position or energy state ---",
+      "id": "chaos_p4_02"
+    },
+    {
+      "phase": 4,
+      "domain": "Chaos & Fractals",
+      "title": "🧠 Symbolic Bifurcation",
+      "emoji": "🧠",
+      "name": "Symbolic Bifurcation",
+      "what_it_is": "Bifurcation as metaphor: a single path splitting into symbolically charged trajectories—used in chaos theory and metaphysics alike.",
+      "how_to_use": [
+        "a sigil of bifurcation unfolds in light—each path represents a soul trajectory",
+        "her crown fractalizes into bifurcated glyphs—forked symbols of choice and fate"
+      ],
+      "good_for": [
+        "Spiritual symbolism",
+        "headwear",
+        "sigil generation",
+        "abstract glyphs"
+      ],
+      "visual_keywords": [
+        "Forked glyphs",
+        "symbolic logic",
+        "spiritual split",
+        "decision diagrams"
+      ],
+      "animation_behavior": "Unfolding logic trees, glowing rune-branches, binary forked pulses ---",
+      "id": "chaos_p4_03"
+    },
+    {
+      "phase": 4,
+      "domain": "Chaos & Fractals",
+      "title": "🧾 Recursive Topology (Meta-Containment)",
+      "emoji": "🧾",
+      "name": "Recursive Topology (Meta-Containment)",
+      "what_it_is": "Structures that contain versions of themselves—used to create worlds inside worlds. “A map where every room contains the map.”",
+      "how_to_use": [
+        "her geometry loops recursively—each layer holds a smaller self repeating inward",
+        "temple walls tessellate into recursive topology—each pattern zooms into its own micro-world"
+      ],
+      "good_for": [
+        "Temples",
+        "architecture",
+        "skin patterns",
+        "fractal layering"
+      ],
+      "visual_keywords": [
+        "Nested",
+        "self-contained",
+        "zoom worlds",
+        "labyrinths",
+        "looped structure"
+      ],
+      "animation_behavior": "Zoom reveals hidden layers, recursion folds in and out of itself, endless inner space",
+      "id": "chaos_p4_04"
+    },
+    {
+      "phase": 5,
+      "domain": "Chaos & Fractals",
+      "title": "🧫 Cellular Automata (Conway, Wolfram)",
+      "emoji": "🧫",
+      "name": "Cellular Automata (Conway, Wolfram)",
+      "what_it_is": "Rule-based grids where each cell changes over time depending on its neighbors. Can model life, death, motion, and chaos from simple rules.",
+      "how_to_use": [
+        "her skin pulses with cellular automata—each patch evolving through birth and decay",
+        "floor tiles react like Game of Life—emitting light when motion passes near"
+      ],
+      "good_for": [
+        "Skin textures",
+        "background grids",
+        "reactive environments"
+      ],
+      "visual_keywords": [
+        "Pixel logic",
+        "grid evolution",
+        "reactive cells",
+        "binary bloom",
+        "chaos logic"
+      ],
+      "animation_behavior": "Cell states flicker, patterns ripple outward, responsive to interaction or internal states ---",
+      "id": "chaos_p5_00"
+    },
+    {
+      "phase": 5,
+      "domain": "Chaos & Fractals",
+      "title": "🧬 Turing Patterns",
+      "emoji": "🧬",
+      "name": "Turing Patterns",
+      "what_it_is": "Natural patterns that form through chemical reactions and diffusion—responsible for zebra stripes, leopard spots, and coral forms.",
+      "how_to_use": [
+        "her skin is covered in Turing stripes—organic symmetry, mathematical in origin",
+        "the creature’s shell is etched with Turing pulses—spots that shift with breath"
+      ],
+      "good_for": [
+        "Skin",
+        "shells",
+        "fur patterns",
+        "liquid effects",
+        "magical inks"
+      ],
+      "visual_keywords": [
+        "Ripples",
+        "stripes",
+        "blotches",
+        "animal fractals",
+        "organic symmetry"
+      ],
+      "animation_behavior": "Patterns slowly ripple or morph across the surface—living paint ---",
+      "id": "chaos_p5_01"
+    },
+    {
+      "phase": 5,
+      "domain": "Chaos & Fractals",
+      "title": "🧿 Hyperbolic Tiling",
+      "emoji": "🧿",
+      "name": "Hyperbolic Tiling",
+      "what_it_is": "Tiling that happens in curved space—like Escher’s famous fish patterns that shrink infinitely toward the edges.",
+      "how_to_use": [
+        "her cloak ripples with hyperbolic tiling—endless recursive figures shrinking into curvature",
+        "temple floors bend in hyperbolic symmetry—non-Euclidean mosaics wrapping inwards"
+      ],
+      "good_for": [
+        "Fabric",
+        "magic portals",
+        "architecture",
+        "dimensional compression"
+      ],
+      "visual_keywords": [
+        "Shrinking symmetry",
+        "recursive fishscale",
+        "curved grid",
+        "infinite tessellation"
+      ],
+      "animation_behavior": "Tiling flows inward forever, curvature increases, perspective warps as you move ---",
+      "id": "chaos_p5_02"
+    },
+    {
+      "phase": 5,
+      "domain": "Chaos & Fractals",
+      "title": "🌀 Quasiperiodic Structures (Penrose Tiling)",
+      "emoji": "🌀",
+      "name": "Quasiperiodic Structures (Penrose Tiling)",
+      "what_it_is": "Patterns that never repeat but still follow strict logic. Often used in quasicrystals and sacred geometry. Penrose tiling is the most famous.",
+      "how_to_use": [
+        "her armor is grown from Penrose tiling—geometric truth in chaotic logic",
+        "the floor is quasiperiodic—no tile repeats, yet all fits together in symmetry"
+      ],
+      "good_for": [
+        "Armor",
+        "architecture",
+        "sacred spaces",
+        "higher-dimensional overlays"
+      ],
+      "visual_keywords": [
+        "Never-repeating symmetry",
+        "geometric lattice",
+        "holy irrationality",
+        "tiling truth"
+      ],
+      "animation_behavior": "New tiles appear without repetition, structures unfold in aperiodic bloom ---",
+      "id": "chaos_p5_03"
+    },
+    {
+      "phase": 5,
+      "domain": "Chaos & Fractals",
+      "title": "🌡️ Reaction-Diffusion Systems",
+      "emoji": "🌡️",
+      "name": "Reaction-Diffusion Systems",
+      "what_it_is": "Math systems modeling how two substances interact—often creates flowing, rippling blobs like pigment spreading in water.",
+      "how_to_use": [
+        "her aura is made of reaction-diffusion—fluid color pulses spreading across her form",
+        "the wall bleeds with math—reaction waves ripple like alien bio-ink"
+      ],
+      "good_for": [
+        "Auras",
+        "magic",
+        "liquid behavior",
+        "skin overlay",
+        "portals"
+      ],
+      "visual_keywords": [
+        "Spreading blobs",
+        "ripple bloom",
+        "fluid chaos",
+        "living ink",
+        "alien diffusion"
+      ],
+      "animation_behavior": "Color flows in waves, reactive ripple effects, pulsing with life or thought",
+      "id": "chaos_p5_04"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "phase": 4,
+  "domain": "Chaos & Fractals",
+  "title": "🔮 Newton Fractals",
+  "emoji": "🔮",
+  "name": "Newton Fractals",
+  "what_it_is": "Fractals created from Newton’s method for finding roots—results in ghostly, web-like basins of attraction.",
+  "how_to_use": [
+    "her skin reflects Newton fractals—zones of iridescent logic where light chooses a path",
+    "the space blooms in Newton basins—shifting boundary webs of convergence"
+  ],
+  "good_for": [
+    "Symbolic maps",
+    "skin texture",
+    "portals",
+    "light-based spells"
+  ],
+  "visual_keywords": [
+    "Webbed",
+    "basin logic",
+    "light funnels",
+    "convergent chaos"
+  ],
+  "animation_behavior": "Fractal surfaces change color based on user position or energy state ---",
+  "id": "chaos_p4_02"
+}

@@ -1,0 +1,25 @@
+{
+  "phase": 3,
+  "domain": "Chaos & Fractals",
+  "title": "🕳️ Escape-Time Algorithms",
+  "emoji": "🕳️",
+  "name": "Escape-Time Algorithms",
+  "what_it_is": "Used to render fractals like the Mandelbrot set—each pixel's color is based on how fast it “escapes” to infinity during iteration.",
+  "how_to_use": [
+    "terrain built from escape-time logic—colors bloom based on divergence",
+    "her dress glows brighter where values escape fast—like chaotic tide maps"
+  ],
+  "good_for": [
+    "Color mapping",
+    "surface rendering",
+    "fractal environments"
+  ],
+  "visual_keywords": [
+    "Radiant",
+    "computational bloom",
+    "divergence gradients",
+    "chaotic boundaries"
+  ],
+  "animation_behavior": "Color flickers based on input or location, zoom reveals layers of escape patterns ---",
+  "id": "chaos_p3_02"
+}

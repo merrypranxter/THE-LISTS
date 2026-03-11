@@ -1,0 +1,26 @@
+{
+  "phase": 5,
+  "domain": "Chaos & Fractals",
+  "title": "🧿 Hyperbolic Tiling",
+  "emoji": "🧿",
+  "name": "Hyperbolic Tiling",
+  "what_it_is": "Tiling that happens in curved space—like Escher’s famous fish patterns that shrink infinitely toward the edges.",
+  "how_to_use": [
+    "her cloak ripples with hyperbolic tiling—endless recursive figures shrinking into curvature",
+    "temple floors bend in hyperbolic symmetry—non-Euclidean mosaics wrapping inwards"
+  ],
+  "good_for": [
+    "Fabric",
+    "magic portals",
+    "architecture",
+    "dimensional compression"
+  ],
+  "visual_keywords": [
+    "Shrinking symmetry",
+    "recursive fishscale",
+    "curved grid",
+    "infinite tessellation"
+  ],
+  "animation_behavior": "Tiling flows inward forever, curvature increases, perspective warps as you move ---",
+  "id": "chaos_p5_02"
+}

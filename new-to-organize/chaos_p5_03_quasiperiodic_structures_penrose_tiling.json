@@ -1,0 +1,26 @@
+{
+  "phase": 5,
+  "domain": "Chaos & Fractals",
+  "title": "🌀 Quasiperiodic Structures (Penrose Tiling)",
+  "emoji": "🌀",
+  "name": "Quasiperiodic Structures (Penrose Tiling)",
+  "what_it_is": "Patterns that never repeat but still follow strict logic. Often used in quasicrystals and sacred geometry. Penrose tiling is the most famous.",
+  "how_to_use": [
+    "her armor is grown from Penrose tiling—geometric truth in chaotic logic",
+    "the floor is quasiperiodic—no tile repeats, yet all fits together in symmetry"
+  ],
+  "good_for": [
+    "Armor",
+    "architecture",
+    "sacred spaces",
+    "higher-dimensional overlays"
+  ],
+  "visual_keywords": [
+    "Never-repeating symmetry",
+    "geometric lattice",
+    "holy irrationality",
+    "tiling truth"
+  ],
+  "animation_behavior": "New tiles appear without repetition, structures unfold in aperiodic bloom ---",
+  "id": "chaos_p5_03"
+}

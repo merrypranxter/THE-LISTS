@@ -1,0 +1,25 @@
+{
+  "phase": 7,
+  "domain": "Chaos & Fractals",
+  "title": "🔄 Non-Wellfounded Sets (Circular Logic Sets)",
+  "emoji": "🔄",
+  "name": "Non-Wellfounded Sets (Circular Logic Sets)",
+  "what_it_is": "A logic system where sets can contain themselves—used to model paradox, recursion, self-reference, and circular metaphysics.",
+  "how_to_use": [
+    "she is a non-wellfounded entity—self-contained and self-defining, looped into herself",
+    "his crown is a recursion loop—each jewel referencing the whole system in closed paradox"
+  ],
+  "good_for": [
+    "Mythic beings",
+    "recursion glyphs",
+    "paradoxical architecture"
+  ],
+  "visual_keywords": [
+    "Circular reference",
+    "looped logic",
+    "paradox glyph",
+    "ouroboric structure"
+  ],
+  "animation_behavior": "Visual forms that feed into themselves, endlessly self-nesting, infinite identity feedback ---",
+  "id": "chaos_p7_00"
+}

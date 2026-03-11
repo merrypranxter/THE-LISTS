@@ -1,0 +1,27 @@
+{
+  "phase": 4,
+  "domain": "Chaos & Fractals",
+  "title": "🧾 Recursive Topology (Meta-Containment)",
+  "emoji": "🧾",
+  "name": "Recursive Topology (Meta-Containment)",
+  "what_it_is": "Structures that contain versions of themselves—used to create worlds inside worlds. “A map where every room contains the map.”",
+  "how_to_use": [
+    "her geometry loops recursively—each layer holds a smaller self repeating inward",
+    "temple walls tessellate into recursive topology—each pattern zooms into its own micro-world"
+  ],
+  "good_for": [
+    "Temples",
+    "architecture",
+    "skin patterns",
+    "fractal layering"
+  ],
+  "visual_keywords": [
+    "Nested",
+    "self-contained",
+    "zoom worlds",
+    "labyrinths",
+    "looped structure"
+  ],
+  "animation_behavior": "Zoom reveals hidden layers, recursion folds in and out of itself, endless inner space",
+  "id": "chaos_p4_04"
+}

@@ -1,0 +1,25 @@
+{
+  "phase": 6,
+  "domain": "Chaos & Fractals",
+  "title": "📉 Fractional Calculus",
+  "emoji": "📉",
+  "name": "Fractional Calculus",
+  "what_it_is": "Math that generalizes derivatives and integrals to *fractional orders*—used in modeling memory, time fuzz, and anomalous diffusion.",
+  "how_to_use": [
+    "her aura glows with fractional memory—every movement carries lingering echo",
+    "her skin resists pure form—fractional derivatives turn her edges into smeared light"
+  ],
+  "good_for": [
+    "Memory effects",
+    "time distortion",
+    "surreal form behavior"
+  ],
+  "visual_keywords": [
+    "Lingering motion",
+    "smeared edge",
+    "history-trailing glow",
+    "soft time drag"
+  ],
+  "animation_behavior": "Motion lags behind itself, time feels elastic, feedback loops persist longer than expected ---",
+  "id": "chaos_p6_01"
+}

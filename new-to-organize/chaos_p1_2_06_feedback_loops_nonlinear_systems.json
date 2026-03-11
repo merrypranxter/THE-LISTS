@@ -1,0 +1,26 @@
+{
+  "phase": "1_2",
+  "domain": "Chaos & Fractals",
+  "title": "🔁 Feedback Loops (Nonlinear Systems)",
+  "emoji": "🔁",
+  "name": "Feedback Loops (Nonlinear Systems)",
+  "what_it_is": "Systems where the output loops back into the input—amplifying, mutating, or stabilizing behaviors. Chaos emerges when feedback gets wild.",
+  "how_to_use": [
+    "her voice triggers feedback visuals: sound pulses build into geometric bloom",
+    "cloak that evolves via nonlinear feedback—folds deepen as motion repeats"
+  ],
+  "good_for": [
+    "Motion trails",
+    "behavior-driven visuals",
+    "reactive ornamentation"
+  ],
+  "visual_keywords": [
+    "Echo",
+    "loop",
+    "intensifying flow",
+    "recursive bloom",
+    "behavior-based visuals"
+  ],
+  "animation_behavior": "Reacts to motion or sound, visuals build over time, unstable feedback pulses ---",
+  "id": "chaos_p1_2_06"
+}

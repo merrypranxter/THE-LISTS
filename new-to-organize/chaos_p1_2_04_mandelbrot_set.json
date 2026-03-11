@@ -1,0 +1,27 @@
+{
+  "phase": "1_2",
+  "domain": "Chaos & Fractals",
+  "title": "🔲 Mandelbrot Set",
+  "emoji": "🔲",
+  "name": "Mandelbrot Set",
+  "what_it_is": "The iconic fractal “map” where Julia sets live—self-similar across infinite zoom, edge full of variety.",
+  "how_to_use": [
+    "a shell of Mandelbrot crust encases her like sacred chaotic armor",
+    "terrain folds outward in Mandelbrot valleys and fractal spires"
+  ],
+  "good_for": [
+    "Terrain",
+    "armor",
+    "cosmic backdrops",
+    "sacred geometry structures"
+  ],
+  "visual_keywords": [
+    "Zoom fractals",
+    "crusted",
+    "psychedelic topology",
+    "sacred map",
+    "black-core blooms"
+  ],
+  "animation_behavior": "Endless zoom, recursive edge morphing, rotating fractal fields ---",
+  "id": "chaos_p1_2_04"
+}

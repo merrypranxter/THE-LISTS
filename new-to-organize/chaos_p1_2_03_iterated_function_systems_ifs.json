@@ -1,0 +1,28 @@
+{
+  "phase": "1_2",
+  "domain": "Chaos & Fractals",
+  "title": "🌿 Iterated Function Systems (IFS)",
+  "emoji": "🌿",
+  "name": "Iterated Function Systems (IFS)",
+  "what_it_is": "Fractals built from repeated geometric transformations. Famous for ferns, leaves, galaxies, and recursively branching forms.",
+  "how_to_use": [
+    "wings patterned with recursive IFS symmetry—each feather a smaller echo of the whole",
+    "gown grown from IFS logic: organic spirals of translucent scale-leaves"
+  ],
+  "good_for": [
+    "Plant-like forms",
+    "self-similar clothing",
+    "terrain",
+    "fractal hair",
+    "architectural growths"
+  ],
+  "visual_keywords": [
+    "Recursive",
+    "self-similar",
+    "leaflike",
+    "crystalline",
+    "nested spirals"
+  ],
+  "animation_behavior": "Continuous growth outward—branching, flowering, pulsing from a point of origin ---",
+  "id": "chaos_p1_2_03"
+}

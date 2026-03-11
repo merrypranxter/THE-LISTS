@@ -1,0 +1,25 @@
+{
+  "phase": "1_2",
+  "domain": "Chaos & Fractals",
+  "title": "📈 Lyapunov Exponent (Chaos Sensitivity)",
+  "emoji": "📈",
+  "name": "Lyapunov Exponent (Chaos Sensitivity)",
+  "what_it_is": "Measures how sensitive a system is to initial conditions—the famous “butterfly effect.” High Lyapunov = chaotic, low = stable.",
+  "how_to_use": [
+    "the shimmer of her body reflects high Lyapunov variance—colors shift at the smallest input",
+    "space around her flickers with sensitivity—a chaos field tuned to emotion"
+  ],
+  "good_for": [
+    "Auras",
+    "instability fields",
+    "perception overlays"
+  ],
+  "visual_keywords": [
+    "Sensitivity field",
+    "micro-reactive",
+    "flickering",
+    "emotional charge"
+  ],
+  "animation_behavior": "Subtle reactions to slight motion, micro-changes ripple outward in light ---",
+  "id": "chaos_p1_2_08"
+}

@@ -1,0 +1,28 @@
+{
+  "phase": "1_2",
+  "domain": "Chaos & Fractals",
+  "title": "🧬 Julia Sets",
+  "emoji": "🧬",
+  "name": "Julia Sets",
+  "what_it_is": "Fractal shapes formed by iterating complex functions. Can look like coral, veins, or alien terrain depending on parameters. More shape-like than the Mandelbrot set.",
+  "how_to_use": [
+    "her skin is lined with glowing Julia-set veins—like coral etched in light",
+    "the environment forms from Julia fractals, branching infinitely",
+    "a halo of floating fractal shards in soft iridescent loops"
+  ],
+  "good_for": [
+    "Skin textures",
+    "terrain",
+    "background patterns",
+    "crystalline growths"
+  ],
+  "visual_keywords": [
+    "Coral",
+    "veinwork",
+    "branching filigree",
+    "fractal bloom",
+    "iridescent crust"
+  ],
+  "animation_behavior": "Zooming pulses, expanding from points, recursive undulation ---",
+  "id": "chaos_p1_2_01"
+}

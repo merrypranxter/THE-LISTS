@@ -1,0 +1,26 @@
+{
+  "phase": "1_2",
+  "domain": "Chaos & Fractals",
+  "title": "🌀 Strange Attractors (General)",
+  "emoji": "🌀",
+  "name": "Strange Attractors (General)",
+  "what_it_is": "Dynamic systems where trajectories settle into complex, never-repeating loops. Includes Lorenz, Rössler, Duffing, etc.",
+  "how_to_use": [
+    "limbs traced with attractor logic—looping trails of light orbit the form",
+    "chaotic spiral fields trace emotional charge in ambient geometry"
+  ],
+  "good_for": [
+    "Aura shaping",
+    "trail logic",
+    "gesture echo",
+    "psychedelic spaceflows"
+  ],
+  "visual_keywords": [
+    "Orbitals",
+    "feedback trails",
+    "chaos bloom",
+    "never-repeating curls"
+  ],
+  "animation_behavior": "Shifting loops that orbit or drift—no two turns the same, but always returning to the shape ---",
+  "id": "chaos_p1_2_02"
+}

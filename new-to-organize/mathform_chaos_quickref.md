@@ -1,23 +1,28 @@
-# 🎯 Quick Reference: Chaos & Fractals (Phases 12-15)
+# 🎯 Quick Reference: Chaos & Fractals (Phases 1-5)
 | ID | Concept | Emoji | Core Mechanic | Visual Hook |
 |---|---|---|---|---|
-| chaos_p12_00 | Entropy Sigils | ☠️ | Visual representations of decay, disorder, and ene... | Crumbling glyphs, signal decay |
-| chaos_p12_01 | Symmetry Death | 🧬 | The transition from orderly symmetry to chaos—used... | Cracked mirrors, failed reflection |
-| chaos_p12_02 | Fractal Resurrection Logic | 🕸 | The pattern that returns after destruction—not rep... | Fractal regrowth, echoing sprout |
-| chaos_p12_03 | Memory Erosion Fields | 🧠 | Zones where data, memory, or identity slowly fades... | Glitch drift, data fade |
-| chaos_p12_04 | Chaos Rebirth Embryo | 🦠 | A visual and symbolic form of primordial potential... | Fractal womb, fluid lattice |
-| chaos_p13_00 | ⏳ Symbolic Time Crystals |  | Structures that repeat in time rather than space—l... | Crystal rhythm, pulse symmetry |
-| chaos_p13_01 | Ouroboric Causality Loops | 🔁 | Causal systems where cause and effect are circular... | Ouroboros ring, mirrored futures |
-| chaos_p13_02 | Topological Love Knots | 💞 | Love and bond visualized as nontrivial topological... | Knotted hearts, interdimensional braids |
-| chaos_p13_03 | Infinite Myth Recursion | ♾ | The same archetypes reappearing in new masks—recur... | Shifting masks, archetype layers |
-| chaos_p13_04 | Feedback Entity Dynamics | 🧿 | Entities whose structure *requires* interaction—me... | Echo glow, attention shimmer |
-| chaos_p14_00 | Divine Data Corruption | 🪓 | The breakdown of celestial or sacred systems throu... | Glitched halos, holy static |
-| chaos_p14_01 | Meta-Emotion Oscillators | 🧘 | Emotional structures modeled as oscillating system... | Emotional sinewaves, heartlight spectrum |
-| chaos_p14_02 | Holographic Karma Webs | 🕷 | Karmic systems visualized as multidimensional webs... | Threaded timelines, mirrored webs |
-| chaos_p14_03 | ‍🗨 Mythos Collapse Attractors | 👁 | Regions where story, archetype, and logic collapse... | Myth singularity, logic fold |
-| chaos_p14_04 | Recursive Glitch Transcendence | 🌐 | The moment when constant error produces emergence—... | Feedback glitch halo, fractal transcendence |
-| chaos_p15_00 | Echo-Void Constructs | 🕳 | Spaces built from what remains *after* meaning is ... | Sound shadows, hollow geometry |
-| chaos_p15_01 | Neurofractal Empathy Fields | 🧠 | Affective resonance systems mapped fractally acros... | Fractal feelers, feedback blooms |
-| chaos_p15_02 | Regret Spirals (Recursive Sorrow) | 🌀 | Emotional attractors built from spirals of decisio... | Faded choices, sorrow coils |
-| chaos_p15_03 | Recursive Language Gods | 📜 | Entities or systems that *speak themselves into be... | Glyph body, fractal mouth |
-| chaos_p15_04 | Phantom Mirror Entities | 💫 | Beings that only exist when reflected—dependent on... | Mirror-body, reversed symmetry |
+| chaos_p1_2_00 | Lorenz Attractor | 🌪️ | A chaotic system producing butterfly-shaped loops—... | Chaotic orbitals, butterfly structure |
+| chaos_p1_2_01 | Julia Sets | 🧬 | Fractal shapes formed by iterating complex functio... | Coral, veinwork |
+| chaos_p1_2_02 | Strange Attractors (General) | 🌀 | Dynamic systems where trajectories settle into com... | Orbitals, feedback trails |
+| chaos_p1_2_03 | Iterated Function Systems (IFS) | 🌿 | Fractals built from repeated geometric transformat... | Recursive, self-similar |
+| chaos_p1_2_04 | Mandelbrot Set | 🔲 | The iconic fractal “map” where Julia sets live—sel... | Zoom fractals, crusted |
+| chaos_p1_2_05 | Bifurcation Diagrams | 🌊 | Visual maps showing where systems split into multi... | Forking, branching symmetry |
+| chaos_p1_2_06 | Feedback Loops (Nonlinear Systems) | 🔁 | Systems where the output loops back into the input... | Echo, loop |
+| chaos_p1_2_07 | Fractal Dimension (Hausdorff Dimension) | 🧩 | A way to describe shapes that aren’t whole-dimensi... | Fractional, non-integer |
+| chaos_p1_2_08 | Lyapunov Exponent (Chaos Sensitivity) | 📈 | Measures how sensitive a system is to initial cond... | Sensitivity field, micro-reactive |
+| chaos_p1_2_09 | ⌛ Time Series & Phase Space Maps |  | Time series show system behavior over time. Phase ... | Trajectory maps, motion memory |
+| chaos_p3_00 | Henon Map | 🔳 | A discrete chaotic system that generates 2D point ... | Elliptical vortex, point cloud |
+| chaos_p3_01 | Fractal Flames (Scott Draves) | 🔥 | A method to render fractals with colored, layered ... | Wispy, glowing |
+| chaos_p3_02 | Escape-Time Algorithms | 🕳️ | Used to render fractals like the Mandelbrot set—ea... | Radiant, computational bloom |
+| chaos_p3_03 | Self-Affine Fractals | 🔻 | Fractals with different scaling in different direc... | Skewed symmetry, warped repetition |
+| chaos_p3_04 | Attractor Merging & Collapse | 💥 | When two or more attractors interact—can merge int... | Collision, merge bloom |
+| chaos_p4_00 | 🟣 Cantor Dust & Cantor Sets |  | Infinitely fragmented structures made by removing ... | Fragmented, recursive gaps |
+| chaos_p4_01 | L-Systems (Lindenmayer Systems) | 🌿 | Recursive string-replacement systems that model na... | Branching, recursive |
+| chaos_p4_02 | Newton Fractals | 🔮 | Fractals created from Newton’s method for finding ... | Webbed, basin logic |
+| chaos_p4_03 | Symbolic Bifurcation | 🧠 | Bifurcation as metaphor: a single path splitting i... | Forked glyphs, symbolic logic |
+| chaos_p4_04 | Recursive Topology (Meta-Containment) | 🧾 | Structures that contain versions of themselves—use... | Nested, self-contained |
+| chaos_p5_00 | Cellular Automata (Conway, Wolfram) | 🧫 | Rule-based grids where each cell changes over time... | Pixel logic, grid evolution |
+| chaos_p5_01 | Turing Patterns | 🧬 | Natural patterns that form through chemical reacti... | Ripples, stripes |
+| chaos_p5_02 | Hyperbolic Tiling | 🧿 | Tiling that happens in curved space—like Escher’s ... | Shrinking symmetry, recursive fishscale |
+| chaos_p5_03 | Quasiperiodic Structures (Penrose Tiling) | 🌀 | Patterns that never repeat but still follow strict... | Never-repeating symmetry, geometric lattice |
+| chaos_p5_04 | Reaction-Diffusion Systems | 🌡️ | Math systems modeling how two substances interact—... | Spreading blobs, ripple bloom |

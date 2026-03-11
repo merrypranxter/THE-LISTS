@@ -1,0 +1,26 @@
+{
+  "phase": 3,
+  "domain": "Chaos & Fractals",
+  "title": "🔻 Self-Affine Fractals",
+  "emoji": "🔻",
+  "name": "Self-Affine Fractals",
+  "what_it_is": "Fractals with different scaling in different directions—stretched or warped symmetry. Common in nature (e.g., mountain ranges).",
+  "how_to_use": [
+    "the landscape is a self-affine stretch—each ridge scaled nonuniformly in fractal logic",
+    "her limbs are elongated like self-affine branches—chaotic but balanced"
+  ],
+  "good_for": [
+    "Mountains",
+    "body structures",
+    "background architecture",
+    "hair"
+  ],
+  "visual_keywords": [
+    "Skewed symmetry",
+    "warped repetition",
+    "stretched fractals",
+    "anisotropic geometry"
+  ],
+  "animation_behavior": "Scaling shifts along different axes, pulsing distortion over form ---",
+  "id": "chaos_p3_03"
+}

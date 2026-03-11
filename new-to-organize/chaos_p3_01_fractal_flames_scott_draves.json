@@ -1,0 +1,27 @@
+{
+  "phase": 3,
+  "domain": "Chaos & Fractals",
+  "title": "🔥 Fractal Flames (Scott Draves)",
+  "emoji": "🔥",
+  "name": "Fractal Flames (Scott Draves)",
+  "what_it_is": "A method to render fractals with colored, layered translucency and glowing trails. Combines nonlinear functions + color gradients.",
+  "how_to_use": [
+    "her body is made of fractal flame light—layered wisps of color moving like slow fire",
+    "the background pulses in shifting flame fractals—iridescent trails dancing in chaos"
+  ],
+  "good_for": [
+    "Character bodies",
+    "magical energy",
+    "full-scene style overlays"
+  ],
+  "visual_keywords": [
+    "Wispy",
+    "glowing",
+    "layered",
+    "smoke-light",
+    "iridescent fire",
+    "morphing trails"
+  ],
+  "animation_behavior": "Smoothly shifting trails, layered glowing pulses, color morph over time ---",
+  "id": "chaos_p3_01"
+}
