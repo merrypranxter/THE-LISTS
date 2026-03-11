@@ -1,0 +1,25 @@
+{
+  "phase": 12,
+  "domain": "Chaos & Fractals",
+  "title": "🧬 Symmetry Death",
+  "emoji": "🧬",
+  "name": "Symmetry Death",
+  "what_it_is": "The transition from orderly symmetry to chaos—used in physics, biology, and mythic narrative arcs to signal transformation or corruption.",
+  "how_to_use": [
+    "her face begins as perfect symmetry—until decay fractures it into asymmetric bloom",
+    "his armor fails at the point of symmetry death—fractals crawl out of the cracks"
+  ],
+  "good_for": [
+    "Entity transformation",
+    "magical failure",
+    "beauty broken by truth"
+  ],
+  "visual_keywords": [
+    "Cracked mirrors",
+    "failed reflection",
+    "asymmetric decay",
+    "corrupted tessellation"
+  ],
+  "animation_behavior": "Symmetry breaks mid-sequence, one side distorts, balanced forms collapse into fractal ruin ---",
+  "id": "chaos_p12_01"
+}

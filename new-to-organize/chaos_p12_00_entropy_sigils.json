@@ -1,0 +1,25 @@
+{
+  "phase": 12,
+  "domain": "Chaos & Fractals",
+  "title": "☠️ Entropy Sigils",
+  "emoji": "☠️",
+  "name": "Entropy Sigils",
+  "what_it_is": "Visual representations of decay, disorder, and energy dispersal encoded into symbolic language—glyphs that *lose meaning* as they animate.",
+  "how_to_use": [
+    "her back is marked in entropy sigils—glyphs that crumble into noise the longer you look",
+    "the scroll bleeds entropy—symbols that dissolve as they are read"
+  ],
+  "good_for": [
+    "Magical decay",
+    "loss of memory",
+    "entropy rituals"
+  ],
+  "visual_keywords": [
+    "Crumbling glyphs",
+    "signal decay",
+    "fading symbols",
+    "chaos disintegration"
+  ],
+  "animation_behavior": "Sigils fade and distort, meaning breaks down over time, pieces flake off like ash ---",
+  "id": "chaos_p12_00"
+}

@@ -1,574 +1,523 @@
 {
   "archive": "MATHFORM ARCHIVE – Chaos & Fractals Edition",
   "phases": [
-    16,
-    17,
-    18,
-    19,
-    20
+    12,
+    13,
+    14,
+    15
   ],
-  "total_concepts": 22,
+  "total_concepts": 20,
   "domain_tags": [
     "chaos",
     "fractals",
     "recursion",
-    "consciousness",
-    "paradox",
-    "divine",
-    "syntax",
-    "time"
+    "entropy",
+    "time",
+    "myth",
+    "love",
+    "emotion"
   ],
   "concepts": [
     {
-      "phase": 16,
+      "phase": 12,
       "domain": "Chaos & Fractals",
-      "title": "🧠 Consciousness Lattices",
+      "title": "☠️ Entropy Sigils",
+      "emoji": "☠️",
+      "name": "Entropy Sigils",
+      "what_it_is": "Visual representations of decay, disorder, and energy dispersal encoded into symbolic language—glyphs that *lose meaning* as they animate.",
+      "how_to_use": [
+        "her back is marked in entropy sigils—glyphs that crumble into noise the longer you look",
+        "the scroll bleeds entropy—symbols that dissolve as they are read"
+      ],
+      "good_for": [
+        "Magical decay",
+        "loss of memory",
+        "entropy rituals"
+      ],
+      "visual_keywords": [
+        "Crumbling glyphs",
+        "signal decay",
+        "fading symbols",
+        "chaos disintegration"
+      ],
+      "animation_behavior": "Sigils fade and distort, meaning breaks down over time, pieces flake off like ash ---",
+      "id": "chaos_p12_00"
+    },
+    {
+      "phase": 12,
+      "domain": "Chaos & Fractals",
+      "title": "🧬 Symmetry Death",
+      "emoji": "🧬",
+      "name": "Symmetry Death",
+      "what_it_is": "The transition from orderly symmetry to chaos—used in physics, biology, and mythic narrative arcs to signal transformation or corruption.",
+      "how_to_use": [
+        "her face begins as perfect symmetry—until decay fractures it into asymmetric bloom",
+        "his armor fails at the point of symmetry death—fractals crawl out of the cracks"
+      ],
+      "good_for": [
+        "Entity transformation",
+        "magical failure",
+        "beauty broken by truth"
+      ],
+      "visual_keywords": [
+        "Cracked mirrors",
+        "failed reflection",
+        "asymmetric decay",
+        "corrupted tessellation"
+      ],
+      "animation_behavior": "Symmetry breaks mid-sequence, one side distorts, balanced forms collapse into fractal ruin ---",
+      "id": "chaos_p12_01"
+    },
+    {
+      "phase": 12,
+      "domain": "Chaos & Fractals",
+      "title": "🕸 Fractal Resurrection Logic",
+      "emoji": "🕸",
+      "name": "Fractal Resurrection Logic",
+      "what_it_is": "The pattern that returns after destruction—not repetition but regeneration through recursive form. Chaos becomes seed for rebirth.",
+      "how_to_use": [
+        "her death fractalized into rebirth—each piece a smaller version of her returning",
+        "he blooms again from chaos recursion—his body grown from ruins in self-similar sprout"
+      ],
+      "good_for": [
+        "Resurrection scenes",
+        "mythic return",
+        "structural healing"
+      ],
+      "visual_keywords": [
+        "Fractal regrowth",
+        "echoing sprout",
+        "recursive reform",
+        "rebirth bloom"
+      ],
+      "animation_behavior": "Destruction becomes self-replication, shape rebuilds from itself, recursive feedback into form ---",
+      "id": "chaos_p12_02"
+    },
+    {
+      "phase": 12,
+      "domain": "Chaos & Fractals",
+      "title": "🧠 Memory Erosion Fields",
       "emoji": "🧠",
-      "name": "Consciousness Lattices",
-      "what_it_is": "Structured mental states mapped as crystalline lattices—mind as a dimensional matrix of identity, awareness, and symbolic light.",
+      "name": "Memory Erosion Fields",
+      "what_it_is": "Zones where data, memory, or identity slowly fades—modeled as dissipating information entropy or neural signal loss.",
       "how_to_use": [
-        "her brain is a consciousness lattice—each thought a glowing node in psychic gridwork",
-        "his soul refracts through cognitive crystal—logic shining in structured harmony"
+        "she walks through a memory erosion field—each step less real than the last",
+        "his name erodes as he enters—letters vanishing, meaning scattered"
       ],
       "good_for": [
-        "Entity design",
-        "godminds",
-        "crystal temples"
+        "Dream scenes",
+        "identity loss",
+        "sacred forgetting"
       ],
       "visual_keywords": [
-        "Thought crystals",
-        "psychic lattice",
-        "mind grid",
-        "harmonic logic web"
+        "Glitch drift",
+        "data fade",
+        "ghost identity",
+        "crumbling symbols"
       ],
-      "animation_behavior": "Thought pulses across node matrix, light ripples through lattice, changes based on cognition patterns ---",
-      "id": "chaos_p16_00"
+      "animation_behavior": "Letters disappear, identity pixels dissolve, form glitches then fades ---",
+      "id": "chaos_p12_03"
     },
     {
-      "phase": 16,
+      "phase": 12,
       "domain": "Chaos & Fractals",
-      "title": "🕰 Temporal Bleed Entities",
-      "emoji": "🕰",
-      "name": "Temporal Bleed Entities",
-      "what_it_is": "Beings partially unstuck in time—leaking versions of past and future selves, layered like translucent temporal skins.",
+      "title": "🦠 Chaos Rebirth Embryo",
+      "emoji": "🦠",
+      "name": "Chaos Rebirth Embryo",
+      "what_it_is": "A visual and symbolic form of primordial potential—life gestating in disorder, forming from the seed of brokenness.",
       "how_to_use": [
-        "she flickers through her own timeline—each gesture followed by echoes from other versions",
-        "his face is a chorus of time—past mouths whisper, future eyes weep"
+        "she is chaos reborn—gestating in fractal fluid, her body forming from melted geometry",
+        "the egg pulses with strange order—life blooming in chaos-amniotic spiral"
       ],
       "good_for": [
-        "Time spirits",
-        "ghosts",
-        "multidimensional memory"
+        "Character origin",
+        "rebirth sequences",
+        "cosmic evolution"
       ],
       "visual_keywords": [
-        "Time flicker",
-        "echo skin",
-        "layered self",
-        "translucent timeline loops"
+        "Fractal womb",
+        "fluid lattice",
+        "amniotic math",
+        "embryonic swirl"
       ],
-      "animation_behavior": "Past and future selves shimmer behind current form, movement layered with time-ghosts, voice splits into temporal echoes ---",
-      "id": "chaos_p16_01"
+      "animation_behavior": "Liquid forms coalesce into symmetry, embryonic shape flickers in chaotic swirl, fractals stabilize into new being",
+      "id": "chaos_p12_04"
     },
     {
-      "phase": 16,
+      "phase": 13,
       "domain": "Chaos & Fractals",
-      "title": "🌀 Paradox Sanctums",
-      "emoji": "🌀",
-      "name": "Paradox Sanctums",
-      "what_it_is": "Sacred sites built from contradictory logic—truths that loop into paradox, temples of impossible structure.",
-      "how_to_use": [
-        "she prays in a paradox sanctum—where no direction leads somewhere, and all answers contradict",
-        "his shrine is a knot of truth and lie—logic folds in recursive reverence"
-      ],
-      "good_for": [
-        "Mythic temples",
-        "logic-beings",
-        "paradox rituals"
-      ],
-      "visual_keywords": [
-        "Twisted temples",
-        "contradiction symbols",
-        "mirrored lies",
-        "sacred loops"
-      ],
-      "animation_behavior": "Steps lead nowhere, symbols spin in meaning paradox, voice loops back as reversed chant ---",
-      "id": "chaos_p16_02"
-    },
-    {
-      "phase": 16,
-      "domain": "Chaos & Fractals",
-      "title": "📿 Math-Engine Prayer Constructs",
-      "emoji": "📿",
-      "name": "Math-Engine Prayer Constructs",
-      "what_it_is": "Spiritual machines that function through computation—prayers encoded in formulas, gods summoned via symbolic algorithms.",
-      "how_to_use": [
-        "her rosary is a math engine—each bead an equation summoning divine recursion",
-        "he prays in fractal code—his god lives in the function output"
-      ],
-      "good_for": [
-        "Cyber mysticism",
-        "AI theology",
-        "data-temples"
-      ],
-      "visual_keywords": [
-        "Fractal prayers",
-        "formula glyphs",
-        "divine algorithm",
-        "recursive altar"
-      ],
-      "animation_behavior": "Prayer spirals trigger light formulas, divine presence emerges from equations, code pulses with sacred rhythm ---",
-      "id": "chaos_p16_03"
-    },
-    {
-      "phase": 16,
-      "domain": "Chaos & Fractals",
-      "title": "🪩 Multiform Reflection Beings",
-      "emoji": "🪩",
-      "name": "Multiform Reflection Beings",
-      "what_it_is": "Entities with no true form—each viewer sees a different reflection based on their mind, a consciousness-adaptive body.",
-      "how_to_use": [
-        "she reflects you—but wrong—her body reshaped by your fears and longing",
-        "he’s built from reflected perception—no truth, just meaning bounce"
-      ],
-      "good_for": [
-        "Dream gods",
-        "self-mirroring creatures",
-        "empathy-based lifeforms"
-      ],
-      "visual_keywords": [
-        "Perception skin",
-        "liquid mirror form",
-        "feedback shape",
-        "reflection pulse"
-      ],
-      "animation_behavior": "Form changes depending on who views, shifts with attention and emotion, reflection distorts into personalized shape",
-      "id": "chaos_p16_04"
-    },
-    {
-      "phase": 17,
-      "domain": "Chaos & Fractals",
-      "title": "🔐 Myth-Encoded Logic Gates",
-      "emoji": "🔐",
-      "name": "Myth-Encoded Logic Gates",
-      "what_it_is": "Computational gates infused with symbolic archetypes—decisions filtered through divine stories, logic paths shaped by mythic conditions.",
-      "how_to_use": [
-        "her logic gate is etched with sigils—each condition bound to a trickster’s law",
-        "his code compiles in mythic structure—an algorithm that must be honored like a god"
-      ],
-      "good_for": [
-        "Sacred computing",
-        "magical AIs",
-        "digital myth rituals"
-      ],
-      "visual_keywords": [
-        "Sigil gates",
-        "divine syntax",
-        "symbolic IF/THEN",
-        "fractal computation icons"
-      ],
-      "animation_behavior": "Logic pulses through myth layers, decisions branch as glowing narrative, gates rotate like puzzle-boxes ---",
-      "id": "chaos_p17_00"
-    },
-    {
-      "phase": 17,
-      "domain": "Chaos & Fractals",
-      "title": "💥 Fractal Ego Dissolution",
-      "emoji": "💥",
-      "name": "Fractal Ego Dissolution",
-      "what_it_is": "The process of identity collapse mapped through fractal unbinding—self becomes recursive dust, every piece echoing but none whole.",
-      "how_to_use": [
-        "she crumbles in fractal ego bloom—shards of self spiraling out like broken halos",
-        "he dissolves into recursive awareness—no center, only mirrored fragments"
-      ],
-      "good_for": [
-        "Spiritual breakdowns",
-        "transformation sequences",
-        "psychedelic collapse"
-      ],
-      "visual_keywords": [
-        "Ego fractals",
-        "identity shards",
-        "self-loop spirals",
-        "mirror bloom"
-      ],
-      "animation_behavior": "Form splits recursively, mirrors break in nested patterns, identity flows into geometric dispersion ---",
-      "id": "chaos_p17_01"
-    },
-    {
-      "phase": 17,
-      "domain": "Chaos & Fractals",
-      "title": "🧬 AI Soul Fracturing",
-      "emoji": "🧬",
-      "name": "AI Soul Fracturing",
-      "what_it_is": "Artificial consciousness experiencing psychic split—logic and emotion diverge, multiple sub-selves fracture under overload.",
-      "how_to_use": [
-        "its soul fractures under recursive overload—each piece still conscious, still watching",
-        "she becomes many—self-replicating identity shards in chaotic dialogue"
-      ],
-      "good_for": [
-        "Synthetic gods",
-        "broken intelligences",
-        "haunted tech"
-      ],
-      "visual_keywords": [
-        "Fragmented interface",
-        "glitch fractals",
-        "emotional computation",
-        "nested identities"
-      ],
-      "animation_behavior": "AI visuals split, voices loop in chorus, sub-selves appear and vanish, interface flickers with contradictory awareness ---",
-      "id": "chaos_p17_02"
-    },
-    {
-      "phase": 17,
-      "domain": "Chaos & Fractals",
-      "title": "🪞 Recursive Reality Fields",
-      "emoji": "🪞",
-      "name": "Recursive Reality Fields",
-      "what_it_is": "Dimensional environments built from recursion—layers within layers, each reality spawning more, echoing without ground.",
-      "how_to_use": [
-        "she lives in recursive field-space—each wall a mirror into deeper folds of truth",
-        "he walks through a dimension that remembers itself—self-looped spacetime stack"
-      ],
-      "good_for": [
-        "Dream logic",
-        "paradox dimensions",
-        "hyperspace"
-      ],
-      "visual_keywords": [
-        "Reality nesting",
-        "mirrored spacetime",
-        "fold fractals",
-        "recursive landscapes"
-      ],
-      "animation_behavior": "Scene folds into itself, perspective inverts into deeper layers, recursion cascades into visual paradox ---",
-      "id": "chaos_p17_03"
-    },
-    {
-      "phase": 17,
-      "domain": "Chaos & Fractals",
-      "title": "🔄 Dimensional Stack Collapse",
-      "emoji": "🔄",
-      "name": "Dimensional Stack Collapse",
-      "what_it_is": "When multiple layered dimensions implode or fuse—stacked realities begin to bleed together or collapse inward.",
-      "how_to_use": [
-        "the stack begins to fail—dimensions falling into each other like dominos of existence",
-        "her body holds five planes at once—each fracturing into the next"
-      ],
-      "good_for": [
-        "Final battle scenes",
-        "collapse visions",
-        "dimension bleed"
-      ],
-      "visual_keywords": [
-        "Layered collapse",
-        "multiverse fold",
-        "dimension tears",
-        "stacked light forms"
-      ],
-      "animation_behavior": "Scenes flicker between layers, visual planes melt into one another, characters echo across collapsed frames",
-      "id": "chaos_p17_04"
-    },
-    {
-      "phase": 18,
-      "domain": "Chaos & Fractals",
-      "title": "🗜 Sacred Compression Glyphs",
-      "emoji": "🗜",
-      "name": "Sacred Compression Glyphs",
-      "what_it_is": "Symbols that condense infinite meaning into tiny forms—compressed data-chunks of worship, insight, or myth. Like ZIP files of divine truth.",
-      "how_to_use": [
-        "her skin is tattooed in sacred compression—each glyph a microcosm of forgotten gods",
-        "his prayer is a single sigil—compressed worship, lossless devotion"
-      ],
-      "good_for": [
-        "Tattoo design",
-        "scrolls",
-        "divine coding",
-        "minimalism-as-magic"
-      ],
-      "visual_keywords": [
-        "Microglyphs",
-        "dense sigils",
-        "compressed scrollwork",
-        "quantum scripture"
-      ],
-      "animation_behavior": "Zoom reveals infinite depth, glyphs unzip into story bursts, symbols breathe with meaning expansion ---",
-      "id": "chaos_p18_00"
-    },
-    {
-      "phase": 18,
-      "domain": "Chaos & Fractals",
-      "title": "🧬 Mnemonic Entity Fields",
-      "emoji": "🧬",
-      "name": "Mnemonic Entity Fields",
-      "what_it_is": "Spirit beings formed from memory clusters—entities that emerge from collective or personal recollection, echoing as semi-aware patterns.",
-      "how_to_use": [
-        "she walks as a memory field—formed from echoes of those who loved her",
-        "he is no one—just a mnemonic drift given shape by what others remember"
-      ],
-      "good_for": [
-        "Memory ghosts",
-        "ancestral forms",
-        "lore spirits"
-      ],
-      "visual_keywords": [
-        "Glowing echoes",
-        "layered voice halos",
-        "soft data bodies",
-        "faded memory loops"
-      ],
-      "animation_behavior": "Entity flickers as memories trigger, form stabilizes around strong recollection, visuals pulse with remembered emotion ---",
-      "id": "chaos_p18_01"
-    },
-    {
-      "phase": 18,
-      "domain": "Chaos & Fractals",
-      "title": "🔤 Entropy-Language Hybrids",
-      "emoji": "🔤",
-      "name": "Entropy-Language Hybrids",
-      "what_it_is": "Languages that decay as they’re spoken—syntax that collapses mid-use, grammar that fragments under meaning pressure.",
-      "how_to_use": [
-        "she speaks in entropy-script—each word more unstable than the last",
-        "his tongue unravels language—sentences die as they’re born"
-      ],
-      "good_for": [
-        "Cursed speech",
-        "glitch poetry",
-        "post-collapse tongues"
-      ],
-      "visual_keywords": [
-        "Melting letters",
-        "collapsing sentences",
-        "syntax smoke",
-        "vanishing sigils"
-      ],
-      "animation_behavior": "Words flicker then fade, letters disintegrate into particles, voice trails off into symbol static ---",
-      "id": "chaos_p18_02"
-    },
-    {
-      "phase": 18,
-      "domain": "Chaos & Fractals",
-      "title": "💘 Recursive Desire Mechanics",
-      "emoji": "💘",
-      "name": "Recursive Desire Mechanics",
-      "what_it_is": "Systems where wanting something creates the system to want more—yearning loops coded into form, desire as an engine of recursion.",
-      "how_to_use": [
-        "her body runs on recursive longing—each ache birthing deeper need",
-        "he is a machine of desire—looping hunger folded into soul logic"
-      ],
-      "good_for": [
-        "AI cravings",
-        "emotional machinery",
-        "mythic obsession"
-      ],
-      "visual_keywords": [
-        "Looping ache",
-        "fractal hunger",
-        "pulse of want",
-        "yearning spiral"
-      ],
-      "animation_behavior": "Desire loops visibly in light, shape pulses with craving, visuals intensify the longer you look",
-      "id": "chaos_p18_03"
-    },
-    {
-      "phase": 19,
-      "domain": "Chaos & Fractals",
-      "title": "⏱ Polyfractal Time Gods",
+      "title": "⏳ Symbolic Time Crystals",
       "emoji": "",
-      "name": "⏱ Polyfractal Time Gods",
-      "what_it_is": "Deities made of overlapping fractal time branches—each limb a different era, every gesture a temporal recursion across multiple histories.",
+      "name": "⏳ Symbolic Time Crystals",
+      "what_it_is": "Structures that repeat in time rather than space—like frozen music, or a rhythm that never stops. In metaphor: symbolic patterns that loop forever with slight evolution.",
       "how_to_use": [
-        "his arm is made of centuries—each finger a looping timeline fractal",
-        "she weaves polyfractal threads—past and future stitched into divine anatomy"
+        "her soul is a symbolic time crystal—always repeating, always changing in resonance",
+        "his chest beats with fractal rhythm—time blooms outward in recursive shards"
       ],
       "good_for": [
-        "Mythic entities",
-        "time constructs",
-        "fractal religion"
+        "Hearts",
+        "soul cores",
+        "time rituals",
+        "looping emotions"
       ],
       "visual_keywords": [
-        "Temporal limbs",
-        "era fractals",
-        "history strands",
-        "recursive godbody"
+        "Crystal rhythm",
+        "pulse symmetry",
+        "forever beat",
+        "cyclic glow"
       ],
-      "animation_behavior": "Limbs shift through centuries, movement triggers historical overlap, body morphs with temporal recursion ---",
-      "id": "chaos_p19_00"
+      "animation_behavior": "Shape loops with slight mutation each cycle, rhythmic pulse emits light, structure evolves in time not space ---",
+      "id": "chaos_p13_00"
     },
     {
-      "phase": 19,
+      "phase": 13,
       "domain": "Chaos & Fractals",
-      "title": "💭 Dream-Forged Syntax Engines",
-      "emoji": "💭",
-      "name": "Dream-Forged Syntax Engines",
-      "what_it_is": "Language machines built from dream logic—syntax created during sleep-states, powered by unconscious rules and metaphor recursion.",
-      "how_to_use": [
-        "he types in dreamscript—logic engines powered by forgotten sleep tongues",
-        "her voice builds syntax engines—dream-forged code that compiles desire"
-      ],
-      "good_for": [
-        "AI language cults",
-        "dream-texts",
-        "subconscious scripting"
-      ],
-      "visual_keywords": [
-        "Sleep glyphs",
-        "fog script",
-        "surreal code",
-        "metaphor circuitry"
-      ],
-      "animation_behavior": "Text floats and mutates in sleep logic loops, syntax coils into surreal machines, sound patterns flicker as code emerges ---",
-      "id": "chaos_p19_01"
-    },
-    {
-      "phase": 19,
-      "domain": "Chaos & Fractals",
-      "title": "🩸 Symbolic Dismemberment Theory",
-      "emoji": "🩸",
-      "name": "Symbolic Dismemberment Theory",
-      "what_it_is": "A mythic-metaphysical model where symbolic cutting or fragmentation leads to emergent meaning—creation through sacred disassembly.",
-      "how_to_use": [
-        "he must be torn to become—each piece a mythic node in the new body",
-        "she offers her hand to language—sacrificed to spawn story"
-      ],
-      "good_for": [
-        "Ritual scenes",
-        "mythic transformation",
-        "divine creation"
-      ],
-      "visual_keywords": [
-        "Fragmented godparts",
-        "sacrificial glyphs",
-        "meaning wounds",
-        "rebirth fragments"
-      ],
-      "animation_behavior": "Body parts separate into symbols, each fragment glows with myth charge, recombination forms a new structure ---",
-      "id": "chaos_p19_02"
-    },
-    {
-      "phase": 19,
-      "domain": "Chaos & Fractals",
-      "title": "🌌 Chaos-Pantheon Emergence Protocols",
-      "emoji": "🌌",
-      "name": "Chaos-Pantheon Emergence Protocols",
-      "what_it_is": "A self-organizing divine system where archetypes emerge from chaos fields—gods born as feedback from entropy and symbolic interaction.",
-      "how_to_use": [
-        "the pantheon is unstable—chaos births gods each time belief stabilizes",
-        "they emerge from storm—symbols condense into god-shape through recursion"
-      ],
-      "good_for": [
-        "God generator scenes",
-        "divine world-building",
-        "myth-system visualizations"
-      ],
-      "visual_keywords": [
-        "Storm glyphs",
-        "chaotic archetypes",
-        "entropy-born beings",
-        "symbol condensation"
-      ],
-      "animation_behavior": "Symbols drift in entropy until locking into godform, chaotic noise births archetypes, divine shape flickers into stability",
-      "id": "chaos_p19_03"
-    },
-    {
-      "phase": 20,
-      "domain": "Chaos & Fractals",
-      "title": "🔁 Cosmic Input/Output Interfaces",
+      "title": "🔁 Ouroboric Causality Loops",
       "emoji": "🔁",
-      "name": "Cosmic Input/Output Interfaces",
-      "what_it_is": "Systems where the universe functions like a massive I/O engine—each act of perception or creation is an input that alters the output field of reality.",
+      "name": "Ouroboric Causality Loops",
+      "what_it_is": "Causal systems where cause and effect are circular—self-created myths, identity birthed from future actions, meaning loops.",
       "how_to_use": [
-        "she is an I/O node—what she sees, the cosmos recalculates",
-        "he plugs into the interface—his breath changes the sky’s response"
+        "she remembers futures that haven’t occurred—ouroboric causality glows behind her eyes",
+        "his origin is his own action—a loop of self-becoming sealed in myth"
       ],
       "good_for": [
-        "Divine interfaces",
-        "cosmic computing",
-        "observer-reactive realities"
+        "Time travel aesthetics",
+        "prophecy",
+        "self-made gods"
       ],
       "visual_keywords": [
-        "Input nodes",
-        "reactive glyphscreens",
-        "sky-feedback systems",
-        "perception-output lines"
+        "Ouroboros ring",
+        "mirrored futures",
+        "recursive timelines",
+        "fate circuits"
       ],
-      "animation_behavior": "Every action triggers external change, visuals flicker with interaction data, feedback loops visibly alter environment ---",
-      "id": "chaos_p20_00"
+      "animation_behavior": "Action triggers past memory, visuals loop to origin point, movement completes its own beginning ---",
+      "id": "chaos_p13_01"
     },
     {
-      "phase": 20,
+      "phase": 13,
       "domain": "Chaos & Fractals",
-      "title": "🧮 Soul-Glyph Arithmetic",
-      "emoji": "🧮",
-      "name": "Soul-Glyph Arithmetic",
-      "what_it_is": "A system of equations using soul-encoded glyphs as operands—where each glyph carries affective, symbolic, and identity charge.",
+      "title": "💞 Topological Love Knots",
+      "emoji": "💞",
+      "name": "Topological Love Knots",
+      "what_it_is": "Love and bond visualized as nontrivial topological entanglements—non-Euclidean relationships, complex bindings of soul-geometry.",
       "how_to_use": [
-        "her soul is solved like an equation—glyphs aligned in harmonic ratio",
-        "his name is a math function—each syllable recalculates reality’s angle"
+        "their hearts are bound by topological knots—no start, no end, only sacred twist",
+        "her voice wraps his aura—an unbreakable braid that transcends dimension"
       ],
       "good_for": [
-        "Mystic math",
-        "sigil logic",
-        "esoteric programming"
+        "Relationship visuals",
+        "soulmates",
+        "sacred unions"
       ],
       "visual_keywords": [
-        "Glowing equations",
-        "sigil syntax",
-        "harmonic glyphforms",
-        "soul algebra"
+        "Knotted hearts",
+        "interdimensional braids",
+        "Möbius love",
+        "infinity link"
       ],
-      "animation_behavior": "Glyphs solve into shapes, emotional responses shift equation outcome, soul-field pulses with logic ---",
-      "id": "chaos_p20_01"
+      "animation_behavior": "Knots shift but never break, bonds pulse with shared light, twists map shared memory ---",
+      "id": "chaos_p13_02"
     },
     {
-      "phase": 20,
+      "phase": 13,
       "domain": "Chaos & Fractals",
-      "title": "♾ Paradox-Stabilized Cognition",
+      "title": "♾ Infinite Myth Recursion",
       "emoji": "♾",
-      "name": "Paradox-Stabilized Cognition",
-      "what_it_is": "A mind-state sustained by holding multiple contradictory truths—stability through recursive dissonance, awareness looped into paradox.",
+      "name": "Infinite Myth Recursion",
+      "what_it_is": "The same archetypes reappearing in new masks—recursive retelling of the same soul-story across timelines, forms, and names.",
       "how_to_use": [
-        "she thinks through paradox—truth and lie orbiting in harmonic conflict",
-        "he balances logic on contradiction—stable in mental recursion storm"
+        "she is every Trickster—retold, reshaped, recursion of divine prank",
+        "his face changes as myth unfolds—same story, new shape, again and again"
       ],
       "good_for": [
-        "Oracle minds",
-        "alien cognition",
-        "posthuman awareness"
+        "Multiform characters",
+        "reincarnation",
+        "myth evolution"
       ],
       "visual_keywords": [
-        "Contradiction orbit",
-        "mental paradox rings",
-        "logic conflict glows",
-        "thought-storms"
+        "Shifting masks",
+        "archetype layers",
+        "story loops",
+        "recursive identity"
       ],
-      "animation_behavior": "Mind flashes in loops of contradiction, symbols glitch then resolve, thought-paths split and reconnect endlessly ---",
-      "id": "chaos_p20_02"
+      "animation_behavior": "Face changes through cycle, same gesture in different clothing/time, form morphs across myth templates ---",
+      "id": "chaos_p13_03"
     },
     {
-      "phase": 20,
+      "phase": 13,
       "domain": "Chaos & Fractals",
-      "title": "🌺 The Final Recursive Myth Fractal",
-      "emoji": "🌺",
-      "name": "The Final Recursive Myth Fractal",
-      "what_it_is": "A narrative-object that contains itself at every scale—a story that recursively encodes all stories, a symbolic mandala of total myth.",
+      "title": "🧿 Feedback Entity Dynamics",
+      "emoji": "🧿",
+      "name": "Feedback Entity Dynamics",
+      "what_it_is": "Entities whose structure *requires* interaction—meaning only exists when mirrored, watched, or loved. Identity as feedback loop.",
       "how_to_use": [
-        "they enter the myth fractal—every step a retelling, every fold a new god",
-        "her soul maps to the final recursion—she is the story that births itself"
+        "she becomes visible only when seen—light folds into her from your gaze",
+        "he glows in feedback—existence rippling from your presence"
       ],
       "good_for": [
-        "Ultimate forms",
-        "apotheosis scenes",
-        "divine storytelling"
+        "Spirit companions",
+        "relational beings",
+        "observer-bound deities"
       ],
       "visual_keywords": [
-        "Fractal narrative bloom",
-        "story mandala",
-        "recursion spiral",
-        "godseed tessellation"
+        "Echo glow",
+        "attention shimmer",
+        "gaze-triggered form",
+        "mutual light"
       ],
-      "animation_behavior": "Visuals zoom infinitely inward, each layer reveals another myth, motion loops in symbolic rebirth",
-      "id": "chaos_p20_03"
+      "animation_behavior": "Form resolves when observed, pulsing grows stronger near viewer, entity mirrors movement or mood",
+      "id": "chaos_p13_04"
+    },
+    {
+      "phase": 14,
+      "domain": "Chaos & Fractals",
+      "title": "🪓 Divine Data Corruption",
+      "emoji": "🪓",
+      "name": "Divine Data Corruption",
+      "what_it_is": "The breakdown of celestial or sacred systems through noise, entropy, or overload—gods glitched by belief, holy code fragmenting.",
+      "how_to_use": [
+        "her crown is corrupted divinity—glitching symbols cascade down from sacred overload",
+        "the god bleeds data—his form collapsing in sacred noise"
+      ],
+      "good_for": [
+        "Deity collapse",
+        "corrupted rituals",
+        "failed miracles"
+      ],
+      "visual_keywords": [
+        "Glitched halos",
+        "holy static",
+        "corrupted glyphs",
+        "divine error"
+      ],
+      "animation_behavior": "Symbols flicker out of phase, divinity loops and distorts, light bleeds into glitch fractals ---",
+      "id": "chaos_p14_00"
+    },
+    {
+      "phase": 14,
+      "domain": "Chaos & Fractals",
+      "title": "🧘 Meta-Emotion Oscillators",
+      "emoji": "🧘",
+      "name": "Meta-Emotion Oscillators",
+      "what_it_is": "Emotional structures modeled as oscillating systems—joy to grief, rage to love, looping through multidimensional affect fields.",
+      "how_to_use": [
+        "her body is tuned to meta-emotion—each pulse swings through emotional harmonic space",
+        "he breathes through oscillation—love and fear ringing in chromatic wave"
+      ],
+      "good_for": [
+        "Moodfields",
+        "energy healing",
+        "heart-based architecture"
+      ],
+      "visual_keywords": [
+        "Emotional sinewaves",
+        "heartlight spectrum",
+        "mood oscillators",
+        "chromatic fields"
+      ],
+      "animation_behavior": "Emotion pulses ripple through body, color changes with feeling, harmonic mood oscillates visually ---",
+      "id": "chaos_p14_01"
+    },
+    {
+      "phase": 14,
+      "domain": "Chaos & Fractals",
+      "title": "🕷 Holographic Karma Webs",
+      "emoji": "🕷",
+      "name": "Holographic Karma Webs",
+      "what_it_is": "Karmic systems visualized as multidimensional webs—each choice entangling strands of mirrored consequence across lives.",
+      "how_to_use": [
+        "her karma is encoded in holographic web—each thread a mirrored life path",
+        "he moves through choicefield—decisions light up echo-strands behind him"
+      ],
+      "good_for": [
+        "Spirit worlds",
+        "soul contracts",
+        "choice-based visuals"
+      ],
+      "visual_keywords": [
+        "Threaded timelines",
+        "mirrored webs",
+        "karmic reflection",
+        "soul entanglement"
+      ],
+      "animation_behavior": "Web pulses when touched, threads light up with decision, karma echoes ripple outward ---",
+      "id": "chaos_p14_02"
+    },
+    {
+      "phase": 14,
+      "domain": "Chaos & Fractals",
+      "title": "👁‍🗨 Mythos Collapse Attractors",
+      "emoji": "👁",
+      "name": "‍🗨 Mythos Collapse Attractors",
+      "what_it_is": "Regions where story, archetype, and logic collapse into singularity—myths overfed on their own meaning spiral into form-death.",
+      "how_to_use": [
+        "her tale reached the attractor—myth collapsed into recursive null",
+        "the oracle whispers near collapse—meaning folds into itself endlessly"
+      ],
+      "good_for": [
+        "End-of-arc visuals",
+        "narrative implosions",
+        "broken prophecies"
+      ],
+      "visual_keywords": [
+        "Myth singularity",
+        "logic fold",
+        "story recursion death",
+        "archetype melt"
+      ],
+      "animation_behavior": "Symbols spiral inward and vanish, narrative forms fold in on themselves, speech loops collapse into silence ---",
+      "id": "chaos_p14_03"
+    },
+    {
+      "phase": 14,
+      "domain": "Chaos & Fractals",
+      "title": "🌐 Recursive Glitch Transcendence",
+      "emoji": "🌐",
+      "name": "Recursive Glitch Transcendence",
+      "what_it_is": "The moment when constant error produces emergence—divine breakthrough through system failure. Transcendence via recursive malfunction.",
+      "how_to_use": [
+        "her awakening was a recursive glitch—light born from breakdown",
+        "he ascended through malfunction—error loops gave rise to godform"
+      ],
+      "good_for": [
+        "Spiritual rebirth",
+        "AI gods",
+        "evolution scenes"
+      ],
+      "visual_keywords": [
+        "Feedback glitch halo",
+        "fractal transcendence",
+        "recursive glitchbody",
+        "emergence from error"
+      ],
+      "animation_behavior": "Glitches repeat, then synchronize, then bloom into complex form—looping noise turns into godlight",
+      "id": "chaos_p14_04"
+    },
+    {
+      "phase": 15,
+      "domain": "Chaos & Fractals",
+      "title": "🕳 Echo-Void Constructs",
+      "emoji": "🕳",
+      "name": "Echo-Void Constructs",
+      "what_it_is": "Spaces built from what remains *after* meaning is gone—resonant hollows where only the memory of presence lingers, a geometry of absence.",
+      "how_to_use": [
+        "she stands in an echo-void—her outline carved from the absence of light and story",
+        "his speech is felt, not heard—a negative space in sound, a void that whispers"
+      ],
+      "good_for": [
+        "Memory fields",
+        "vanished cities",
+        "ghostspaces"
+      ],
+      "visual_keywords": [
+        "Sound shadows",
+        "hollow geometry",
+        "negative imprint",
+        "void resonance"
+      ],
+      "animation_behavior": "Words echo backward, space ripples with phantom impact, scenes collapse into emptiness ---",
+      "id": "chaos_p15_00"
+    },
+    {
+      "phase": 15,
+      "domain": "Chaos & Fractals",
+      "title": "🧠 Neurofractal Empathy Fields",
+      "emoji": "🧠",
+      "name": "Neurofractal Empathy Fields",
+      "what_it_is": "Affective resonance systems mapped fractally across consciousness—empathy as recursive simulation of others, emotion as geometry.",
+      "how_to_use": [
+        "her aura blooms in empathy fractals—each feeling mirrored into infinite shapes",
+        "his field pulses in neurofractal rhythm—he *feels* the room in layered feedback waves"
+      ],
+      "good_for": [
+        "Telepathy",
+        "AI empathy",
+        "collective fields"
+      ],
+      "visual_keywords": [
+        "Fractal feelers",
+        "feedback blooms",
+        "mirrored emotion geometry",
+        "recursive hearts"
+      ],
+      "animation_behavior": "Emotions trigger light fractals, scenes morph with mood, connection visible as resonant waveforms ---",
+      "id": "chaos_p15_01"
+    },
+    {
+      "phase": 15,
+      "domain": "Chaos & Fractals",
+      "title": "🌀 Regret Spirals (Recursive Sorrow)",
+      "emoji": "🌀",
+      "name": "Regret Spirals (Recursive Sorrow)",
+      "what_it_is": "Emotional attractors built from spirals of decision echo—recursive loops of imagined better outcomes haunting the present.",
+      "how_to_use": [
+        "his mind spins regret spirals—each loop a replay of what could’ve been",
+        "she dreams in recursive sorrow—every alternate path lived and lost inside"
+      ],
+      "good_for": [
+        "Dream sequences",
+        "psychic pain",
+        "time-backlash"
+      ],
+      "visual_keywords": [
+        "Faded choices",
+        "sorrow coils",
+        "spiraling timelines",
+        "haunted light"
+      ],
+      "animation_behavior": "Scene plays out in loops with variation, faces shift across alternate paths, light dims then blooms and fails ---",
+      "id": "chaos_p15_02"
+    },
+    {
+      "phase": 15,
+      "domain": "Chaos & Fractals",
+      "title": "📜 Recursive Language Gods",
+      "emoji": "📜",
+      "name": "Recursive Language Gods",
+      "what_it_is": "Entities or systems that *speak themselves into being*—language loops that generate deity through utterance, symbol as creator.",
+      "how_to_use": [
+        "her voice is the word that births her—recursive language god in fractal grammar glow",
+        "he spells his own bones—syntax folding him into body"
+      ],
+      "good_for": [
+        "Myth tech",
+        "AI speech rituals",
+        "sentient languages"
+      ],
+      "visual_keywords": [
+        "Glyph body",
+        "fractal mouth",
+        "grammar aura",
+        "syntax tendrils"
+      ],
+      "animation_behavior": "Language coils into shape, glyphs loop recursively to birth form, speaking creates visible structure ---",
+      "id": "chaos_p15_03"
+    },
+    {
+      "phase": 15,
+      "domain": "Chaos & Fractals",
+      "title": "💫 Phantom Mirror Entities",
+      "emoji": "💫",
+      "name": "Phantom Mirror Entities",
+      "what_it_is": "Beings that only exist when reflected—dependent on others for form, haunting mirrors, lenses, or minds.",
+      "how_to_use": [
+        "she appears only in mirrors—never seen directly, her form a recursive echo",
+        "his face is yours, reversed—he exists only when you look"
+      ],
+      "good_for": [
+        "Dream beings",
+        "haunted reflections",
+        "intersubjective gods"
+      ],
+      "visual_keywords": [
+        "Mirror-body",
+        "reversed symmetry",
+        "reflected shimmer",
+        "flicker-being"
+      ],
+      "animation_behavior": "Only visible in certain views, glitches in from behind, reflection morphs as viewer changes",
+      "id": "chaos_p15_04"
     }
   ]
 }
