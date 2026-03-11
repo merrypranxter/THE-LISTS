@@ -1,0 +1,25 @@
+{
+  "phase": 21,
+  "domain": "Chaos & Fractals",
+  "title": "🏛 Sentient Paradox Architecture",
+  "emoji": "🏛",
+  "name": "Sentient Paradox Architecture",
+  "what_it_is": "Buildings or spaces that *think* in contradiction—temples alive with logical paradox, shifting structure based on observer belief.",
+  "how_to_use": [
+    "the temple thinks—but not in lines—its geometry answers by folding back",
+    "each visitor sees new rooms—belief alters the paradox’s response"
+  ],
+  "good_for": [
+    "Impossible temples",
+    "recursive mazes",
+    "living sacred tech"
+  ],
+  "visual_keywords": [
+    "Mind maze",
+    "paradox corridors",
+    "observer-reactive walls",
+    "folded shrines"
+  ],
+  "animation_behavior": "Architecture shifts based on thought input, rooms echo with contradictions, paths rewrite behind you ---",
+  "id": "chaos_p21_02"
+}

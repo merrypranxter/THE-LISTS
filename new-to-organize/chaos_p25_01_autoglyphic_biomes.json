@@ -1,0 +1,25 @@
+{
+  "phase": 25,
+  "domain": "Chaos & Fractals",
+  "title": "🌿 Autoglyphic Biomes",
+  "emoji": "🌿",
+  "name": "Autoglyphic Biomes",
+  "what_it_is": "Ecosystems composed entirely of living, evolving glyphs—every plant, creature, and texture made of symbol that grows organically.",
+  "how_to_use": [
+    "she walks through the glyph biome—leaves spell messages as they fall",
+    "he eats a letterfruit—his language rewrites itself"
+  ],
+  "good_for": [
+    "Living landscapes",
+    "organic writing systems",
+    "symbolic terraformation"
+  ],
+  "visual_keywords": [
+    "Lettervine forests",
+    "runic rivers",
+    "sigil beasts",
+    "calligraphy clouds"
+  ],
+  "animation_behavior": "Glyphs grow and bloom, language shifts with season, creatures communicate via symbol mutation ---",
+  "id": "chaos_p25_01"
+}
