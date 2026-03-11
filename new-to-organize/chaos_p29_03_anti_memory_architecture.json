@@ -1,0 +1,25 @@
+{
+  "phase": 29,
+  "domain": "Chaos & Fractals",
+  "title": "🧱 Anti-Memory Architecture",
+  "emoji": "🧱",
+  "name": "Anti-Memory Architecture",
+  "what_it_is": "Structures designed to eliminate memory—buildings that induce forgetfulness, rooms that erase reason for entering.",
+  "how_to_use": [
+    "he lives in a forgetting house—each day he rediscovers his room",
+    "her footsteps echo in unremembered halls—intent wiped at the threshold"
+  ],
+  "good_for": [
+    "Mind-bending spaces",
+    "surreal horror",
+    "cognitive dissolution"
+  ],
+  "visual_keywords": [
+    "Blank doorways",
+    "shifting walls",
+    "memory-void light",
+    "unstable layout loops"
+  ],
+  "animation_behavior": "Paths reconfigure after use, rooms forget the viewer, visual context strips away on entry",
+  "id": "chaos_p29_03"
+}

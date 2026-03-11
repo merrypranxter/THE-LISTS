@@ -1,0 +1,25 @@
+{
+  "phase": 27,
+  "domain": "Chaos & Fractals",
+  "title": "🩸 Sigil Bleed Phenomena",
+  "emoji": "🩸",
+  "name": "Sigil Bleed Phenomena",
+  "what_it_is": "The symbolic leakage of high-charge glyphs—sigils that begin to seep from their boundaries, leaking intent or meaning into surrounding space.",
+  "how_to_use": [
+    "her skin bore sigils that bled—intent dripping into the air like ink",
+    "his words triggered bleed—symbols spreading like contagion"
+  ],
+  "good_for": [
+    "Overcharged spells",
+    "unstable glyphs",
+    "aura-leaking environments"
+  ],
+  "visual_keywords": [
+    "Symbolic run-off",
+    "glowing ink bleed",
+    "aura glyph trails",
+    "meaning ooze"
+  ],
+  "animation_behavior": "Sigils spread when touched or spoken, trails pulse and drip, environmental distortion near source ---",
+  "id": "chaos_p27_00"
+}

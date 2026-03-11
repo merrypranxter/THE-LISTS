@@ -1,10 +1,10 @@
 {
   "archive": "MATHFORM ARCHIVE – Chaos & Fractals Edition",
   "phases": [
-    30,
-    31,
-    32,
-    33
+    26,
+    27,
+    28,
+    29
   ],
   "total_concepts": 16,
   "domain_tags": [
@@ -12,410 +12,411 @@
     "fractals",
     "recursion",
     "entropy",
-    "temporal",
-    "mythic",
-    "symbolic"
+    "identity",
+    "memory",
+    "glyphs",
+    "mythic"
   ],
   "concepts": [
     {
-      "phase": 30,
+      "phase": 26,
       "domain": "Chaos & Fractals",
-      "title": "🧬 Myth-as-Virus Lattices",
-      "emoji": "🧬",
-      "name": "Myth-as-Virus Lattices",
-      "what_it_is": "Narrative constructs designed to spread like pathogens—infectious myth units that self-replicate in host minds and environments.",
+      "title": "🌸 Identity Bloom Fractals",
+      "emoji": "🌸",
+      "name": "Identity Bloom Fractals",
+      "what_it_is": "Fractals that model identity as layered emergence—each iteration a self similar to but not identical with the last. The self blooms, spirals, mutates.",
       "how_to_use": [
-        "the myth infected her—she now dreams only in its structure",
-        "he spreads the tale unknowingly—it codes itself into all who listen"
+        "her face blossoms across dimensions—each a petal of her greater identity fractal",
+        "his emotions grow in fractal rings, repeating in new context every time"
       ],
       "good_for": [
-        "Story contagion visuals",
-        "recursive lore loops",
-        "memetic parasites"
+        "Multidimensional self-portraits",
+        "layered memory visuals",
+        "emotional recursion"
       ],
       "visual_keywords": [
-        "Narrative virus chains",
-        "myth spores",
-        "spreading glyph nets",
-        "infection runes"
+        "Fractal bloom",
+        "identity spirals",
+        "recursive self-flower",
+        "personality tessellations"
       ],
-      "animation_behavior": "Myths propagate as fractal networks, characters glitch into narrative loops, visuals overgrow with symbolic strands ---",
-      "id": "chaos_p30_00"
+      "animation_behavior": "Identity layers unfold one by one, emotions bloom outward, visuals pulse in self-similar growth ---",
+      "id": "chaos_p26_00"
     },
     {
-      "phase": 30,
+      "phase": 26,
       "domain": "Chaos & Fractals",
-      "title": "🕳 Time Fracture Cascades",
-      "emoji": "🕳",
-      "name": "Time Fracture Cascades",
-      "what_it_is": "Chronological ruptures that cascade through local time—one breach leads to fractal temporal splintering, layering cause and effect.",
+      "title": "🛠 Mythomechanical Feedback Systems",
+      "emoji": "🛠",
+      "name": "Mythomechanical Feedback Systems",
+      "what_it_is": "Machines whose operation is tied to mythic resonance—ritual output feeds back into story input, cycling myth through mechanics.",
       "how_to_use": [
-        "his timeline split—ten versions try to fix what he broke",
-        "she walks through yesterday's echo while tomorrow bleeds in"
+        "she powers the device by re-enacting the founding myth",
+        "the engine hums only when believed in—it feeds on ritual and story"
       ],
       "good_for": [
-        "Temporal paradox scenes",
-        "time-sliced environments",
-        "recursive action renderings"
+        "Myth-tech hybrids",
+        "divine robotics",
+        "ritual-powered systems"
       ],
       "visual_keywords": [
-        "Time rifts",
-        "recursive hourglass shards",
-        "layered clock halos",
-        "moment spirals"
+        "Totemic gears",
+        "story-conduction wires",
+        "myth-charged cores",
+        "ritual-circuit fusions"
       ],
-      "animation_behavior": "Scenes flicker through temporal states, character actions replay and fork, environment loops time fragments ---",
-      "id": "chaos_p30_01"
+      "animation_behavior": "Device reacts to story being told, components shift with narrative changes, feedback visuals ripple with symbolic charge ---",
+      "id": "chaos_p26_01"
     },
     {
-      "phase": 30,
+      "phase": 26,
       "domain": "Chaos & Fractals",
-      "title": "🪞 Soulstate Recursion Membranes",
-      "emoji": "🪞",
-      "name": "Soulstate Recursion Membranes",
-      "what_it_is": "Dimensional boundaries tuned to soul-state feedback—barriers that reflect only specific recursive identity patterns.",
-      "how_to_use": [
-        "the membrane rejected her—this version of self was out of tune",
-        "his soul split until one reflection passed through"
-      ],
-      "good_for": [
-        "Multiverse gates",
-        "reincarnation locks",
-        "identity-tuned thresholds"
-      ],
-      "visual_keywords": [
-        "Recursive soul mirrors",
-        "harmonic membranes",
-        "feedback glyph glass",
-        "flickerbarrier veils"
-      ],
-      "animation_behavior": "Forms warp against barrier, soul flickers until match found, recursive loop echoes on contact ---",
-      "id": "chaos_p30_02"
-    },
-    {
-      "phase": 30,
-      "domain": "Chaos & Fractals",
-      "title": "🧠 Cognition-Splitting Shrines",
-      "emoji": "🧠",
-      "name": "Cognition-Splitting Shrines",
-      "what_it_is": "Sacred constructs that induce mind bifurcation—splitting consciousness into distinct layers, forcing inner dialogues to externalize.",
-      "how_to_use": [
-        "she prays at the mindfork—her doubts take shape beside her",
-        "his shrine vision fractures—three selves argue the future"
-      ],
-      "good_for": [
-        "Self-dialogue",
-        "internal conflict projection",
-        "surreal therapy scenes"
-      ],
-      "visual_keywords": [
-        "Fractured mind altars",
-        "thoughtform projections",
-        "dialog temples",
-        "mind-duality architecture"
-      ],
-      "animation_behavior": "Viewer splits into mirrored forms, inner voice gains visual presence, shrine echoes divergent thoughts",
-      "id": "chaos_p30_03"
-    },
-    {
-      "phase": 31,
-      "domain": "Chaos & Fractals",
-      "title": "🔤 Divine Semantic Drift",
-      "emoji": "🔤",
-      "name": "Divine Semantic Drift",
-      "what_it_is": "The process by which sacred words or glyphs mutate over time—shifting meaning until the original becomes unknowable, birthing new gods from misunderstood fragments.",
-      "how_to_use": [
-        "his prayers no longer summon the god they once did—the words have drifted",
-        "she chants the drift-script—each syllable becomes another deity"
-      ],
-      "good_for": [
-        "Myth evolution visuals",
-        "unstable language spells",
-        "mutation-based magic systems"
-      ],
-      "visual_keywords": [
-        "Glyph melt trails",
-        "unstable sigils",
-        "shifting tongues",
-        "sacred word erosion"
-      ],
-      "animation_behavior": "Symbols morph in place, language shifts mid-incantation, meanings flicker with usage ---",
-      "id": "chaos_p31_00"
-    },
-    {
-      "phase": 31,
-      "domain": "Chaos & Fractals",
-      "title": "🔁 Recursive Truth Feedback",
-      "emoji": "🔁",
-      "name": "Recursive Truth Feedback",
-      "what_it_is": "A belief loop that reinforces itself so strongly it generates reality—truth birthed through recursive confirmation, immune to contradiction.",
-      "how_to_use": [
-        "she believes it so hard, it becomes true—the feedback completes the loop",
-        "his story eats itself—truth born of telling, not fact"
-      ],
-      "good_for": [
-        "Belief engines",
-        "reality distortion",
-        "narrative autogenesis"
-      ],
-      "visual_keywords": [
-        "Looped statements",
-        "recursive quote rings",
-        "affirmation spirals",
-        "belief halo glyphs"
-      ],
-      "animation_behavior": "Text repeats louder each cycle, visuals layer deeper into feedback, truth emerges from echo buildup ---",
-      "id": "chaos_p31_01"
-    },
-    {
-      "phase": 31,
-      "domain": "Chaos & Fractals",
-      "title": "👻 Chronoglyphic Hauntings",
-      "emoji": "👻",
-      "name": "Chronoglyphic Hauntings",
-      "what_it_is": "Hauntings encoded not in space but in time—ghosts embedded in the glyphs of a moment, bleeding through via temporal residue.",
-      "how_to_use": [
-        "she reads the glyph, and the ghost reads back",
-        "his calendar trembles—the date itself is haunted"
-      ],
-      "good_for": [
-        "Time-based horror",
-        "haunted documents",
-        "cursed glyph systems"
-      ],
-      "visual_keywords": [
-        "Date-bound ghosts",
-        "time-bled symbols",
-        "ink-spectral trails",
-        "event-linked apparitions"
-      ],
-      "animation_behavior": "Glyphs reveal hidden spirits on contact, ghosts animate when read, time-stamped phantoms emerge in pulses ---",
-      "id": "chaos_p31_02"
-    },
-    {
-      "phase": 31,
-      "domain": "Chaos & Fractals",
-      "title": "🌩 Unspoken Logic Storms",
-      "emoji": "🌩",
-      "name": "Unspoken Logic Storms",
-      "what_it_is": "Cognitive-collapse weather—storms that erupt from violated logic, filling environments with paradox lightning and syntax fog.",
-      "how_to_use": [
-        "he invoked a truth that couldn’t exist—the storm began",
-        "she walks through logicfog—nothing means anything the same way twice"
-      ],
-      "good_for": [
-        "Paradox worlds",
-        "argument collapse fields",
-        "irrational weather systems"
-      ],
-      "visual_keywords": [
-        "Logic lightning",
-        "semantic static",
-        "thought-tornadoes",
-        "contradictory clouds"
-      ],
-      "animation_behavior": "Words spark and crash, meaning loops break mid-sentence, storm pulses on failed inference",
-      "id": "chaos_p31_03"
-    },
-    {
-      "phase": 32,
-      "domain": "Chaos & Fractals",
-      "title": "🧲 Symbolic Gravitation Fields",
-      "emoji": "🧲",
-      "name": "Symbolic Gravitation Fields",
-      "what_it_is": "Fields where symbols exert literal pull—high-meaning glyphs warp nearby forms, causing symbolic mass to condense into myth matter.",
-      "how_to_use": [
-        "the ancient sigil pulled matter inward—it grew heavy with centuries of belief",
-        "she floats through meaning gravity—drawn toward myth centers"
-      ],
-      "good_for": [
-        "Reality warping",
-        "density-based belief systems",
-        "heavy sacred zones"
-      ],
-      "visual_keywords": [
-        "Mythic mass cores",
-        "glyph black holes",
-        "orbiting sigils",
-        "heavy aura fields"
-      ],
-      "animation_behavior": "Symbols attract objects, light bends toward glyphs, gravity pulse from meaning density ---",
-      "id": "chaos_p32_00"
-    },
-    {
-      "phase": 32,
-      "domain": "Chaos & Fractals",
-      "title": "♾ Recursive Empathy Spirals",
-      "emoji": "♾",
-      "name": "Recursive Empathy Spirals",
-      "what_it_is": "Emotional feedback systems where feeling begets deeper feeling—spirals of care, grief, love, or fear that fold into themselves infinitely.",
-      "how_to_use": [
-        "her compassion spiraled—it became its own dimension",
-        "his grief loops endlessly—each layer feels the next more fully"
-      ],
-      "good_for": [
-        "Intense emotional visualizations",
-        "feeling-as-geometry",
-        "soul mirror worlds"
-      ],
-      "visual_keywords": [
-        "Spiral hearts",
-        "nested tears",
-        "care fractals",
-        "emotion echoes"
-      ],
-      "animation_behavior": "Emotions pulse in fractal spirals, inner states reflect outward, environment reacts recursively to feeling depth ---",
-      "id": "chaos_p32_01"
-    },
-    {
-      "phase": 32,
-      "domain": "Chaos & Fractals",
-      "title": "🗜 Myth Compression Nodes",
-      "emoji": "🗜",
-      "name": "Myth Compression Nodes",
-      "what_it_is": "Dense symbolic points where entire narratives or archetypes are compressed into a single glyph or structure—overloaded with meaning.",
-      "how_to_use": [
-        "he stares at the node—whole worlds locked in one sigil",
-        "her breath stutters near it—the myth density crushes language"
-      ],
-      "good_for": [
-        "Compressed lore systems",
-        "holy overload",
-        "ultra-symbolic structures"
-      ],
-      "visual_keywords": [
-        "Myth knots",
-        "compressed glyphs",
-        "narrative spheres",
-        "condensed belief crystals"
-      ],
-      "animation_behavior": "Myth pulses out from node in bursts, form shifts under symbolic pressure, environment warps around glyph ---",
-      "id": "chaos_p32_02"
-    },
-    {
-      "phase": 32,
-      "domain": "Chaos & Fractals",
-      "title": "✴ Entropy Temple Exfiltration Vectors",
-      "emoji": "✴",
-      "name": "Entropy Temple Exfiltration Vectors",
-      "what_it_is": "Escape routes woven into collapsing sacred systems—paths that only appear when the structure is nearing failure, designed for final exit.",
-      "how_to_use": [
-        "she runs the exfiltration path—doors only visible during collapse",
-        "he knows the way out—it sings to those ready to leave the myth"
-      ],
-      "good_for": [
-        "End-of-cycle imagery",
-        "sacred breakdowns",
-        "mythic finales"
-      ],
-      "visual_keywords": [
-        "Glitch altars",
-        "final lightways",
-        "fading shrine gates",
-        "exodus fractals"
-      ],
-      "animation_behavior": "Escape paths pulse when structure collapses, doors fade in from entropy zones, glyphs shift to reveal egress",
-      "id": "chaos_p32_03"
-    },
-    {
-      "phase": 33,
-      "domain": "Chaos & Fractals",
-      "title": "🌀 End-Myth Resonance Fields",
+      "title": "🌀 Anomalous Glyph Drift",
       "emoji": "🌀",
-      "name": "End-Myth Resonance Fields",
-      "what_it_is": "Zones where all myth converges—where narrative endings vibrate in harmonic superposition, preparing symbolic systems for collapse or rebirth.",
+      "name": "Anomalous Glyph Drift",
+      "what_it_is": "The phenomenon where glyphs escape their intended meaning and begin drifting—accumulating unintended symbolic charge or behaving like sentient signs.",
       "how_to_use": [
-        "the air hums with story-end frequency—every myth completes at once",
-        "he walks into the convergence—his role dissolves into resonance"
+        "the glyphs have left the page—they orbit her, mutating beyond control",
+        "he chases the drift-signs, trying to trap the one that once meant home"
       ],
       "good_for": [
-        "Finale imagery",
-        "universal story endings",
-        "sacred reset moments"
+        "Symbol escape scenes",
+        "sentient text",
+        "evolving languages"
       ],
       "visual_keywords": [
-        "Myth collapse hum",
-        "resonance glow",
-        "narrative aura fields",
-        "harmonic endlight"
+        "Free-floating symbols",
+        "glyph trails",
+        "migrating signs",
+        "rogue alphabet clusters"
       ],
-      "animation_behavior": "Vibrations intensify near conclusion, symbols unravel in rhythm, identities harmonize then fade ---",
-      "id": "chaos_p33_00"
+      "animation_behavior": "Glyphs detach and drift, symbols morph mid-air, meaning slides across forms as context shifts ---",
+      "id": "chaos_p26_02"
     },
     {
-      "phase": 33,
+      "phase": 26,
       "domain": "Chaos & Fractals",
-      "title": "🪞 Ego Diffraction Fields",
-      "emoji": "🪞",
-      "name": "Ego Diffraction Fields",
-      "what_it_is": "Fractal-optic zones that split ego into multiple angular components—each facet acting independently, creating diffraction-induced identity fragments.",
+      "title": "🔁 Recursive Echo Shrines",
+      "emoji": "🔁",
+      "name": "Recursive Echo Shrines",
+      "what_it_is": "Sacred sites that remember every visitor—each return causes the shrine to echo back earlier presences, forming layers of spiritual recursion.",
       "how_to_use": [
-        "her ego hit the field—shattered into colors of self",
-        "he argues with himself—and all selves are present"
+        "she sees herself kneeling there—again and again, across lives",
+        "his prayer is answered by versions of himself, echoing the same hope"
       ],
       "good_for": [
-        "Psychedelic breakdowns",
-        "identity loss or reformation",
-        "altered consciousness scenes"
+        "Reincarnation visuals",
+        "sacred time loops",
+        "personal myth returns"
       ],
       "visual_keywords": [
-        "Prismatic egos",
-        "angular self-beams",
-        "fractured personality rays",
-        "internal conflict shards"
+        "Shrine echoes",
+        "spiritual recursion",
+        "ghost-trails of self",
+        "layered worship space"
       ],
-      "animation_behavior": "Self refracts into multiples, each moving differently, light beams pulse in sync with inner emotion ---",
-      "id": "chaos_p33_01"
+      "animation_behavior": "Figures overlay across time, visual loops replay past visits, shrine pulses with layered presence",
+      "id": "chaos_p26_03"
     },
     {
-      "phase": 33,
+      "phase": 27,
       "domain": "Chaos & Fractals",
-      "title": "🔊 Symbolic Waveform Bleed",
-      "emoji": "🔊",
-      "name": "Symbolic Waveform Bleed",
-      "what_it_is": "A phenomena where pure symbolic energy leaks from the structure of language or meaning—spilling into visuals, sound, or sensation without needing a carrier form.",
+      "title": "🩸 Sigil Bleed Phenomena",
+      "emoji": "🩸",
+      "name": "Sigil Bleed Phenomena",
+      "what_it_is": "The symbolic leakage of high-charge glyphs—sigils that begin to seep from their boundaries, leaking intent or meaning into surrounding space.",
       "how_to_use": [
-        "the symbol bled—color, emotion, sound erupted with no word needed",
-        "meaning poured from her—no vessel, just resonance"
+        "her skin bore sigils that bled—intent dripping into the air like ink",
+        "his words triggered bleed—symbols spreading like contagion"
       ],
       "good_for": [
-        "Post-symbolic scenes",
-        "direct transmission visuals",
-        "higher state perception renderings"
+        "Overcharged spells",
+        "unstable glyphs",
+        "aura-leaking environments"
       ],
       "visual_keywords": [
-        "Freeform glyphlight",
-        "waveform glows",
-        "untethered sigil radiation",
-        "bleeding archetypes"
+        "Symbolic run-off",
+        "glowing ink bleed",
+        "aura glyph trails",
+        "meaning ooze"
       ],
-      "animation_behavior": "Waves ripple from meaning centers, visuals bloom from unseen language, color and tone sync with concept intensity ---",
-      "id": "chaos_p33_02"
+      "animation_behavior": "Sigils spread when touched or spoken, trails pulse and drip, environmental distortion near source ---",
+      "id": "chaos_p27_00"
     },
     {
-      "phase": 33,
+      "phase": 27,
       "domain": "Chaos & Fractals",
-      "title": "🚫 Final Loop Destabilizers",
-      "emoji": "🚫",
-      "name": "Final Loop Destabilizers",
-      "what_it_is": "Mechanisms, figures, or actions that break infinite mythic loops—glitches, shocks, or emotional thresholds that shatter recursive repetition.",
+      "title": "🔄 Inverse Ritual Fields",
+      "emoji": "🔄",
+      "name": "Inverse Ritual Fields",
+      "what_it_is": "Areas where rituals operate in reverse—where unmaking, forgetting, or *unspeaking* becomes the sacred act.",
       "how_to_use": [
-        "she says the unsayable—the loop collapses",
-        "his love doesn’t fit the script—it breaks the recursion"
+        "she walks backward through the ritual path—each step unwrites the prayer",
+        "his offering was silence—the god answered with void"
       ],
       "good_for": [
-        "Loop-busting moments",
-        "sacred disruption",
-        "last-act miracles"
+        "Reverse spells",
+        "silence cults",
+        "erasure magic"
       ],
       "visual_keywords": [
-        "Loop tears",
-        "broken recursion halos",
-        "glitch bloom events",
-        "ending vectors"
+        "Undoing circles",
+        "vanishing glyph altars",
+        "reverse-fire candles",
+        "inverted offerings"
       ],
-      "animation_behavior": "Loops stutter then fracture, time resets shatter in sparks, forbidden action destabilizes narrative path",
-      "id": "chaos_p33_03"
+      "animation_behavior": "Symbols collapse inward, sound reverses, offerings unburn, light flows backward into the wick ---",
+      "id": "chaos_p27_01"
+    },
+    {
+      "phase": 27,
+      "domain": "Chaos & Fractals",
+      "title": "🌀 Hyper-Meaning Vortices",
+      "emoji": "🌀",
+      "name": "Hyper-Meaning Vortices",
+      "what_it_is": "Concentrated nexuses of excessive symbolic charge—so overloaded with potential meaning they become incomprehensible or dangerous.",
+      "how_to_use": [
+        "his mind brushed the vortex and came back mythic—but broken",
+        "she stood at the center where all metaphors meet—unable to move"
+      ],
+      "good_for": [
+        "Overloaded prophecies",
+        "symbolic singularities",
+        "divine madness"
+      ],
+      "visual_keywords": [
+        "Blinding sigil clusters",
+        "symbol overgrowth",
+        "glyph hurricane",
+        "meaning radiation"
+      ],
+      "animation_behavior": "Text spirals inward, environment overloads with symbols, viewers glitch from exposure ---",
+      "id": "chaos_p27_02"
+    },
+    {
+      "phase": 27,
+      "domain": "Chaos & Fractals",
+      "title": "👻 Fractal Shame Ghosts",
+      "emoji": "👻",
+      "name": "Fractal Shame Ghosts",
+      "what_it_is": "Recursive emotional residues—ghosts generated from moments of personal failure or guilt, repeating and multiplying in fractal feedback.",
+      "how_to_use": [
+        "each time he regrets, a new ghost spawns—until they fill the house",
+        "she’s haunted by self—past iterations layered in loops of shame"
+      ],
+      "good_for": [
+        "Psychological horror",
+        "recursive identity loops",
+        "guilt hauntings"
+      ],
+      "visual_keywords": [
+        "Shadow reflections",
+        "glitch-echo figures",
+        "layered regrets",
+        "looping spirit trail"
+      ],
+      "animation_behavior": "Ghosts echo actions slightly behind, multiply on emotional triggers, scenes loop subtly with each iteration",
+      "id": "chaos_p27_03"
+    },
+    {
+      "phase": 28,
+      "domain": "Chaos & Fractals",
+      "title": "📡 Mythospheric Interference Waves",
+      "emoji": "📡",
+      "name": "Mythospheric Interference Waves",
+      "what_it_is": "Invisible psychic broadcast fields that carry mythic resonance—when overlapped or out of phase, they cause interference in symbolic or narrative clarity.",
+      "how_to_use": [
+        "he enters an interference zone—myth overlaps with myth, reality flickers",
+        "her aura scrambles nearby stories—their archetypes tangle in distortion"
+      ],
+      "good_for": [
+        "Clashing deities",
+        "confused prophecies",
+        "narrative noise visuals"
+      ],
+      "visual_keywords": [
+        "Signal static veils",
+        "story feedback lines",
+        "archetype glitch storms",
+        "resonance shimmer"
+      ],
+      "animation_behavior": "Overlap zones flicker, symbols lose clarity then snap back, characters phase into alternate myth roles ---",
+      "id": "chaos_p28_00"
+    },
+    {
+      "phase": 28,
+      "domain": "Chaos & Fractals",
+      "title": "🗂 Divine Recursion Indexers",
+      "emoji": "🗂",
+      "name": "Divine Recursion Indexers",
+      "what_it_is": "Entities or constructs that track recursive myth cycles—indexing lifetimes, timelines, or deity loops across fractal causality.",
+      "how_to_use": [
+        "the indexer flips her soul open like a folder—cataloging each version of herself",
+        "he is the librarian of all recursions—every god-loop filed by glyph and grief"
+      ],
+      "good_for": [
+        "Myth tracking systems",
+        "reincarnation guides",
+        "divine databanks"
+      ],
+      "visual_keywords": [
+        "Infinity scroll archives",
+        "fractal record tablets",
+        "recursive library nodes",
+        "symbol-linked memory files"
+      ],
+      "animation_behavior": "Scrolls unfold with layered timelines, glyph indexes sync with viewer identity, memory scenes activate by touch ---",
+      "id": "chaos_p28_01"
+    },
+    {
+      "phase": 28,
+      "domain": "Chaos & Fractals",
+      "title": "📐 Intentionality Geometry",
+      "emoji": "📐",
+      "name": "Intentionality Geometry",
+      "what_it_is": "Geometries shaped entirely by will—structures that respond to intent alone, forming or distorting in response to unspoken desire.",
+      "how_to_use": [
+        "his thoughts realign the temple—geometry folds into longing",
+        "she breathes calm and the walls stabilize—the triangle accepts peace"
+      ],
+      "good_for": [
+        "Emotion-reactive architecture",
+        "psychic environments",
+        "sacred will zones"
+      ],
+      "visual_keywords": [
+        "Will-folded planes",
+        "intent-tuned angles",
+        "breathing geometry",
+        "soul-shaped rooms"
+      ],
+      "animation_behavior": "Structures ripple with emotion, sharp angles soften with intent, space reshapes on presence alone ---",
+      "id": "chaos_p28_02"
+    },
+    {
+      "phase": 28,
+      "domain": "Chaos & Fractals",
+      "title": "🧬 Parasite Sigils",
+      "emoji": "🧬",
+      "name": "Parasite Sigils",
+      "what_it_is": "Symbols that attach and feed on energy—parasitic glyphs that infect objects, thoughts, or people, slowly draining or altering meaning.",
+      "how_to_use": [
+        "she wears the sigil unknowingly—it feeds on attention, warping her words",
+        "he scratches at the glyph—each thought makes it grow stronger"
+      ],
+      "good_for": [
+        "Corrupted spellwork",
+        "cursed tattoos",
+        "viral language"
+      ],
+      "visual_keywords": [
+        "Feeding glyphs",
+        "leeching ink",
+        "pulsing symbol scars",
+        "sigil infestations"
+      ],
+      "animation_behavior": "Glyphs twitch with stimuli, grow when noticed, infect nearby elements, pulse in sync with host thought",
+      "id": "chaos_p28_03"
+    },
+    {
+      "phase": 29,
+      "domain": "Chaos & Fractals",
+      "title": "🧠 Mnemonic Implosion Fields",
+      "emoji": "🧠",
+      "name": "Mnemonic Implosion Fields",
+      "what_it_is": "Zones where memory cannot survive—cognitive black holes that implode recollection, rendering events unknowable once entered.",
+      "how_to_use": [
+        "she steps into the implosion field—her name unravels inside her",
+        "they speak around it—the thing no one remembers doing"
+      ],
+      "good_for": [
+        "Mindwipe zones",
+        "trauma erasure",
+        "mystery cores"
+      ],
+      "visual_keywords": [
+        "Memory fog",
+        "recall collapse",
+        "no-thought voids",
+        "black light silence"
+      ],
+      "animation_behavior": "Visuals fade and flicker at edges, names lose sound, viewers forget what they saw moments before ---",
+      "id": "chaos_p29_00"
+    },
+    {
+      "phase": 29,
+      "domain": "Chaos & Fractals",
+      "title": "🌈 Identity Refraction Cores",
+      "emoji": "🌈",
+      "name": "Identity Refraction Cores",
+      "what_it_is": "Crystalline structures that split and reflect identity into multiple selves—each angle a unique but related version of the original.",
+      "how_to_use": [
+        "she looks into the core—twelve versions of her walk away",
+        "his identity diffracts—becoming roles he never chose"
+      ],
+      "good_for": [
+        "Multiversal splits",
+        "inner conflict rendering",
+        "personality shards"
+      ],
+      "visual_keywords": [
+        "Refraction prisms",
+        "self-mirrored paths",
+        "chromatic identity beams",
+        "split-light avatars"
+      ],
+      "animation_behavior": "Character duplicates into paths, identity shifts by viewing angle, mirrored motions stagger like light delay ---",
+      "id": "chaos_p29_01"
+    },
+    {
+      "phase": 29,
+      "domain": "Chaos & Fractals",
+      "title": "♻️ Entropy-Binding Coils",
+      "emoji": "♻️",
+      "name": "Entropy-Binding Coils",
+      "what_it_is": "Fractal coils or constructs that capture and stabilize chaos—binding entropy into usable energy or structure without collapse.",
+      "how_to_use": [
+        "her body is wrapped in entropy coils—they pulse to keep her stable",
+        "the shrine hums—chaos neatly coiled beneath the altar"
+      ],
+      "good_for": [
+        "Chaos control tech",
+        "sacred reactors",
+        "unstable god containment"
+      ],
+      "visual_keywords": [
+        "Fractal coils",
+        "entropy rings",
+        "glowing bind loops",
+        "order-stabilizing weaves"
+      ],
+      "animation_behavior": "Coils pulse to contain chaos bursts, fractal spins tighten when threat increases, visual oscillation syncs with entropy input ---",
+      "id": "chaos_p29_02"
+    },
+    {
+      "phase": 29,
+      "domain": "Chaos & Fractals",
+      "title": "🧱 Anti-Memory Architecture",
+      "emoji": "🧱",
+      "name": "Anti-Memory Architecture",
+      "what_it_is": "Structures designed to eliminate memory—buildings that induce forgetfulness, rooms that erase reason for entering.",
+      "how_to_use": [
+        "he lives in a forgetting house—each day he rediscovers his room",
+        "her footsteps echo in unremembered halls—intent wiped at the threshold"
+      ],
+      "good_for": [
+        "Mind-bending spaces",
+        "surreal horror",
+        "cognitive dissolution"
+      ],
+      "visual_keywords": [
+        "Blank doorways",
+        "shifting walls",
+        "memory-void light",
+        "unstable layout loops"
+      ],
+      "animation_behavior": "Paths reconfigure after use, rooms forget the viewer, visual context strips away on entry",
+      "id": "chaos_p29_03"
     }
   ]
 }

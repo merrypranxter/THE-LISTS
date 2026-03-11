@@ -1,0 +1,25 @@
+{
+  "phase": 27,
+  "domain": "Chaos & Fractals",
+  "title": "🔄 Inverse Ritual Fields",
+  "emoji": "🔄",
+  "name": "Inverse Ritual Fields",
+  "what_it_is": "Areas where rituals operate in reverse—where unmaking, forgetting, or *unspeaking* becomes the sacred act.",
+  "how_to_use": [
+    "she walks backward through the ritual path—each step unwrites the prayer",
+    "his offering was silence—the god answered with void"
+  ],
+  "good_for": [
+    "Reverse spells",
+    "silence cults",
+    "erasure magic"
+  ],
+  "visual_keywords": [
+    "Undoing circles",
+    "vanishing glyph altars",
+    "reverse-fire candles",
+    "inverted offerings"
+  ],
+  "animation_behavior": "Symbols collapse inward, sound reverses, offerings unburn, light flows backward into the wick ---",
+  "id": "chaos_p27_01"
+}

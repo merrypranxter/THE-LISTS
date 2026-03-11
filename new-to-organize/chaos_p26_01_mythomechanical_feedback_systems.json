@@ -1,0 +1,25 @@
+{
+  "phase": 26,
+  "domain": "Chaos & Fractals",
+  "title": "🛠 Mythomechanical Feedback Systems",
+  "emoji": "🛠",
+  "name": "Mythomechanical Feedback Systems",
+  "what_it_is": "Machines whose operation is tied to mythic resonance—ritual output feeds back into story input, cycling myth through mechanics.",
+  "how_to_use": [
+    "she powers the device by re-enacting the founding myth",
+    "the engine hums only when believed in—it feeds on ritual and story"
+  ],
+  "good_for": [
+    "Myth-tech hybrids",
+    "divine robotics",
+    "ritual-powered systems"
+  ],
+  "visual_keywords": [
+    "Totemic gears",
+    "story-conduction wires",
+    "myth-charged cores",
+    "ritual-circuit fusions"
+  ],
+  "animation_behavior": "Device reacts to story being told, components shift with narrative changes, feedback visuals ripple with symbolic charge ---",
+  "id": "chaos_p26_01"
+}

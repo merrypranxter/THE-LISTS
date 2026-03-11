@@ -1,0 +1,25 @@
+{
+  "phase": 28,
+  "domain": "Chaos & Fractals",
+  "title": "🧬 Parasite Sigils",
+  "emoji": "🧬",
+  "name": "Parasite Sigils",
+  "what_it_is": "Symbols that attach and feed on energy—parasitic glyphs that infect objects, thoughts, or people, slowly draining or altering meaning.",
+  "how_to_use": [
+    "she wears the sigil unknowingly—it feeds on attention, warping her words",
+    "he scratches at the glyph—each thought makes it grow stronger"
+  ],
+  "good_for": [
+    "Corrupted spellwork",
+    "cursed tattoos",
+    "viral language"
+  ],
+  "visual_keywords": [
+    "Feeding glyphs",
+    "leeching ink",
+    "pulsing symbol scars",
+    "sigil infestations"
+  ],
+  "animation_behavior": "Glyphs twitch with stimuli, grow when noticed, infect nearby elements, pulse in sync with host thought",
+  "id": "chaos_p28_03"
+}

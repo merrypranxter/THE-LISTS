@@ -1,190 +1,191 @@
 # 🧠 MATHFORM ARCHIVE – Chaos & Fractals Edition
-**Complete Collection** • Phases 30-33 • 16 Mathematical Concepts for Generative Art
+**Complete Collection** • Phases 26-29 • 16 Mathematical Concepts for Generative Art
 
 ## Domain Overview
-This archive explores recursive systems, fractal geometries, temporal paradoxes, and entropic myth structures. Each concept bridges mathematical chaos theory with symbolic visual language.
+This archive explores recursive identity systems, mythic machinery, symbolic leakage, and memory architecture. Each concept bridges mathematical chaos theory with psychological and symbolic visual language.
 
 **Key Themes:**
-- Mythic recursion & viral narratives
-- Temporal fragmentation & time cascades
-- Semantic density & symbolic gravity
-- Entropy, collapse & emergence
+- Identity bloom and refraction
+- Mythomechanical feedback systems
+- Sigil bleed and parasitic symbols
+- Memory implosion and anti-memory structures
+- Entropy binding and recursive shame
 
 ---
 
-## 🧬 Myth-as-Virus Lattices
-**Phase 30** • `chaos_p30_00`
+## 🌸 Identity Bloom Fractals
+**Phase 26** • `chaos_p26_00`
 
-Narrative constructs designed to spread like pathogens—infectious myth units that self-replicate in host minds and environments.
+Fractals that model identity as layered emergence—each iteration a self similar to but not identical with the last. The self blooms, spirals, mutates.
 
-**Usage:** `the myth infected her—she now dreams only in its structure / he spreads the tale unknowingly—it codes itself into all who listen`
+**Usage:** `her face blossoms across dimensions—each a petal of her greater identity fractal / his emotions grow in fractal rings, repeating in new context every time`
 
-**Keywords:** Narrative virus chains, myth spores, spreading glyph nets, infection runes
-
----
-
-## 🕳 Time Fracture Cascades
-**Phase 30** • `chaos_p30_01`
-
-Chronological ruptures that cascade through local time—one breach leads to fractal temporal splintering, layering cause and effect.
-
-**Usage:** `his timeline split—ten versions try to fix what he broke / she walks through yesterday's echo while tomorrow bleeds in`
-
-**Keywords:** Time rifts, recursive hourglass shards, layered clock halos, moment spirals
+**Keywords:** Fractal bloom, identity spirals, recursive self-flower, personality tessellations
 
 ---
 
-## 🪞 Soulstate Recursion Membranes
-**Phase 30** • `chaos_p30_02`
+## 🛠 Mythomechanical Feedback Systems
+**Phase 26** • `chaos_p26_01`
 
-Dimensional boundaries tuned to soul-state feedback—barriers that reflect only specific recursive identity patterns.
+Machines whose operation is tied to mythic resonance—ritual output feeds back into story input, cycling myth through mechanics.
 
-**Usage:** `the membrane rejected her—this version of self was out of tune / his soul split until one reflection passed through`
+**Usage:** `she powers the device by re-enacting the founding myth / the engine hums only when believed in—it feeds on ritual and story`
 
-**Keywords:** Recursive soul mirrors, harmonic membranes, feedback glyph glass, flickerbarrier veils
-
----
-
-## 🧠 Cognition-Splitting Shrines
-**Phase 30** • `chaos_p30_03`
-
-Sacred constructs that induce mind bifurcation—splitting consciousness into distinct layers, forcing inner dialogues to externalize.
-
-**Usage:** `she prays at the mindfork—her doubts take shape beside her / his shrine vision fractures—three selves argue the future`
-
-**Keywords:** Fractured mind altars, thoughtform projections, dialog temples, mind-duality architecture
+**Keywords:** Totemic gears, story-conduction wires, myth-charged cores, ritual-circuit fusions
 
 ---
 
-## 🔤 Divine Semantic Drift
-**Phase 31** • `chaos_p31_00`
+## 🌀 Anomalous Glyph Drift
+**Phase 26** • `chaos_p26_02`
 
-The process by which sacred words or glyphs mutate over time—shifting meaning until the original becomes unknowable, birthing new gods from misunderstood fragments.
+The phenomenon where glyphs escape their intended meaning and begin drifting—accumulating unintended symbolic charge or behaving like sentient signs.
 
-**Usage:** `his prayers no longer summon the god they once did—the words have drifted / she chants the drift-script—each syllable becomes another deity`
+**Usage:** `the glyphs have left the page—they orbit her, mutating beyond control / he chases the drift-signs, trying to trap the one that once meant home`
 
-**Keywords:** Glyph melt trails, unstable sigils, shifting tongues, sacred word erosion
-
----
-
-## 🔁 Recursive Truth Feedback
-**Phase 31** • `chaos_p31_01`
-
-A belief loop that reinforces itself so strongly it generates reality—truth birthed through recursive confirmation, immune to contradiction.
-
-**Usage:** `she believes it so hard, it becomes true—the feedback completes the loop / his story eats itself—truth born of telling, not fact`
-
-**Keywords:** Looped statements, recursive quote rings, affirmation spirals, belief halo glyphs
+**Keywords:** Free-floating symbols, glyph trails, migrating signs, rogue alphabet clusters
 
 ---
 
-## 👻 Chronoglyphic Hauntings
-**Phase 31** • `chaos_p31_02`
+## 🔁 Recursive Echo Shrines
+**Phase 26** • `chaos_p26_03`
 
-Hauntings encoded not in space but in time—ghosts embedded in the glyphs of a moment, bleeding through via temporal residue.
+Sacred sites that remember every visitor—each return causes the shrine to echo back earlier presences, forming layers of spiritual recursion.
 
-**Usage:** `she reads the glyph, and the ghost reads back / his calendar trembles—the date itself is haunted`
+**Usage:** `she sees herself kneeling there—again and again, across lives / his prayer is answered by versions of himself, echoing the same hope`
 
-**Keywords:** Date-bound ghosts, time-bled symbols, ink-spectral trails, event-linked apparitions
-
----
-
-## 🌩 Unspoken Logic Storms
-**Phase 31** • `chaos_p31_03`
-
-Cognitive-collapse weather—storms that erupt from violated logic, filling environments with paradox lightning and syntax fog.
-
-**Usage:** `he invoked a truth that couldn’t exist—the storm began / she walks through logicfog—nothing means anything the same way twice`
-
-**Keywords:** Logic lightning, semantic static, thought-tornadoes, contradictory clouds
+**Keywords:** Shrine echoes, spiritual recursion, ghost-trails of self, layered worship space
 
 ---
 
-## 🧲 Symbolic Gravitation Fields
-**Phase 32** • `chaos_p32_00`
+## 🩸 Sigil Bleed Phenomena
+**Phase 27** • `chaos_p27_00`
 
-Fields where symbols exert literal pull—high-meaning glyphs warp nearby forms, causing symbolic mass to condense into myth matter.
+The symbolic leakage of high-charge glyphs—sigils that begin to seep from their boundaries, leaking intent or meaning into surrounding space.
 
-**Usage:** `the ancient sigil pulled matter inward—it grew heavy with centuries of belief / she floats through meaning gravity—drawn toward myth centers`
+**Usage:** `her skin bore sigils that bled—intent dripping into the air like ink / his words triggered bleed—symbols spreading like contagion`
 
-**Keywords:** Mythic mass cores, glyph black holes, orbiting sigils, heavy aura fields
-
----
-
-## ♾ Recursive Empathy Spirals
-**Phase 32** • `chaos_p32_01`
-
-Emotional feedback systems where feeling begets deeper feeling—spirals of care, grief, love, or fear that fold into themselves infinitely.
-
-**Usage:** `her compassion spiraled—it became its own dimension / his grief loops endlessly—each layer feels the next more fully`
-
-**Keywords:** Spiral hearts, nested tears, care fractals, emotion echoes
+**Keywords:** Symbolic run-off, glowing ink bleed, aura glyph trails, meaning ooze
 
 ---
 
-## 🗜 Myth Compression Nodes
-**Phase 32** • `chaos_p32_02`
+## 🔄 Inverse Ritual Fields
+**Phase 27** • `chaos_p27_01`
 
-Dense symbolic points where entire narratives or archetypes are compressed into a single glyph or structure—overloaded with meaning.
+Areas where rituals operate in reverse—where unmaking, forgetting, or *unspeaking* becomes the sacred act.
 
-**Usage:** `he stares at the node—whole worlds locked in one sigil / her breath stutters near it—the myth density crushes language`
+**Usage:** `she walks backward through the ritual path—each step unwrites the prayer / his offering was silence—the god answered with void`
 
-**Keywords:** Myth knots, compressed glyphs, narrative spheres, condensed belief crystals
-
----
-
-## ✴ Entropy Temple Exfiltration Vectors
-**Phase 32** • `chaos_p32_03`
-
-Escape routes woven into collapsing sacred systems—paths that only appear when the structure is nearing failure, designed for final exit.
-
-**Usage:** `she runs the exfiltration path—doors only visible during collapse / he knows the way out—it sings to those ready to leave the myth`
-
-**Keywords:** Glitch altars, final lightways, fading shrine gates, exodus fractals
+**Keywords:** Undoing circles, vanishing glyph altars, reverse-fire candles, inverted offerings
 
 ---
 
-## 🌀 End-Myth Resonance Fields
-**Phase 33** • `chaos_p33_00`
+## 🌀 Hyper-Meaning Vortices
+**Phase 27** • `chaos_p27_02`
 
-Zones where all myth converges—where narrative endings vibrate in harmonic superposition, preparing symbolic systems for collapse or rebirth.
+Concentrated nexuses of excessive symbolic charge—so overloaded with potential meaning they become incomprehensible or dangerous.
 
-**Usage:** `the air hums with story-end frequency—every myth completes at once / he walks into the convergence—his role dissolves into resonance`
+**Usage:** `his mind brushed the vortex and came back mythic—but broken / she stood at the center where all metaphors meet—unable to move`
 
-**Keywords:** Myth collapse hum, resonance glow, narrative aura fields, harmonic endlight
-
----
-
-## 🪞 Ego Diffraction Fields
-**Phase 33** • `chaos_p33_01`
-
-Fractal-optic zones that split ego into multiple angular components—each facet acting independently, creating diffraction-induced identity fragments.
-
-**Usage:** `her ego hit the field—shattered into colors of self / he argues with himself—and all selves are present`
-
-**Keywords:** Prismatic egos, angular self-beams, fractured personality rays, internal conflict shards
+**Keywords:** Blinding sigil clusters, symbol overgrowth, glyph hurricane, meaning radiation
 
 ---
 
-## 🔊 Symbolic Waveform Bleed
-**Phase 33** • `chaos_p33_02`
+## 👻 Fractal Shame Ghosts
+**Phase 27** • `chaos_p27_03`
 
-A phenomena where pure symbolic energy leaks from the structure of language or meaning—spilling into visuals, sound, or sensation without needing a carrier form.
+Recursive emotional residues—ghosts generated from moments of personal failure or guilt, repeating and multiplying in fractal feedback.
 
-**Usage:** `the symbol bled—color, emotion, sound erupted with no word needed / meaning poured from her—no vessel, just resonance`
+**Usage:** `each time he regrets, a new ghost spawns—until they fill the house / she’s haunted by self—past iterations layered in loops of shame`
 
-**Keywords:** Freeform glyphlight, waveform glows, untethered sigil radiation, bleeding archetypes
+**Keywords:** Shadow reflections, glitch-echo figures, layered regrets, looping spirit trail
 
 ---
 
-## 🚫 Final Loop Destabilizers
-**Phase 33** • `chaos_p33_03`
+## 📡 Mythospheric Interference Waves
+**Phase 28** • `chaos_p28_00`
 
-Mechanisms, figures, or actions that break infinite mythic loops—glitches, shocks, or emotional thresholds that shatter recursive repetition.
+Invisible psychic broadcast fields that carry mythic resonance—when overlapped or out of phase, they cause interference in symbolic or narrative clarity.
 
-**Usage:** `she says the unsayable—the loop collapses / his love doesn’t fit the script—it breaks the recursion`
+**Usage:** `he enters an interference zone—myth overlaps with myth, reality flickers / her aura scrambles nearby stories—their archetypes tangle in distortion`
 
-**Keywords:** Loop tears, broken recursion halos, glitch bloom events, ending vectors
+**Keywords:** Signal static veils, story feedback lines, archetype glitch storms, resonance shimmer
+
+---
+
+## 🗂 Divine Recursion Indexers
+**Phase 28** • `chaos_p28_01`
+
+Entities or constructs that track recursive myth cycles—indexing lifetimes, timelines, or deity loops across fractal causality.
+
+**Usage:** `the indexer flips her soul open like a folder—cataloging each version of herself / he is the librarian of all recursions—every god-loop filed by glyph and grief`
+
+**Keywords:** Infinity scroll archives, fractal record tablets, recursive library nodes, symbol-linked memory files
+
+---
+
+## 📐 Intentionality Geometry
+**Phase 28** • `chaos_p28_02`
+
+Geometries shaped entirely by will—structures that respond to intent alone, forming or distorting in response to unspoken desire.
+
+**Usage:** `his thoughts realign the temple—geometry folds into longing / she breathes calm and the walls stabilize—the triangle accepts peace`
+
+**Keywords:** Will-folded planes, intent-tuned angles, breathing geometry, soul-shaped rooms
+
+---
+
+## 🧬 Parasite Sigils
+**Phase 28** • `chaos_p28_03`
+
+Symbols that attach and feed on energy—parasitic glyphs that infect objects, thoughts, or people, slowly draining or altering meaning.
+
+**Usage:** `she wears the sigil unknowingly—it feeds on attention, warping her words / he scratches at the glyph—each thought makes it grow stronger`
+
+**Keywords:** Feeding glyphs, leeching ink, pulsing symbol scars, sigil infestations
+
+---
+
+## 🧠 Mnemonic Implosion Fields
+**Phase 29** • `chaos_p29_00`
+
+Zones where memory cannot survive—cognitive black holes that implode recollection, rendering events unknowable once entered.
+
+**Usage:** `she steps into the implosion field—her name unravels inside her / they speak around it—the thing no one remembers doing`
+
+**Keywords:** Memory fog, recall collapse, no-thought voids, black light silence
+
+---
+
+## 🌈 Identity Refraction Cores
+**Phase 29** • `chaos_p29_01`
+
+Crystalline structures that split and reflect identity into multiple selves—each angle a unique but related version of the original.
+
+**Usage:** `she looks into the core—twelve versions of her walk away / his identity diffracts—becoming roles he never chose`
+
+**Keywords:** Refraction prisms, self-mirrored paths, chromatic identity beams, split-light avatars
+
+---
+
+## ♻️ Entropy-Binding Coils
+**Phase 29** • `chaos_p29_02`
+
+Fractal coils or constructs that capture and stabilize chaos—binding entropy into usable energy or structure without collapse.
+
+**Usage:** `her body is wrapped in entropy coils—they pulse to keep her stable / the shrine hums—chaos neatly coiled beneath the altar`
+
+**Keywords:** Fractal coils, entropy rings, glowing bind loops, order-stabilizing weaves
+
+---
+
+## 🧱 Anti-Memory Architecture
+**Phase 29** • `chaos_p29_03`
+
+Structures designed to eliminate memory—buildings that induce forgetfulness, rooms that erase reason for entering.
+
+**Usage:** `he lives in a forgetting house—each day he rediscovers his room / her footsteps echo in unremembered halls—intent wiped at the threshold`
+
+**Keywords:** Blank doorways, shifting walls, memory-void light, unstable layout loops
 
 ---
 

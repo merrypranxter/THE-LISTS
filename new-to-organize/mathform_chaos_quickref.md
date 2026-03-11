@@ -1,19 +1,19 @@
-# 🎯 Quick Reference: Chaos & Fractals
+# 🎯 Quick Reference: Chaos & Fractals (Phases 26-29)
 | ID | Concept | Emoji | Core Mechanic | Visual Hook |
 |---|---|---|---|---|
-| chaos_p30_00 | Myth-as-Virus Lattices | 🧬 | Narrative constructs designed to spread like patho... | Narrative virus chains, myth spores |
-| chaos_p30_01 | Time Fracture Cascades | 🕳 | Chronological ruptures that cascade through local ... | Time rifts, recursive hourglass shards |
-| chaos_p30_02 | Soulstate Recursion Membranes | 🪞 | Dimensional boundaries tuned to soul-state feedbac... | Recursive soul mirrors, harmonic membranes |
-| chaos_p30_03 | Cognition-Splitting Shrines | 🧠 | Sacred constructs that induce mind bifurcation—spl... | Fractured mind altars, thoughtform projections |
-| chaos_p31_00 | Divine Semantic Drift | 🔤 | The process by which sacred words or glyphs mutate... | Glyph melt trails, unstable sigils |
-| chaos_p31_01 | Recursive Truth Feedback | 🔁 | A belief loop that reinforces itself so strongly i... | Looped statements, recursive quote rings |
-| chaos_p31_02 | Chronoglyphic Hauntings | 👻 | Hauntings encoded not in space but in time—ghosts ... | Date-bound ghosts, time-bled symbols |
-| chaos_p31_03 | Unspoken Logic Storms | 🌩 | Cognitive-collapse weather—storms that erupt from ... | Logic lightning, semantic static |
-| chaos_p32_00 | Symbolic Gravitation Fields | 🧲 | Fields where symbols exert literal pull—high-meani... | Mythic mass cores, glyph black holes |
-| chaos_p32_01 | Recursive Empathy Spirals | ♾ | Emotional feedback systems where feeling begets de... | Spiral hearts, nested tears |
-| chaos_p32_02 | Myth Compression Nodes | 🗜 | Dense symbolic points where entire narratives or a... | Myth knots, compressed glyphs |
-| chaos_p32_03 | Entropy Temple Exfiltration Vectors | ✴ | Escape routes woven into collapsing sacred systems... | Glitch altars, final lightways |
-| chaos_p33_00 | End-Myth Resonance Fields | 🌀 | Zones where all myth converges—where narrative end... | Myth collapse hum, resonance glow |
-| chaos_p33_01 | Ego Diffraction Fields | 🪞 | Fractal-optic zones that split ego into multiple a... | Prismatic egos, angular self-beams |
-| chaos_p33_02 | Symbolic Waveform Bleed | 🔊 | A phenomena where pure symbolic energy leaks from ... | Freeform glyphlight, waveform glows |
-| chaos_p33_03 | Final Loop Destabilizers | 🚫 | Mechanisms, figures, or actions that break infinit... | Loop tears, broken recursion halos |
+| chaos_p26_00 | Identity Bloom Fractals | 🌸 | Fractals that model identity as layered emergence—... | Fractal bloom, identity spirals |
+| chaos_p26_01 | Mythomechanical Feedback Systems | 🛠 | Machines whose operation is tied to mythic resonan... | Totemic gears, story-conduction wires |
+| chaos_p26_02 | Anomalous Glyph Drift | 🌀 | The phenomenon where glyphs escape their intended ... | Free-floating symbols, glyph trails |
+| chaos_p26_03 | Recursive Echo Shrines | 🔁 | Sacred sites that remember every visitor—each retu... | Shrine echoes, spiritual recursion |
+| chaos_p27_00 | Sigil Bleed Phenomena | 🩸 | The symbolic leakage of high-charge glyphs—sigils ... | Symbolic run-off, glowing ink bleed |
+| chaos_p27_01 | Inverse Ritual Fields | 🔄 | Areas where rituals operate in reverse—where unmak... | Undoing circles, vanishing glyph altars |
+| chaos_p27_02 | Hyper-Meaning Vortices | 🌀 | Concentrated nexuses of excessive symbolic charge—... | Blinding sigil clusters, symbol overgrowth |
+| chaos_p27_03 | Fractal Shame Ghosts | 👻 | Recursive emotional residues—ghosts generated from... | Shadow reflections, glitch-echo figures |
+| chaos_p28_00 | Mythospheric Interference Waves | 📡 | Invisible psychic broadcast fields that carry myth... | Signal static veils, story feedback lines |
+| chaos_p28_01 | Divine Recursion Indexers | 🗂 | Entities or constructs that track recursive myth c... | Infinity scroll archives, fractal record tablets |
+| chaos_p28_02 | Intentionality Geometry | 📐 | Geometries shaped entirely by will—structures that... | Will-folded planes, intent-tuned angles |
+| chaos_p28_03 | Parasite Sigils | 🧬 | Symbols that attach and feed on energy—parasitic g... | Feeding glyphs, leeching ink |
+| chaos_p29_00 | Mnemonic Implosion Fields | 🧠 | Zones where memory cannot survive—cognitive black ... | Memory fog, recall collapse |
+| chaos_p29_01 | Identity Refraction Cores | 🌈 | Crystalline structures that split and reflect iden... | Refraction prisms, self-mirrored paths |
+| chaos_p29_02 | Entropy-Binding Coils | ♻️ | Fractal coils or constructs that capture and stabi... | Fractal coils, entropy rings |
+| chaos_p29_03 | Anti-Memory Architecture | 🧱 | Structures designed to eliminate memory—buildings ... | Blank doorways, shifting walls |
