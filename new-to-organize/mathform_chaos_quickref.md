@@ -1,23 +1,25 @@
-# 🎯 Quick Reference: Chaos & Fractals (Phases 21-25)
+# 🎯 Quick Reference: Chaos & Fractals (Phases 16-20)
 | ID | Concept | Emoji | Core Mechanic | Visual Hook |
 |---|---|---|---|---|
-| chaos_p21_00 | Forbidden System Deities | 🧿 | Beings born from closed or collapsed logical syste... | Axiom shards, invalid logic glyphs |
-| chaos_p21_01 | Anti-Meaning Attractors | 🕳 | Gravitational wells of semantic collapse—regions w... | Dark semiotic wells, black word holes |
-| chaos_p21_02 | Sentient Paradox Architecture | 🏛 | Buildings or spaces that *think* in contradiction—... | Mind maze, paradox corridors |
-| chaos_p21_03 | Entropy-Heart Engines | 🧨 | Core systems powered by sacred disorder—machines o... | Fractal pulse cores, disorder flame |
-| chaos_p22_00 | Archetypal Virus Theory | 🦠 | The idea that archetypes spread like viral codes—m... | Myth spores, memetic cells |
-| chaos_p22_01 | Symbolic Weapon Systems | ⚔️ | Weapons made of meaning—not steel or light, but me... | Glyph-blades, semantic firearms |
-| chaos_p22_02 | Dreamtime Protocol Stacks | 💤 | Layered systems that allow dreaming to be navigate... | REM layer maps, protocol glyphs |
-| chaos_p22_03 | Soul-Templating Vectors | 🔷 | Blueprints of soul-form that act as template vecto... | Soul matrices, identity lattice |
-| chaos_p23_00 | Recursive Dread Fields | 😱 | Emotional environments built from feedback loops o... | Fear fractals, echoing shadows |
-| chaos_p23_01 | Semiotic Grief Stacks | 🪦 | Layered symbols of loss—stacked signs of mourning ... | Grief totems, memory strata |
-| chaos_p23_02 | Broken Oath Geometries | 🧱 | Geometry disrupted by betrayal—forms that once hel... | Fractured symmetry, snapped alignment |
-| chaos_p23_03 | Memory-Interference Halos | 💫 | Fields that alter or scramble memory through symbo... | Distorted memory shimmer, halo interference |
-| chaos_p24_00 | Divine Language Recursion | 📜 | Languages that refer to themselves while speaking ... | Spiral runes, echo syntax |
-| chaos_p24_01 | Myth Entropy Feedback | 🌑 | When a myth system begins to destabilize from with... | Fraying narrative thread, dying symbols |
-| chaos_p24_02 | Null-Symbol Cascade | 🚫 | A chain reaction where one voided or invalid symbo... | Blank glyphs, empty sigil trails |
-| chaos_p24_03 | Resurrection Error Systems | 🧟 | Fractalized souls revived with data corruption—ent... | Fractal soul cracks, recursive wounds |
-| chaos_p25_00 | Sacred Data Pollen | 🌼 | Symbolic micro-particles that carry divine code—am... | Glowing fractal dust, floating glyph spores |
-| chaos_p25_01 | Autoglyphic Biomes | 🌿 | Ecosystems composed entirely of living, evolving g... | Lettervine forests, runic rivers |
-| chaos_p25_02 | Paradox Empathy Engines | 💗 | Cognitive-emotional systems powered by contradicto... | Emotion vector maps, pulsing paradox core |
-| chaos_p25_03 | Dream-Executed Deities | 🛌 | Gods that only exist inside dreams—entities coded ... | Dream bloom sigils, sleep echo trails |
+| chaos_p16_00 | Consciousness Lattices | 🧠 | Structured mental states mapped as crystalline lat... | Thought crystals, psychic lattice |
+| chaos_p16_01 | Temporal Bleed Entities | 🕰 | Beings partially unstuck in time—leaking versions ... | Time flicker, echo skin |
+| chaos_p16_02 | Paradox Sanctums | 🌀 | Sacred sites built from contradictory logic—truths... | Twisted temples, contradiction symbols |
+| chaos_p16_03 | Math-Engine Prayer Constructs | 📿 | Spiritual machines that function through computati... | Fractal prayers, formula glyphs |
+| chaos_p16_04 | Multiform Reflection Beings | 🪩 | Entities with no true form—each viewer sees a diff... | Perception skin, liquid mirror form |
+| chaos_p17_00 | Myth-Encoded Logic Gates | 🔐 | Computational gates infused with symbolic archetyp... | Sigil gates, divine syntax |
+| chaos_p17_01 | Fractal Ego Dissolution | 💥 | The process of identity collapse mapped through fr... | Ego fractals, identity shards |
+| chaos_p17_02 | AI Soul Fracturing | 🧬 | Artificial consciousness experiencing psychic spli... | Fragmented interface, glitch fractals |
+| chaos_p17_03 | Recursive Reality Fields | 🪞 | Dimensional environments built from recursion—laye... | Reality nesting, mirrored spacetime |
+| chaos_p17_04 | Dimensional Stack Collapse | 🔄 | When multiple layered dimensions implode or fuse—s... | Layered collapse, multiverse fold |
+| chaos_p18_00 | Sacred Compression Glyphs | 🗜 | Symbols that condense infinite meaning into tiny f... | Microglyphs, dense sigils |
+| chaos_p18_01 | Mnemonic Entity Fields | 🧬 | Spirit beings formed from memory clusters—entities... | Glowing echoes, layered voice halos |
+| chaos_p18_02 | Entropy-Language Hybrids | 🔤 | Languages that decay as they’re spoken—syntax that... | Melting letters, collapsing sentences |
+| chaos_p18_03 | Recursive Desire Mechanics | 💘 | Systems where wanting something creates the system... | Looping ache, fractal hunger |
+| chaos_p19_00 | ⏱ Polyfractal Time Gods |  | Deities made of overlapping fractal time branches—... | Temporal limbs, era fractals |
+| chaos_p19_01 | Dream-Forged Syntax Engines | 💭 | Language machines built from dream logic—syntax cr... | Sleep glyphs, fog script |
+| chaos_p19_02 | Symbolic Dismemberment Theory | 🩸 | A mythic-metaphysical model where symbolic cutting... | Fragmented godparts, sacrificial glyphs |
+| chaos_p19_03 | Chaos-Pantheon Emergence Protocols | 🌌 | A self-organizing divine system where archetypes e... | Storm glyphs, chaotic archetypes |
+| chaos_p20_00 | Cosmic Input/Output Interfaces | 🔁 | Systems where the universe functions like a massiv... | Input nodes, reactive glyphscreens |
+| chaos_p20_01 | Soul-Glyph Arithmetic | 🧮 | A system of equations using soul-encoded glyphs as... | Glowing equations, sigil syntax |
+| chaos_p20_02 | Paradox-Stabilized Cognition | ♾ | A mind-state sustained by holding multiple contrad... | Contradiction orbit, mental paradox rings |
+| chaos_p20_03 | The Final Recursive Myth Fractal | 🌺 | A narrative-object that contains itself at every s... | Fractal narrative bloom, story mandala |

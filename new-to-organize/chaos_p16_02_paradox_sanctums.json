@@ -1,0 +1,25 @@
+{
+  "phase": 16,
+  "domain": "Chaos & Fractals",
+  "title": "🌀 Paradox Sanctums",
+  "emoji": "🌀",
+  "name": "Paradox Sanctums",
+  "what_it_is": "Sacred sites built from contradictory logic—truths that loop into paradox, temples of impossible structure.",
+  "how_to_use": [
+    "she prays in a paradox sanctum—where no direction leads somewhere, and all answers contradict",
+    "his shrine is a knot of truth and lie—logic folds in recursive reverence"
+  ],
+  "good_for": [
+    "Mythic temples",
+    "logic-beings",
+    "paradox rituals"
+  ],
+  "visual_keywords": [
+    "Twisted temples",
+    "contradiction symbols",
+    "mirrored lies",
+    "sacred loops"
+  ],
+  "animation_behavior": "Steps lead nowhere, symbols spin in meaning paradox, voice loops back as reversed chant ---",
+  "id": "chaos_p16_02"
+}
